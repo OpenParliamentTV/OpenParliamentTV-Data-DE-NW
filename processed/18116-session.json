@@ -1,0 +1,5062 @@
+{
+  "meta": {
+    "schemaVersion": "1.0",
+    "parliament": "DE-NW",
+    "electoralPeriod": {
+      "number": 18
+    },
+    "session": "18116",
+    "dateStart": "2026-01-29T10:00:00+02:00",
+    "dateEnd": "2026-01-29T16:54:49+02:00",
+    "sourceURI": "https://www.landtag.nrw.de/home/mediathek/video.html?kid=481b564b-5fa4-4a79-a3fb-02c67b34e976",
+    "processing": {
+      "parse_media": "2026-06-02T10:20:18",
+      "merge": "2026-06-02T10:20:19",
+      "nel": "2026-06-02T10:20:19"
+    },
+    "lastUpdate": "2026-06-02T10:20:19"
+  },
+  "data": [
+    {
+      "parliament": "DE-NW",
+      "electoralPeriod": {
+        "number": 18
+      },
+      "session": {
+        "number": 116,
+        "dateStart": "2026-01-29T10:00:00+02:00",
+        "dateEnd": "2026-01-29T16:54:49+02:00"
+      },
+      "dateStart": "2026-01-29T10:00:00+02:00",
+      "dateEnd": "2026-01-29T10:01:28+02:00",
+      "speechIndex": 1,
+      "originID": "18116-15821",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "Sitzungseröffnung Präsident André Kuper",
+        "title": "Sitzungseröffnung Präsident André Kuper",
+        "id": "sitzungser-ffnung-pr-sident-andr-kuper",
+        "nativeType": "DE-NW-opening",
+        "type": "opening"
+      },
+      "people": [
+        {
+          "label": "André Kuper",
+          "context": "president",
+          "firstname": "André",
+          "lastname": "Kuper",
+          "role": "Präsident",
+          "originPersonID": "18PC1",
+          "wid": "Q520320",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://www.landtag.nrw.de/videos/481b564b-5fa4-4a79-a3fb-02c67b34e976/playlist.m3u8#t=0,88",
+        "sourcePage": "https://www.landtag.nrw.de/home/mediathek/video.html?kid=481b564b-5fa4-4a79-a3fb-02c67b34e976&top-redner-id=15821",
+        "creator": "Landtag Nordrhein-Westfalen",
+        "license": "Landtag Nordrhein-Westfalen – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; Quellenangabe \"Landtag Nordrhein-Westfalen\". https://www.landtag.nrw.de/home/footer/impressum.html",
+        "originMediaID": "15821",
+        "additionalInformation": {
+          "startOffset": 0.0,
+          "endOffset": 88.0
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-video-page",
+        "kid": "481b564b-5fa4-4a79-a3fb-02c67b34e976",
+        "topRednerID": "15821",
+        "topNumber": "",
+        "mdlId": "",
+        "funktionId": "18PC1",
+        "rednerRaw": "André Kuper",
+        "fraktionRaw": "",
+        "funktionRaw": "Präsident",
+        "startOffset": 0,
+        "endOffset": 88,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NW",
+      "electoralPeriod": {
+        "number": 18
+      },
+      "session": {
+        "number": 116,
+        "dateStart": "2026-01-29T10:00:00+02:00",
+        "dateEnd": "2026-01-29T16:54:49+02:00"
+      },
+      "dateStart": "2026-01-29T10:01:28+02:00",
+      "dateEnd": "2026-01-29T10:09:14+02:00",
+      "speechIndex": 2,
+      "originID": "18116-15823",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 1: Eine bessere Pflege für NRW: mehr Fürsorge, weniger Aufwand und Bürokratie – Pflegelotsen, Investitionen und Entlastung für Angehörige!",
+        "title": "Eine bessere Pflege für NRW: mehr Fürsorge, weniger Aufwand und Bürokratie – Pflegelotsen, Investitionen und Entlastung für Angehörige!",
+        "id": "TOP-1",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Thorsten Klute",
+          "context": "main-speaker",
+          "firstname": "Thorsten",
+          "lastname": "Klute",
+          "originPersonID": "01836",
+          "faction": {
+            "label": "SPD",
+            "wid": "Q49768"
+          }
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://www.landtag.nrw.de/videos/481b564b-5fa4-4a79-a3fb-02c67b34e976/playlist.m3u8#t=88,554",
+        "sourcePage": "https://www.landtag.nrw.de/home/mediathek/video.html?kid=481b564b-5fa4-4a79-a3fb-02c67b34e976&top-redner-id=15823",
+        "creator": "Landtag Nordrhein-Westfalen",
+        "license": "Landtag Nordrhein-Westfalen – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; Quellenangabe \"Landtag Nordrhein-Westfalen\". https://www.landtag.nrw.de/home/footer/impressum.html",
+        "originMediaID": "15823",
+        "additionalInformation": {
+          "startOffset": 88.0,
+          "endOffset": 554.0
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-video-page",
+        "kid": "481b564b-5fa4-4a79-a3fb-02c67b34e976",
+        "topRednerID": "15823",
+        "topNumber": "1",
+        "mdlId": "01836",
+        "funktionId": "",
+        "rednerRaw": "Thorsten Klute",
+        "fraktionRaw": "SPD",
+        "funktionRaw": "",
+        "startOffset": 88,
+        "endOffset": 554,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NW",
+      "electoralPeriod": {
+        "number": 18
+      },
+      "session": {
+        "number": 116,
+        "dateStart": "2026-01-29T10:00:00+02:00",
+        "dateEnd": "2026-01-29T16:54:49+02:00"
+      },
+      "dateStart": "2026-01-29T10:09:14+02:00",
+      "dateEnd": "2026-01-29T10:15:29+02:00",
+      "speechIndex": 3,
+      "originID": "18116-15824",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 1: Eine bessere Pflege für NRW: mehr Fürsorge, weniger Aufwand und Bürokratie – Pflegelotsen, Investitionen und Entlastung für Angehörige!",
+        "title": "Eine bessere Pflege für NRW: mehr Fürsorge, weniger Aufwand und Bürokratie – Pflegelotsen, Investitionen und Entlastung für Angehörige!",
+        "id": "TOP-1",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Britta Oellers",
+          "context": "main-speaker",
+          "firstname": "Britta",
+          "lastname": "Oellers",
+          "originPersonID": "01752",
+          "faction": {
+            "label": "CDU",
+            "wid": "Q49762"
+          },
+          "wid": "Q30147052",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://www.landtag.nrw.de/videos/481b564b-5fa4-4a79-a3fb-02c67b34e976/playlist.m3u8#t=554,929",
+        "sourcePage": "https://www.landtag.nrw.de/home/mediathek/video.html?kid=481b564b-5fa4-4a79-a3fb-02c67b34e976&top-redner-id=15824",
+        "creator": "Landtag Nordrhein-Westfalen",
+        "license": "Landtag Nordrhein-Westfalen – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; Quellenangabe \"Landtag Nordrhein-Westfalen\". https://www.landtag.nrw.de/home/footer/impressum.html",
+        "originMediaID": "15824",
+        "additionalInformation": {
+          "startOffset": 554.0,
+          "endOffset": 929.0
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-video-page",
+        "kid": "481b564b-5fa4-4a79-a3fb-02c67b34e976",
+        "topRednerID": "15824",
+        "topNumber": "1",
+        "mdlId": "01752",
+        "funktionId": "",
+        "rednerRaw": "Britta Oellers",
+        "fraktionRaw": "CDU",
+        "funktionRaw": "",
+        "startOffset": 554,
+        "endOffset": 929,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NW",
+      "electoralPeriod": {
+        "number": 18
+      },
+      "session": {
+        "number": 116,
+        "dateStart": "2026-01-29T10:00:00+02:00",
+        "dateEnd": "2026-01-29T16:54:49+02:00"
+      },
+      "dateStart": "2026-01-29T10:15:29+02:00",
+      "dateEnd": "2026-01-29T10:22:44+02:00",
+      "speechIndex": 4,
+      "originID": "18116-15825",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 1: Eine bessere Pflege für NRW: mehr Fürsorge, weniger Aufwand und Bürokratie – Pflegelotsen, Investitionen und Entlastung für Angehörige!",
+        "title": "Eine bessere Pflege für NRW: mehr Fürsorge, weniger Aufwand und Bürokratie – Pflegelotsen, Investitionen und Entlastung für Angehörige!",
+        "id": "TOP-1",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Mehrdad Mostofizadeh",
+          "context": "main-speaker",
+          "firstname": "Mehrdad",
+          "lastname": "Mostofizadeh",
+          "originPersonID": "01579",
+          "faction": {
+            "label": "Bündnis 90/Die Grünen",
+            "wid": "Q49766"
+          },
+          "wid": "Q1917412",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://www.landtag.nrw.de/videos/481b564b-5fa4-4a79-a3fb-02c67b34e976/playlist.m3u8#t=929,1364",
+        "sourcePage": "https://www.landtag.nrw.de/home/mediathek/video.html?kid=481b564b-5fa4-4a79-a3fb-02c67b34e976&top-redner-id=15825",
+        "creator": "Landtag Nordrhein-Westfalen",
+        "license": "Landtag Nordrhein-Westfalen – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; Quellenangabe \"Landtag Nordrhein-Westfalen\". https://www.landtag.nrw.de/home/footer/impressum.html",
+        "originMediaID": "15825",
+        "additionalInformation": {
+          "startOffset": 929.0,
+          "endOffset": 1364.0
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-video-page",
+        "kid": "481b564b-5fa4-4a79-a3fb-02c67b34e976",
+        "topRednerID": "15825",
+        "topNumber": "1",
+        "mdlId": "01579",
+        "funktionId": "",
+        "rednerRaw": "Mehrdad Mostofizadeh",
+        "fraktionRaw": "Bündnis 90/Die Grünen",
+        "funktionRaw": "",
+        "startOffset": 929,
+        "endOffset": 1364,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NW",
+      "electoralPeriod": {
+        "number": 18
+      },
+      "session": {
+        "number": 116,
+        "dateStart": "2026-01-29T10:00:00+02:00",
+        "dateEnd": "2026-01-29T16:54:49+02:00"
+      },
+      "dateStart": "2026-01-29T10:22:44+02:00",
+      "dateEnd": "2026-01-29T10:30:33+02:00",
+      "speechIndex": 5,
+      "originID": "18116-15826",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 1: Eine bessere Pflege für NRW: mehr Fürsorge, weniger Aufwand und Bürokratie – Pflegelotsen, Investitionen und Entlastung für Angehörige!",
+        "title": "Eine bessere Pflege für NRW: mehr Fürsorge, weniger Aufwand und Bürokratie – Pflegelotsen, Investitionen und Entlastung für Angehörige!",
+        "id": "TOP-1",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Thomas Nückel",
+          "context": "main-speaker",
+          "firstname": "Thomas",
+          "lastname": "Nückel",
+          "originPersonID": "01660",
+          "faction": {
+            "label": "FDP",
+            "wid": "Q13124"
+          },
+          "wid": "Q2426353",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://www.landtag.nrw.de/videos/481b564b-5fa4-4a79-a3fb-02c67b34e976/playlist.m3u8#t=1364,1833",
+        "sourcePage": "https://www.landtag.nrw.de/home/mediathek/video.html?kid=481b564b-5fa4-4a79-a3fb-02c67b34e976&top-redner-id=15826",
+        "creator": "Landtag Nordrhein-Westfalen",
+        "license": "Landtag Nordrhein-Westfalen – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; Quellenangabe \"Landtag Nordrhein-Westfalen\". https://www.landtag.nrw.de/home/footer/impressum.html",
+        "originMediaID": "15826",
+        "additionalInformation": {
+          "startOffset": 1364.0,
+          "endOffset": 1833.0
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-video-page",
+        "kid": "481b564b-5fa4-4a79-a3fb-02c67b34e976",
+        "topRednerID": "15826",
+        "topNumber": "1",
+        "mdlId": "01660",
+        "funktionId": "",
+        "rednerRaw": "Thomas Nückel",
+        "fraktionRaw": "FDP",
+        "funktionRaw": "",
+        "startOffset": 1364,
+        "endOffset": 1833,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NW",
+      "electoralPeriod": {
+        "number": 18
+      },
+      "session": {
+        "number": 116,
+        "dateStart": "2026-01-29T10:00:00+02:00",
+        "dateEnd": "2026-01-29T16:54:49+02:00"
+      },
+      "dateStart": "2026-01-29T10:30:33+02:00",
+      "dateEnd": "2026-01-29T10:37:50+02:00",
+      "speechIndex": 6,
+      "originID": "18116-15827",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 1: Eine bessere Pflege für NRW: mehr Fürsorge, weniger Aufwand und Bürokratie – Pflegelotsen, Investitionen und Entlastung für Angehörige!",
+        "title": "Eine bessere Pflege für NRW: mehr Fürsorge, weniger Aufwand und Bürokratie – Pflegelotsen, Investitionen und Entlastung für Angehörige!",
+        "id": "TOP-1",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Martin Vincentz",
+          "context": "main-speaker",
+          "firstname": "Martin",
+          "lastname": "Vincentz",
+          "originPersonID": "01780",
+          "faction": {
+            "label": "AfD",
+            "wid": "Q6721203"
+          },
+          "wid": "Q29959870",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://www.landtag.nrw.de/videos/481b564b-5fa4-4a79-a3fb-02c67b34e976/playlist.m3u8#t=1833,2270",
+        "sourcePage": "https://www.landtag.nrw.de/home/mediathek/video.html?kid=481b564b-5fa4-4a79-a3fb-02c67b34e976&top-redner-id=15827",
+        "creator": "Landtag Nordrhein-Westfalen",
+        "license": "Landtag Nordrhein-Westfalen – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; Quellenangabe \"Landtag Nordrhein-Westfalen\". https://www.landtag.nrw.de/home/footer/impressum.html",
+        "originMediaID": "15827",
+        "additionalInformation": {
+          "startOffset": 1833.0,
+          "endOffset": 2270.0
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-video-page",
+        "kid": "481b564b-5fa4-4a79-a3fb-02c67b34e976",
+        "topRednerID": "15827",
+        "topNumber": "1",
+        "mdlId": "01780",
+        "funktionId": "",
+        "rednerRaw": "Dr. Martin Vincentz",
+        "fraktionRaw": "AfD",
+        "funktionRaw": "",
+        "startOffset": 1833,
+        "endOffset": 2270,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NW",
+      "electoralPeriod": {
+        "number": 18
+      },
+      "session": {
+        "number": 116,
+        "dateStart": "2026-01-29T10:00:00+02:00",
+        "dateEnd": "2026-01-29T16:54:49+02:00"
+      },
+      "dateStart": "2026-01-29T10:37:50+02:00",
+      "dateEnd": "2026-01-29T10:53:08+02:00",
+      "speechIndex": 7,
+      "originID": "18116-15828",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 1: Eine bessere Pflege für NRW: mehr Fürsorge, weniger Aufwand und Bürokratie – Pflegelotsen, Investitionen und Entlastung für Angehörige!",
+        "title": "Eine bessere Pflege für NRW: mehr Fürsorge, weniger Aufwand und Bürokratie – Pflegelotsen, Investitionen und Entlastung für Angehörige!",
+        "id": "TOP-1",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Karl-Josef Laumann",
+          "context": "main-speaker",
+          "firstname": "Karl-Josef",
+          "lastname": "Laumann",
+          "role": "Minister",
+          "originPersonID": "01526",
+          "faction": {
+            "label": "CDU",
+            "wid": "Q49762"
+          },
+          "wid": "Q87352",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://www.landtag.nrw.de/videos/481b564b-5fa4-4a79-a3fb-02c67b34e976/playlist.m3u8#t=2270,3188",
+        "sourcePage": "https://www.landtag.nrw.de/home/mediathek/video.html?kid=481b564b-5fa4-4a79-a3fb-02c67b34e976&top-redner-id=15828",
+        "creator": "Landtag Nordrhein-Westfalen",
+        "license": "Landtag Nordrhein-Westfalen – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; Quellenangabe \"Landtag Nordrhein-Westfalen\". https://www.landtag.nrw.de/home/footer/impressum.html",
+        "originMediaID": "15828",
+        "additionalInformation": {
+          "startOffset": 2270.0,
+          "endOffset": 3188.0
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-video-page",
+        "kid": "481b564b-5fa4-4a79-a3fb-02c67b34e976",
+        "topRednerID": "15828",
+        "topNumber": "1",
+        "mdlId": "01526",
+        "funktionId": "",
+        "rednerRaw": "Karl-Josef Laumann",
+        "fraktionRaw": "CDU",
+        "funktionRaw": "Minister",
+        "startOffset": 2270,
+        "endOffset": 3188,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NW",
+      "electoralPeriod": {
+        "number": 18
+      },
+      "session": {
+        "number": 116,
+        "dateStart": "2026-01-29T10:00:00+02:00",
+        "dateEnd": "2026-01-29T16:54:49+02:00"
+      },
+      "dateStart": "2026-01-29T10:53:08+02:00",
+      "dateEnd": "2026-01-29T10:59:53+02:00",
+      "speechIndex": 8,
+      "originID": "18116-15829",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 1: Eine bessere Pflege für NRW: mehr Fürsorge, weniger Aufwand und Bürokratie – Pflegelotsen, Investitionen und Entlastung für Angehörige!",
+        "title": "Eine bessere Pflege für NRW: mehr Fürsorge, weniger Aufwand und Bürokratie – Pflegelotsen, Investitionen und Entlastung für Angehörige!",
+        "id": "TOP-1",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Marco Schmitz",
+          "context": "main-speaker",
+          "firstname": "Marco",
+          "lastname": "Schmitz",
+          "originPersonID": "01767",
+          "faction": {
+            "label": "CDU",
+            "wid": "Q49762"
+          },
+          "wid": "Q29949609",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://www.landtag.nrw.de/videos/481b564b-5fa4-4a79-a3fb-02c67b34e976/playlist.m3u8#t=3188,3593",
+        "sourcePage": "https://www.landtag.nrw.de/home/mediathek/video.html?kid=481b564b-5fa4-4a79-a3fb-02c67b34e976&top-redner-id=15829",
+        "creator": "Landtag Nordrhein-Westfalen",
+        "license": "Landtag Nordrhein-Westfalen – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; Quellenangabe \"Landtag Nordrhein-Westfalen\". https://www.landtag.nrw.de/home/footer/impressum.html",
+        "originMediaID": "15829",
+        "additionalInformation": {
+          "startOffset": 3188.0,
+          "endOffset": 3593.0
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-video-page",
+        "kid": "481b564b-5fa4-4a79-a3fb-02c67b34e976",
+        "topRednerID": "15829",
+        "topNumber": "1",
+        "mdlId": "01767",
+        "funktionId": "",
+        "rednerRaw": "Marco Schmitz",
+        "fraktionRaw": "CDU",
+        "funktionRaw": "",
+        "startOffset": 3188,
+        "endOffset": 3593,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NW",
+      "electoralPeriod": {
+        "number": 18
+      },
+      "session": {
+        "number": 116,
+        "dateStart": "2026-01-29T10:00:00+02:00",
+        "dateEnd": "2026-01-29T16:54:49+02:00"
+      },
+      "dateStart": "2026-01-29T10:59:53+02:00",
+      "dateEnd": "2026-01-29T11:08:28+02:00",
+      "speechIndex": 9,
+      "originID": "18116-15830",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 1: Eine bessere Pflege für NRW: mehr Fürsorge, weniger Aufwand und Bürokratie – Pflegelotsen, Investitionen und Entlastung für Angehörige!",
+        "title": "Eine bessere Pflege für NRW: mehr Fürsorge, weniger Aufwand und Bürokratie – Pflegelotsen, Investitionen und Entlastung für Angehörige!",
+        "id": "TOP-1",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Lisa-Kristin Kapteinat",
+          "context": "main-speaker",
+          "firstname": "Lisa-Kristin",
+          "lastname": "Kapteinat",
+          "originPersonID": "01733",
+          "faction": {
+            "label": "SPD",
+            "wid": "Q49768"
+          },
+          "wid": "Q30181719",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://www.landtag.nrw.de/videos/481b564b-5fa4-4a79-a3fb-02c67b34e976/playlist.m3u8#t=3593,4108",
+        "sourcePage": "https://www.landtag.nrw.de/home/mediathek/video.html?kid=481b564b-5fa4-4a79-a3fb-02c67b34e976&top-redner-id=15830",
+        "creator": "Landtag Nordrhein-Westfalen",
+        "license": "Landtag Nordrhein-Westfalen – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; Quellenangabe \"Landtag Nordrhein-Westfalen\". https://www.landtag.nrw.de/home/footer/impressum.html",
+        "originMediaID": "15830",
+        "additionalInformation": {
+          "startOffset": 3593.0,
+          "endOffset": 4108.0
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-video-page",
+        "kid": "481b564b-5fa4-4a79-a3fb-02c67b34e976",
+        "topRednerID": "15830",
+        "topNumber": "1",
+        "mdlId": "01733",
+        "funktionId": "",
+        "rednerRaw": "Lisa-Kristin Kapteinat",
+        "fraktionRaw": "SPD",
+        "funktionRaw": "",
+        "startOffset": 3593,
+        "endOffset": 4108,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NW",
+      "electoralPeriod": {
+        "number": 18
+      },
+      "session": {
+        "number": 116,
+        "dateStart": "2026-01-29T10:00:00+02:00",
+        "dateEnd": "2026-01-29T16:54:49+02:00"
+      },
+      "dateStart": "2026-01-29T11:08:28+02:00",
+      "dateEnd": "2026-01-29T11:14:21+02:00",
+      "speechIndex": 10,
+      "originID": "18116-15832",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 2: Stärkung der Prävention und Bekämpfung von Genitalverstümmelung bzw. -beschneidung bei Mädchen in Nordrhein-Westfalen",
+        "title": "Stärkung der Prävention und Bekämpfung von Genitalverstümmelung bzw. -beschneidung bei Mädchen in Nordrhein-Westfalen",
+        "id": "TOP-2",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Charlotte Quik",
+          "context": "main-speaker",
+          "firstname": "Charlotte",
+          "lastname": "Quik",
+          "originPersonID": "01760",
+          "faction": {
+            "label": "CDU",
+            "wid": "Q49762"
+          },
+          "wid": "Q30275047",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://www.landtag.nrw.de/videos/481b564b-5fa4-4a79-a3fb-02c67b34e976/playlist.m3u8#t=4108,4461",
+        "sourcePage": "https://www.landtag.nrw.de/home/mediathek/video.html?kid=481b564b-5fa4-4a79-a3fb-02c67b34e976&top-redner-id=15832",
+        "creator": "Landtag Nordrhein-Westfalen",
+        "license": "Landtag Nordrhein-Westfalen – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; Quellenangabe \"Landtag Nordrhein-Westfalen\". https://www.landtag.nrw.de/home/footer/impressum.html",
+        "originMediaID": "15832",
+        "additionalInformation": {
+          "startOffset": 4108.0,
+          "endOffset": 4461.0
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-video-page",
+        "kid": "481b564b-5fa4-4a79-a3fb-02c67b34e976",
+        "topRednerID": "15832",
+        "topNumber": "2",
+        "mdlId": "01760",
+        "funktionId": "",
+        "rednerRaw": "Charlotte Quik",
+        "fraktionRaw": "CDU",
+        "funktionRaw": "",
+        "startOffset": 4108,
+        "endOffset": 4461,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NW",
+      "electoralPeriod": {
+        "number": 18
+      },
+      "session": {
+        "number": 116,
+        "dateStart": "2026-01-29T10:00:00+02:00",
+        "dateEnd": "2026-01-29T16:54:49+02:00"
+      },
+      "dateStart": "2026-01-29T11:14:21+02:00",
+      "dateEnd": "2026-01-29T11:20:05+02:00",
+      "speechIndex": 11,
+      "originID": "18116-15833",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 2: Stärkung der Prävention und Bekämpfung von Genitalverstümmelung bzw. -beschneidung bei Mädchen in Nordrhein-Westfalen",
+        "title": "Stärkung der Prävention und Bekämpfung von Genitalverstümmelung bzw. -beschneidung bei Mädchen in Nordrhein-Westfalen",
+        "id": "TOP-2",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Norika Creuzmann",
+          "context": "main-speaker",
+          "firstname": "Norika",
+          "lastname": "Creuzmann",
+          "originPersonID": "01812",
+          "faction": {
+            "label": "Bündnis 90/Die Grünen",
+            "wid": "Q49766"
+          },
+          "wid": "Q112079445",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://www.landtag.nrw.de/videos/481b564b-5fa4-4a79-a3fb-02c67b34e976/playlist.m3u8#t=4461,4805",
+        "sourcePage": "https://www.landtag.nrw.de/home/mediathek/video.html?kid=481b564b-5fa4-4a79-a3fb-02c67b34e976&top-redner-id=15833",
+        "creator": "Landtag Nordrhein-Westfalen",
+        "license": "Landtag Nordrhein-Westfalen – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; Quellenangabe \"Landtag Nordrhein-Westfalen\". https://www.landtag.nrw.de/home/footer/impressum.html",
+        "originMediaID": "15833",
+        "additionalInformation": {
+          "startOffset": 4461.0,
+          "endOffset": 4805.0
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-video-page",
+        "kid": "481b564b-5fa4-4a79-a3fb-02c67b34e976",
+        "topRednerID": "15833",
+        "topNumber": "2",
+        "mdlId": "01812",
+        "funktionId": "",
+        "rednerRaw": "Norika Creuzmann",
+        "fraktionRaw": "Bündnis 90/Die Grünen",
+        "funktionRaw": "",
+        "startOffset": 4461,
+        "endOffset": 4805,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NW",
+      "electoralPeriod": {
+        "number": 18
+      },
+      "session": {
+        "number": 116,
+        "dateStart": "2026-01-29T10:00:00+02:00",
+        "dateEnd": "2026-01-29T16:54:49+02:00"
+      },
+      "dateStart": "2026-01-29T11:20:05+02:00",
+      "dateEnd": "2026-01-29T11:25:33+02:00",
+      "speechIndex": 12,
+      "originID": "18116-15834",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 2: Stärkung der Prävention und Bekämpfung von Genitalverstümmelung bzw. -beschneidung bei Mädchen in Nordrhein-Westfalen",
+        "title": "Stärkung der Prävention und Bekämpfung von Genitalverstümmelung bzw. -beschneidung bei Mädchen in Nordrhein-Westfalen",
+        "id": "TOP-2",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Nina Andrieshen",
+          "context": "main-speaker",
+          "firstname": "Nina",
+          "lastname": "Andrieshen",
+          "originPersonID": "01798",
+          "faction": {
+            "label": "SPD",
+            "wid": "Q49768"
+          }
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://www.landtag.nrw.de/videos/481b564b-5fa4-4a79-a3fb-02c67b34e976/playlist.m3u8#t=4805,5133",
+        "sourcePage": "https://www.landtag.nrw.de/home/mediathek/video.html?kid=481b564b-5fa4-4a79-a3fb-02c67b34e976&top-redner-id=15834",
+        "creator": "Landtag Nordrhein-Westfalen",
+        "license": "Landtag Nordrhein-Westfalen – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; Quellenangabe \"Landtag Nordrhein-Westfalen\". https://www.landtag.nrw.de/home/footer/impressum.html",
+        "originMediaID": "15834",
+        "additionalInformation": {
+          "startOffset": 4805.0,
+          "endOffset": 5133.0
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-video-page",
+        "kid": "481b564b-5fa4-4a79-a3fb-02c67b34e976",
+        "topRednerID": "15834",
+        "topNumber": "2",
+        "mdlId": "01798",
+        "funktionId": "",
+        "rednerRaw": "Nina Andrieshen",
+        "fraktionRaw": "SPD",
+        "funktionRaw": "",
+        "startOffset": 4805,
+        "endOffset": 5133,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NW",
+      "electoralPeriod": {
+        "number": 18
+      },
+      "session": {
+        "number": 116,
+        "dateStart": "2026-01-29T10:00:00+02:00",
+        "dateEnd": "2026-01-29T16:54:49+02:00"
+      },
+      "dateStart": "2026-01-29T11:25:33+02:00",
+      "dateEnd": "2026-01-29T11:30:43+02:00",
+      "speechIndex": 13,
+      "originID": "18116-15835",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 2: Stärkung der Prävention und Bekämpfung von Genitalverstümmelung bzw. -beschneidung bei Mädchen in Nordrhein-Westfalen",
+        "title": "Stärkung der Prävention und Bekämpfung von Genitalverstümmelung bzw. -beschneidung bei Mädchen in Nordrhein-Westfalen",
+        "id": "TOP-2",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Franziska Müller-Rech",
+          "context": "main-speaker",
+          "firstname": "Franziska",
+          "lastname": "Müller-Rech",
+          "originPersonID": "01748",
+          "faction": {
+            "label": "FDP",
+            "wid": "Q13124"
+          },
+          "wid": "Q30069482",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://www.landtag.nrw.de/videos/481b564b-5fa4-4a79-a3fb-02c67b34e976/playlist.m3u8#t=5133,5443",
+        "sourcePage": "https://www.landtag.nrw.de/home/mediathek/video.html?kid=481b564b-5fa4-4a79-a3fb-02c67b34e976&top-redner-id=15835",
+        "creator": "Landtag Nordrhein-Westfalen",
+        "license": "Landtag Nordrhein-Westfalen – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; Quellenangabe \"Landtag Nordrhein-Westfalen\". https://www.landtag.nrw.de/home/footer/impressum.html",
+        "originMediaID": "15835",
+        "additionalInformation": {
+          "startOffset": 5133.0,
+          "endOffset": 5443.0
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-video-page",
+        "kid": "481b564b-5fa4-4a79-a3fb-02c67b34e976",
+        "topRednerID": "15835",
+        "topNumber": "2",
+        "mdlId": "01748",
+        "funktionId": "",
+        "rednerRaw": "Franziska Müller-Rech",
+        "fraktionRaw": "FDP",
+        "funktionRaw": "",
+        "startOffset": 5133,
+        "endOffset": 5443,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NW",
+      "electoralPeriod": {
+        "number": 18
+      },
+      "session": {
+        "number": 116,
+        "dateStart": "2026-01-29T10:00:00+02:00",
+        "dateEnd": "2026-01-29T16:54:49+02:00"
+      },
+      "dateStart": "2026-01-29T11:30:43+02:00",
+      "dateEnd": "2026-01-29T11:35:43+02:00",
+      "speechIndex": 14,
+      "originID": "18116-15836",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 2: Stärkung der Prävention und Bekämpfung von Genitalverstümmelung bzw. -beschneidung bei Mädchen in Nordrhein-Westfalen",
+        "title": "Stärkung der Prävention und Bekämpfung von Genitalverstümmelung bzw. -beschneidung bei Mädchen in Nordrhein-Westfalen",
+        "id": "TOP-2",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Thomas Röckemann",
+          "context": "main-speaker",
+          "firstname": "Thomas",
+          "lastname": "Röckemann",
+          "originPersonID": "01764",
+          "faction": {
+            "label": "AfD",
+            "wid": "Q6721203"
+          },
+          "wid": "Q29962248",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://www.landtag.nrw.de/videos/481b564b-5fa4-4a79-a3fb-02c67b34e976/playlist.m3u8#t=5443,5743",
+        "sourcePage": "https://www.landtag.nrw.de/home/mediathek/video.html?kid=481b564b-5fa4-4a79-a3fb-02c67b34e976&top-redner-id=15836",
+        "creator": "Landtag Nordrhein-Westfalen",
+        "license": "Landtag Nordrhein-Westfalen – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; Quellenangabe \"Landtag Nordrhein-Westfalen\". https://www.landtag.nrw.de/home/footer/impressum.html",
+        "originMediaID": "15836",
+        "additionalInformation": {
+          "startOffset": 5443.0,
+          "endOffset": 5743.0
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-video-page",
+        "kid": "481b564b-5fa4-4a79-a3fb-02c67b34e976",
+        "topRednerID": "15836",
+        "topNumber": "2",
+        "mdlId": "01764",
+        "funktionId": "",
+        "rednerRaw": "Thomas Röckemann",
+        "fraktionRaw": "AfD",
+        "funktionRaw": "",
+        "startOffset": 5443,
+        "endOffset": 5743,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NW",
+      "electoralPeriod": {
+        "number": 18
+      },
+      "session": {
+        "number": 116,
+        "dateStart": "2026-01-29T10:00:00+02:00",
+        "dateEnd": "2026-01-29T16:54:49+02:00"
+      },
+      "dateStart": "2026-01-29T11:35:43+02:00",
+      "dateEnd": "2026-01-29T11:42:39+02:00",
+      "speechIndex": 15,
+      "originID": "18116-15837",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 2: Stärkung der Prävention und Bekämpfung von Genitalverstümmelung bzw. -beschneidung bei Mädchen in Nordrhein-Westfalen",
+        "title": "Stärkung der Prävention und Bekämpfung von Genitalverstümmelung bzw. -beschneidung bei Mädchen in Nordrhein-Westfalen",
+        "id": "TOP-2",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Verena Schäffer",
+          "context": "main-speaker",
+          "firstname": "Verena",
+          "lastname": "Schäffer",
+          "role": "Ministerin",
+          "originPersonID": "01589",
+          "faction": {
+            "label": "Bündnis 90/Die Grünen",
+            "wid": "Q49766"
+          },
+          "wid": "Q1575138",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://www.landtag.nrw.de/videos/481b564b-5fa4-4a79-a3fb-02c67b34e976/playlist.m3u8#t=5743,6159",
+        "sourcePage": "https://www.landtag.nrw.de/home/mediathek/video.html?kid=481b564b-5fa4-4a79-a3fb-02c67b34e976&top-redner-id=15837",
+        "creator": "Landtag Nordrhein-Westfalen",
+        "license": "Landtag Nordrhein-Westfalen – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; Quellenangabe \"Landtag Nordrhein-Westfalen\". https://www.landtag.nrw.de/home/footer/impressum.html",
+        "originMediaID": "15837",
+        "additionalInformation": {
+          "startOffset": 5743.0,
+          "endOffset": 6159.0
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-video-page",
+        "kid": "481b564b-5fa4-4a79-a3fb-02c67b34e976",
+        "topRednerID": "15837",
+        "topNumber": "2",
+        "mdlId": "01589",
+        "funktionId": "",
+        "rednerRaw": "Verena Schäffer",
+        "fraktionRaw": "Bündnis 90/Die Grünen",
+        "funktionRaw": "Ministerin",
+        "startOffset": 5743,
+        "endOffset": 6159,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NW",
+      "electoralPeriod": {
+        "number": 18
+      },
+      "session": {
+        "number": 116,
+        "dateStart": "2026-01-29T10:00:00+02:00",
+        "dateEnd": "2026-01-29T16:54:49+02:00"
+      },
+      "dateStart": "2026-01-29T11:42:39+02:00",
+      "dateEnd": "2026-01-29T11:47:49+02:00",
+      "speechIndex": 16,
+      "originID": "18116-15839",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 3: Nordrhein-Westfalens Stimme für den Führerschein mit 16 – Für mehr Verkehrssicherheit und einen früheren Zugang zu individueller Mobilität",
+        "title": "Nordrhein-Westfalens Stimme für den Führerschein mit 16 – Für mehr Verkehrssicherheit und einen früheren Zugang zu individueller Mobilität",
+        "id": "TOP-3",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Christof Rasche",
+          "context": "main-speaker",
+          "firstname": "Christof",
+          "lastname": "Rasche",
+          "originPersonID": "01419",
+          "faction": {
+            "label": "FDP",
+            "wid": "Q13124"
+          },
+          "wid": "Q1084323",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://www.landtag.nrw.de/videos/481b564b-5fa4-4a79-a3fb-02c67b34e976/playlist.m3u8#t=6159,6469",
+        "sourcePage": "https://www.landtag.nrw.de/home/mediathek/video.html?kid=481b564b-5fa4-4a79-a3fb-02c67b34e976&top-redner-id=15839",
+        "creator": "Landtag Nordrhein-Westfalen",
+        "license": "Landtag Nordrhein-Westfalen – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; Quellenangabe \"Landtag Nordrhein-Westfalen\". https://www.landtag.nrw.de/home/footer/impressum.html",
+        "originMediaID": "15839",
+        "additionalInformation": {
+          "startOffset": 6159.0,
+          "endOffset": 6469.0
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-video-page",
+        "kid": "481b564b-5fa4-4a79-a3fb-02c67b34e976",
+        "topRednerID": "15839",
+        "topNumber": "3",
+        "mdlId": "01419",
+        "funktionId": "",
+        "rednerRaw": "Christof Rasche",
+        "fraktionRaw": "FDP",
+        "funktionRaw": "",
+        "startOffset": 6159,
+        "endOffset": 6469,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NW",
+      "electoralPeriod": {
+        "number": 18
+      },
+      "session": {
+        "number": 116,
+        "dateStart": "2026-01-29T10:00:00+02:00",
+        "dateEnd": "2026-01-29T16:54:49+02:00"
+      },
+      "dateStart": "2026-01-29T11:47:49+02:00",
+      "dateEnd": "2026-01-29T11:52:54+02:00",
+      "speechIndex": 17,
+      "originID": "18116-15840",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 3: Nordrhein-Westfalens Stimme für den Führerschein mit 16 – Für mehr Verkehrssicherheit und einen früheren Zugang zu individueller Mobilität",
+        "title": "Nordrhein-Westfalens Stimme für den Führerschein mit 16 – Für mehr Verkehrssicherheit und einen früheren Zugang zu individueller Mobilität",
+        "id": "TOP-3",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Jens Kamieth",
+          "context": "main-speaker",
+          "firstname": "Jens",
+          "lastname": "Kamieth",
+          "originPersonID": "01565",
+          "faction": {
+            "label": "CDU",
+            "wid": "Q49762"
+          },
+          "wid": "Q1687240",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://www.landtag.nrw.de/videos/481b564b-5fa4-4a79-a3fb-02c67b34e976/playlist.m3u8#t=6469,6774",
+        "sourcePage": "https://www.landtag.nrw.de/home/mediathek/video.html?kid=481b564b-5fa4-4a79-a3fb-02c67b34e976&top-redner-id=15840",
+        "creator": "Landtag Nordrhein-Westfalen",
+        "license": "Landtag Nordrhein-Westfalen – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; Quellenangabe \"Landtag Nordrhein-Westfalen\". https://www.landtag.nrw.de/home/footer/impressum.html",
+        "originMediaID": "15840",
+        "additionalInformation": {
+          "startOffset": 6469.0,
+          "endOffset": 6774.0
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-video-page",
+        "kid": "481b564b-5fa4-4a79-a3fb-02c67b34e976",
+        "topRednerID": "15840",
+        "topNumber": "3",
+        "mdlId": "01565",
+        "funktionId": "",
+        "rednerRaw": "Jens Kamieth",
+        "fraktionRaw": "CDU",
+        "funktionRaw": "",
+        "startOffset": 6469,
+        "endOffset": 6774,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NW",
+      "electoralPeriod": {
+        "number": 18
+      },
+      "session": {
+        "number": 116,
+        "dateStart": "2026-01-29T10:00:00+02:00",
+        "dateEnd": "2026-01-29T16:54:49+02:00"
+      },
+      "dateStart": "2026-01-29T11:52:54+02:00",
+      "dateEnd": "2026-01-29T11:57:53+02:00",
+      "speechIndex": 18,
+      "originID": "18116-15841",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 3: Nordrhein-Westfalens Stimme für den Führerschein mit 16 – Für mehr Verkehrssicherheit und einen früheren Zugang zu individueller Mobilität",
+        "title": "Nordrhein-Westfalens Stimme für den Führerschein mit 16 – Für mehr Verkehrssicherheit und einen früheren Zugang zu individueller Mobilität",
+        "id": "TOP-3",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Christin-Marie Stamm",
+          "context": "main-speaker",
+          "firstname": "Christin-Marie",
+          "lastname": "Stamm",
+          "originPersonID": "01859",
+          "faction": {
+            "label": "SPD",
+            "wid": "Q49768"
+          }
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://www.landtag.nrw.de/videos/481b564b-5fa4-4a79-a3fb-02c67b34e976/playlist.m3u8#t=6774,7073",
+        "sourcePage": "https://www.landtag.nrw.de/home/mediathek/video.html?kid=481b564b-5fa4-4a79-a3fb-02c67b34e976&top-redner-id=15841",
+        "creator": "Landtag Nordrhein-Westfalen",
+        "license": "Landtag Nordrhein-Westfalen – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; Quellenangabe \"Landtag Nordrhein-Westfalen\". https://www.landtag.nrw.de/home/footer/impressum.html",
+        "originMediaID": "15841",
+        "additionalInformation": {
+          "startOffset": 6774.0,
+          "endOffset": 7073.0
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-video-page",
+        "kid": "481b564b-5fa4-4a79-a3fb-02c67b34e976",
+        "topRednerID": "15841",
+        "topNumber": "3",
+        "mdlId": "01859",
+        "funktionId": "",
+        "rednerRaw": "Christin-Marie Stamm",
+        "fraktionRaw": "SPD",
+        "funktionRaw": "",
+        "startOffset": 6774,
+        "endOffset": 7073,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NW",
+      "electoralPeriod": {
+        "number": 18
+      },
+      "session": {
+        "number": 116,
+        "dateStart": "2026-01-29T10:00:00+02:00",
+        "dateEnd": "2026-01-29T16:54:49+02:00"
+      },
+      "dateStart": "2026-01-29T11:57:53+02:00",
+      "dateEnd": "2026-01-29T12:01:43+02:00",
+      "speechIndex": 19,
+      "originID": "18116-15842",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 3: Nordrhein-Westfalens Stimme für den Führerschein mit 16 – Für mehr Verkehrssicherheit und einen früheren Zugang zu individueller Mobilität",
+        "title": "Nordrhein-Westfalens Stimme für den Führerschein mit 16 – Für mehr Verkehrssicherheit und einen früheren Zugang zu individueller Mobilität",
+        "id": "TOP-3",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Martin Metz",
+          "context": "main-speaker",
+          "firstname": "Martin",
+          "lastname": "Metz",
+          "originPersonID": "01842",
+          "faction": {
+            "label": "Bündnis 90/Die Grünen",
+            "wid": "Q49766"
+          },
+          "wid": "Q110888917",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://www.landtag.nrw.de/videos/481b564b-5fa4-4a79-a3fb-02c67b34e976/playlist.m3u8#t=7073,7303",
+        "sourcePage": "https://www.landtag.nrw.de/home/mediathek/video.html?kid=481b564b-5fa4-4a79-a3fb-02c67b34e976&top-redner-id=15842",
+        "creator": "Landtag Nordrhein-Westfalen",
+        "license": "Landtag Nordrhein-Westfalen – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; Quellenangabe \"Landtag Nordrhein-Westfalen\". https://www.landtag.nrw.de/home/footer/impressum.html",
+        "originMediaID": "15842",
+        "additionalInformation": {
+          "startOffset": 7073.0,
+          "endOffset": 7303.0
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-video-page",
+        "kid": "481b564b-5fa4-4a79-a3fb-02c67b34e976",
+        "topRednerID": "15842",
+        "topNumber": "3",
+        "mdlId": "01842",
+        "funktionId": "",
+        "rednerRaw": "Martin Metz",
+        "fraktionRaw": "Bündnis 90/Die Grünen",
+        "funktionRaw": "",
+        "startOffset": 7073,
+        "endOffset": 7303,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NW",
+      "electoralPeriod": {
+        "number": 18
+      },
+      "session": {
+        "number": 116,
+        "dateStart": "2026-01-29T10:00:00+02:00",
+        "dateEnd": "2026-01-29T16:54:49+02:00"
+      },
+      "dateStart": "2026-01-29T12:01:43+02:00",
+      "dateEnd": "2026-01-29T12:06:10+02:00",
+      "speechIndex": 20,
+      "originID": "18116-15843",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 3: Nordrhein-Westfalens Stimme für den Führerschein mit 16 – Für mehr Verkehrssicherheit und einen früheren Zugang zu individueller Mobilität",
+        "title": "Nordrhein-Westfalens Stimme für den Führerschein mit 16 – Für mehr Verkehrssicherheit und einen früheren Zugang zu individueller Mobilität",
+        "id": "TOP-3",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Klaus Esser",
+          "context": "main-speaker",
+          "firstname": "Klaus",
+          "lastname": "Esser",
+          "originPersonID": "01819",
+          "faction": {
+            "label": "AfD",
+            "wid": "Q6721203"
+          },
+          "wid": "Q113637879",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://www.landtag.nrw.de/videos/481b564b-5fa4-4a79-a3fb-02c67b34e976/playlist.m3u8#t=7303,7570",
+        "sourcePage": "https://www.landtag.nrw.de/home/mediathek/video.html?kid=481b564b-5fa4-4a79-a3fb-02c67b34e976&top-redner-id=15843",
+        "creator": "Landtag Nordrhein-Westfalen",
+        "license": "Landtag Nordrhein-Westfalen – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; Quellenangabe \"Landtag Nordrhein-Westfalen\". https://www.landtag.nrw.de/home/footer/impressum.html",
+        "originMediaID": "15843",
+        "additionalInformation": {
+          "startOffset": 7303.0,
+          "endOffset": 7570.0
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-video-page",
+        "kid": "481b564b-5fa4-4a79-a3fb-02c67b34e976",
+        "topRednerID": "15843",
+        "topNumber": "3",
+        "mdlId": "01819",
+        "funktionId": "",
+        "rednerRaw": "Klaus Esser",
+        "fraktionRaw": "AfD",
+        "funktionRaw": "",
+        "startOffset": 7303,
+        "endOffset": 7570,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NW",
+      "electoralPeriod": {
+        "number": 18
+      },
+      "session": {
+        "number": 116,
+        "dateStart": "2026-01-29T10:00:00+02:00",
+        "dateEnd": "2026-01-29T16:54:49+02:00"
+      },
+      "dateStart": "2026-01-29T12:06:10+02:00",
+      "dateEnd": "2026-01-29T12:12:29+02:00",
+      "speechIndex": 21,
+      "originID": "18116-15844",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 3: Nordrhein-Westfalens Stimme für den Führerschein mit 16 – Für mehr Verkehrssicherheit und einen früheren Zugang zu individueller Mobilität",
+        "title": "Nordrhein-Westfalens Stimme für den Führerschein mit 16 – Für mehr Verkehrssicherheit und einen früheren Zugang zu individueller Mobilität",
+        "id": "TOP-3",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Oliver Krischer",
+          "context": "main-speaker",
+          "firstname": "Oliver",
+          "lastname": "Krischer",
+          "role": "Minister",
+          "originPersonID": "18MUG1",
+          "faction": {
+            "label": "Bündnis 90/Die Grünen",
+            "wid": "Q49766"
+          }
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://www.landtag.nrw.de/videos/481b564b-5fa4-4a79-a3fb-02c67b34e976/playlist.m3u8#t=7570,7949",
+        "sourcePage": "https://www.landtag.nrw.de/home/mediathek/video.html?kid=481b564b-5fa4-4a79-a3fb-02c67b34e976&top-redner-id=15844",
+        "creator": "Landtag Nordrhein-Westfalen",
+        "license": "Landtag Nordrhein-Westfalen – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; Quellenangabe \"Landtag Nordrhein-Westfalen\". https://www.landtag.nrw.de/home/footer/impressum.html",
+        "originMediaID": "15844",
+        "additionalInformation": {
+          "startOffset": 7570.0,
+          "endOffset": 7949.0
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-video-page",
+        "kid": "481b564b-5fa4-4a79-a3fb-02c67b34e976",
+        "topRednerID": "15844",
+        "topNumber": "3",
+        "mdlId": "",
+        "funktionId": "18MUG1",
+        "rednerRaw": "Oliver Krischer",
+        "fraktionRaw": "Bündnis 90/Die Grünen",
+        "funktionRaw": "Minister",
+        "startOffset": 7570,
+        "endOffset": 7949,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NW",
+      "electoralPeriod": {
+        "number": 18
+      },
+      "session": {
+        "number": 116,
+        "dateStart": "2026-01-29T10:00:00+02:00",
+        "dateEnd": "2026-01-29T16:54:49+02:00"
+      },
+      "dateStart": "2026-01-29T12:12:29+02:00",
+      "dateEnd": "2026-01-29T12:18:03+02:00",
+      "speechIndex": 22,
+      "originID": "18116-15846",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 4: Erneuter Korruptionsskandal in einer kommunalen Ausländerbehörde erschüttert das Vertrauen in staatliche Institutionen – Das für Ausländer- und Flüchtlingsangelegenheiten zuständige Ministerium darf in seiner Funktion als oberste Ausländerbehörde nicht länger tatenlos zusehen!",
+        "title": "Erneuter Korruptionsskandal in einer kommunalen Ausländerbehörde erschüttert das Vertrauen in staatliche Institutionen – Das für Ausländer- und Flüchtlingsangelegenheiten zuständige Ministerium darf in seiner Funktion als oberste Ausländerbehörde nicht länger tatenlos zusehen!",
+        "id": "TOP-4",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Enxhi Seli-Zacharias",
+          "context": "main-speaker",
+          "firstname": "Enxhi",
+          "lastname": "Seli-Zacharias",
+          "originPersonID": "01856",
+          "faction": {
+            "label": "AfD",
+            "wid": "Q6721203"
+          },
+          "wid": "Q112169767",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://www.landtag.nrw.de/videos/481b564b-5fa4-4a79-a3fb-02c67b34e976/playlist.m3u8#t=7949,8283",
+        "sourcePage": "https://www.landtag.nrw.de/home/mediathek/video.html?kid=481b564b-5fa4-4a79-a3fb-02c67b34e976&top-redner-id=15846",
+        "creator": "Landtag Nordrhein-Westfalen",
+        "license": "Landtag Nordrhein-Westfalen – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; Quellenangabe \"Landtag Nordrhein-Westfalen\". https://www.landtag.nrw.de/home/footer/impressum.html",
+        "originMediaID": "15846",
+        "additionalInformation": {
+          "startOffset": 7949.0,
+          "endOffset": 8283.0
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-video-page",
+        "kid": "481b564b-5fa4-4a79-a3fb-02c67b34e976",
+        "topRednerID": "15846",
+        "topNumber": "4",
+        "mdlId": "01856",
+        "funktionId": "",
+        "rednerRaw": "Enxhi Seli-Zacharias",
+        "fraktionRaw": "AfD",
+        "funktionRaw": "",
+        "startOffset": 7949,
+        "endOffset": 8283,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NW",
+      "electoralPeriod": {
+        "number": 18
+      },
+      "session": {
+        "number": 116,
+        "dateStart": "2026-01-29T10:00:00+02:00",
+        "dateEnd": "2026-01-29T16:54:49+02:00"
+      },
+      "dateStart": "2026-01-29T12:18:03+02:00",
+      "dateEnd": "2026-01-29T12:21:53+02:00",
+      "speechIndex": 23,
+      "originID": "18116-15847",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 4: Erneuter Korruptionsskandal in einer kommunalen Ausländerbehörde erschüttert das Vertrauen in staatliche Institutionen – Das für Ausländer- und Flüchtlingsangelegenheiten zuständige Ministerium darf in seiner Funktion als oberste Ausländerbehörde nicht länger tatenlos zusehen!",
+        "title": "Erneuter Korruptionsskandal in einer kommunalen Ausländerbehörde erschüttert das Vertrauen in staatliche Institutionen – Das für Ausländer- und Flüchtlingsangelegenheiten zuständige Ministerium darf in seiner Funktion als oberste Ausländerbehörde nicht länger tatenlos zusehen!",
+        "id": "TOP-4",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Peter Blumenrath",
+          "context": "main-speaker",
+          "firstname": "Peter",
+          "lastname": "Blumenrath",
+          "originPersonID": "01806",
+          "faction": {
+            "label": "CDU",
+            "wid": "Q49762"
+          }
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://www.landtag.nrw.de/videos/481b564b-5fa4-4a79-a3fb-02c67b34e976/playlist.m3u8#t=8283,8513",
+        "sourcePage": "https://www.landtag.nrw.de/home/mediathek/video.html?kid=481b564b-5fa4-4a79-a3fb-02c67b34e976&top-redner-id=15847",
+        "creator": "Landtag Nordrhein-Westfalen",
+        "license": "Landtag Nordrhein-Westfalen – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; Quellenangabe \"Landtag Nordrhein-Westfalen\". https://www.landtag.nrw.de/home/footer/impressum.html",
+        "originMediaID": "15847",
+        "additionalInformation": {
+          "startOffset": 8283.0,
+          "endOffset": 8513.0
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-video-page",
+        "kid": "481b564b-5fa4-4a79-a3fb-02c67b34e976",
+        "topRednerID": "15847",
+        "topNumber": "4",
+        "mdlId": "01806",
+        "funktionId": "",
+        "rednerRaw": "Peter Blumenrath",
+        "fraktionRaw": "CDU",
+        "funktionRaw": "",
+        "startOffset": 8283,
+        "endOffset": 8513,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NW",
+      "electoralPeriod": {
+        "number": 18
+      },
+      "session": {
+        "number": 116,
+        "dateStart": "2026-01-29T10:00:00+02:00",
+        "dateEnd": "2026-01-29T16:54:49+02:00"
+      },
+      "dateStart": "2026-01-29T12:21:53+02:00",
+      "dateEnd": "2026-01-29T12:25:45+02:00",
+      "speechIndex": 24,
+      "originID": "18116-15848",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 4: Erneuter Korruptionsskandal in einer kommunalen Ausländerbehörde erschüttert das Vertrauen in staatliche Institutionen – Das für Ausländer- und Flüchtlingsangelegenheiten zuständige Ministerium darf in seiner Funktion als oberste Ausländerbehörde nicht länger tatenlos zusehen!",
+        "title": "Erneuter Korruptionsskandal in einer kommunalen Ausländerbehörde erschüttert das Vertrauen in staatliche Institutionen – Das für Ausländer- und Flüchtlingsangelegenheiten zuständige Ministerium darf in seiner Funktion als oberste Ausländerbehörde nicht länger tatenlos zusehen!",
+        "id": "TOP-4",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Volkan Baran",
+          "context": "main-speaker",
+          "firstname": "Volkan",
+          "lastname": "Baran",
+          "originPersonID": "01707",
+          "faction": {
+            "label": "SPD",
+            "wid": "Q49768"
+          },
+          "wid": "Q30144893",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://www.landtag.nrw.de/videos/481b564b-5fa4-4a79-a3fb-02c67b34e976/playlist.m3u8#t=8513,8745",
+        "sourcePage": "https://www.landtag.nrw.de/home/mediathek/video.html?kid=481b564b-5fa4-4a79-a3fb-02c67b34e976&top-redner-id=15848",
+        "creator": "Landtag Nordrhein-Westfalen",
+        "license": "Landtag Nordrhein-Westfalen – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; Quellenangabe \"Landtag Nordrhein-Westfalen\". https://www.landtag.nrw.de/home/footer/impressum.html",
+        "originMediaID": "15848",
+        "additionalInformation": {
+          "startOffset": 8513.0,
+          "endOffset": 8745.0
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-video-page",
+        "kid": "481b564b-5fa4-4a79-a3fb-02c67b34e976",
+        "topRednerID": "15848",
+        "topNumber": "4",
+        "mdlId": "01707",
+        "funktionId": "",
+        "rednerRaw": "Volkan Baran",
+        "fraktionRaw": "SPD",
+        "funktionRaw": "",
+        "startOffset": 8513,
+        "endOffset": 8745,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NW",
+      "electoralPeriod": {
+        "number": 18
+      },
+      "session": {
+        "number": 116,
+        "dateStart": "2026-01-29T10:00:00+02:00",
+        "dateEnd": "2026-01-29T16:54:49+02:00"
+      },
+      "dateStart": "2026-01-29T12:25:45+02:00",
+      "dateEnd": "2026-01-29T12:27:41+02:00",
+      "speechIndex": 25,
+      "originID": "18116-15849",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 4: Erneuter Korruptionsskandal in einer kommunalen Ausländerbehörde erschüttert das Vertrauen in staatliche Institutionen – Das für Ausländer- und Flüchtlingsangelegenheiten zuständige Ministerium darf in seiner Funktion als oberste Ausländerbehörde nicht länger tatenlos zusehen!",
+        "title": "Erneuter Korruptionsskandal in einer kommunalen Ausländerbehörde erschüttert das Vertrauen in staatliche Institutionen – Das für Ausländer- und Flüchtlingsangelegenheiten zuständige Ministerium darf in seiner Funktion als oberste Ausländerbehörde nicht länger tatenlos zusehen!",
+        "id": "TOP-4",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Benjamin Rauer",
+          "context": "main-speaker",
+          "firstname": "Benjamin",
+          "lastname": "Rauer",
+          "originPersonID": "01850",
+          "faction": {
+            "label": "Bündnis 90/Die Grünen",
+            "wid": "Q49766"
+          },
+          "wid": "Q112130739",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://www.landtag.nrw.de/videos/481b564b-5fa4-4a79-a3fb-02c67b34e976/playlist.m3u8#t=8745,8861",
+        "sourcePage": "https://www.landtag.nrw.de/home/mediathek/video.html?kid=481b564b-5fa4-4a79-a3fb-02c67b34e976&top-redner-id=15849",
+        "creator": "Landtag Nordrhein-Westfalen",
+        "license": "Landtag Nordrhein-Westfalen – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; Quellenangabe \"Landtag Nordrhein-Westfalen\". https://www.landtag.nrw.de/home/footer/impressum.html",
+        "originMediaID": "15849",
+        "additionalInformation": {
+          "startOffset": 8745.0,
+          "endOffset": 8861.0
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-video-page",
+        "kid": "481b564b-5fa4-4a79-a3fb-02c67b34e976",
+        "topRednerID": "15849",
+        "topNumber": "4",
+        "mdlId": "01850",
+        "funktionId": "",
+        "rednerRaw": "Benjamin Rauer",
+        "fraktionRaw": "Bündnis 90/Die Grünen",
+        "funktionRaw": "",
+        "startOffset": 8745,
+        "endOffset": 8861,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NW",
+      "electoralPeriod": {
+        "number": 18
+      },
+      "session": {
+        "number": 116,
+        "dateStart": "2026-01-29T10:00:00+02:00",
+        "dateEnd": "2026-01-29T16:54:49+02:00"
+      },
+      "dateStart": "2026-01-29T12:27:41+02:00",
+      "dateEnd": "2026-01-29T12:30:36+02:00",
+      "speechIndex": 26,
+      "originID": "18116-15850",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 4: Erneuter Korruptionsskandal in einer kommunalen Ausländerbehörde erschüttert das Vertrauen in staatliche Institutionen – Das für Ausländer- und Flüchtlingsangelegenheiten zuständige Ministerium darf in seiner Funktion als oberste Ausländerbehörde nicht länger tatenlos zusehen!",
+        "title": "Erneuter Korruptionsskandal in einer kommunalen Ausländerbehörde erschüttert das Vertrauen in staatliche Institutionen – Das für Ausländer- und Flüchtlingsangelegenheiten zuständige Ministerium darf in seiner Funktion als oberste Ausländerbehörde nicht länger tatenlos zusehen!",
+        "id": "TOP-4",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Thomas Nückel",
+          "context": "main-speaker",
+          "firstname": "Thomas",
+          "lastname": "Nückel",
+          "originPersonID": "01660",
+          "faction": {
+            "label": "FDP",
+            "wid": "Q13124"
+          },
+          "wid": "Q2426353",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://www.landtag.nrw.de/videos/481b564b-5fa4-4a79-a3fb-02c67b34e976/playlist.m3u8#t=8861,9036",
+        "sourcePage": "https://www.landtag.nrw.de/home/mediathek/video.html?kid=481b564b-5fa4-4a79-a3fb-02c67b34e976&top-redner-id=15850",
+        "creator": "Landtag Nordrhein-Westfalen",
+        "license": "Landtag Nordrhein-Westfalen – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; Quellenangabe \"Landtag Nordrhein-Westfalen\". https://www.landtag.nrw.de/home/footer/impressum.html",
+        "originMediaID": "15850",
+        "additionalInformation": {
+          "startOffset": 8861.0,
+          "endOffset": 9036.0
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-video-page",
+        "kid": "481b564b-5fa4-4a79-a3fb-02c67b34e976",
+        "topRednerID": "15850",
+        "topNumber": "4",
+        "mdlId": "01660",
+        "funktionId": "",
+        "rednerRaw": "Thomas Nückel",
+        "fraktionRaw": "FDP",
+        "funktionRaw": "",
+        "startOffset": 8861,
+        "endOffset": 9036,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NW",
+      "electoralPeriod": {
+        "number": 18
+      },
+      "session": {
+        "number": 116,
+        "dateStart": "2026-01-29T10:00:00+02:00",
+        "dateEnd": "2026-01-29T16:54:49+02:00"
+      },
+      "dateStart": "2026-01-29T12:30:36+02:00",
+      "dateEnd": "2026-01-29T12:32:48+02:00",
+      "speechIndex": 27,
+      "originID": "18116-15851",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 4: Erneuter Korruptionsskandal in einer kommunalen Ausländerbehörde erschüttert das Vertrauen in staatliche Institutionen – Das für Ausländer- und Flüchtlingsangelegenheiten zuständige Ministerium darf in seiner Funktion als oberste Ausländerbehörde nicht länger tatenlos zusehen!",
+        "title": "Erneuter Korruptionsskandal in einer kommunalen Ausländerbehörde erschüttert das Vertrauen in staatliche Institutionen – Das für Ausländer- und Flüchtlingsangelegenheiten zuständige Ministerium darf in seiner Funktion als oberste Ausländerbehörde nicht länger tatenlos zusehen!",
+        "id": "TOP-4",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Verena Schäffer",
+          "context": "main-speaker",
+          "firstname": "Verena",
+          "lastname": "Schäffer",
+          "role": "Ministerin",
+          "originPersonID": "01589",
+          "faction": {
+            "label": "Bündnis 90/Die Grünen",
+            "wid": "Q49766"
+          },
+          "wid": "Q1575138",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://www.landtag.nrw.de/videos/481b564b-5fa4-4a79-a3fb-02c67b34e976/playlist.m3u8#t=9036,9168",
+        "sourcePage": "https://www.landtag.nrw.de/home/mediathek/video.html?kid=481b564b-5fa4-4a79-a3fb-02c67b34e976&top-redner-id=15851",
+        "creator": "Landtag Nordrhein-Westfalen",
+        "license": "Landtag Nordrhein-Westfalen – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; Quellenangabe \"Landtag Nordrhein-Westfalen\". https://www.landtag.nrw.de/home/footer/impressum.html",
+        "originMediaID": "15851",
+        "additionalInformation": {
+          "startOffset": 9036.0,
+          "endOffset": 9168.0
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-video-page",
+        "kid": "481b564b-5fa4-4a79-a3fb-02c67b34e976",
+        "topRednerID": "15851",
+        "topNumber": "4",
+        "mdlId": "01589",
+        "funktionId": "",
+        "rednerRaw": "Verena Schäffer",
+        "fraktionRaw": "Bündnis 90/Die Grünen",
+        "funktionRaw": "Ministerin",
+        "startOffset": 9036,
+        "endOffset": 9168,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NW",
+      "electoralPeriod": {
+        "number": 18
+      },
+      "session": {
+        "number": 116,
+        "dateStart": "2026-01-29T10:00:00+02:00",
+        "dateEnd": "2026-01-29T16:54:49+02:00"
+      },
+      "dateStart": "2026-01-29T12:32:48+02:00",
+      "dateEnd": "2026-01-29T12:39:46+02:00",
+      "speechIndex": 28,
+      "originID": "18116-15853",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 5: Drittes Gesetz zur Änderung der Landesbauordnung 2018 und weiterer Vorschriften im Land Nordrhein-Westfalen",
+        "title": "Drittes Gesetz zur Änderung der Landesbauordnung 2018 und weiterer Vorschriften im Land Nordrhein-Westfalen",
+        "id": "TOP-5",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Ina Scharrenbach",
+          "context": "main-speaker",
+          "firstname": "Ina",
+          "lastname": "Scharrenbach",
+          "role": "Ministerin",
+          "originPersonID": "01670",
+          "faction": {
+            "label": "CDU",
+            "wid": "Q49762"
+          },
+          "wid": "Q1660864",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://www.landtag.nrw.de/videos/481b564b-5fa4-4a79-a3fb-02c67b34e976/playlist.m3u8#t=9168,9586",
+        "sourcePage": "https://www.landtag.nrw.de/home/mediathek/video.html?kid=481b564b-5fa4-4a79-a3fb-02c67b34e976&top-redner-id=15853",
+        "creator": "Landtag Nordrhein-Westfalen",
+        "license": "Landtag Nordrhein-Westfalen – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; Quellenangabe \"Landtag Nordrhein-Westfalen\". https://www.landtag.nrw.de/home/footer/impressum.html",
+        "originMediaID": "15853",
+        "additionalInformation": {
+          "startOffset": 9168.0,
+          "endOffset": 9586.0
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-video-page",
+        "kid": "481b564b-5fa4-4a79-a3fb-02c67b34e976",
+        "topRednerID": "15853",
+        "topNumber": "5",
+        "mdlId": "01670",
+        "funktionId": "",
+        "rednerRaw": "Ina Scharrenbach",
+        "fraktionRaw": "CDU",
+        "funktionRaw": "Ministerin",
+        "startOffset": 9168,
+        "endOffset": 9586,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NW",
+      "electoralPeriod": {
+        "number": 18
+      },
+      "session": {
+        "number": 116,
+        "dateStart": "2026-01-29T10:00:00+02:00",
+        "dateEnd": "2026-01-29T16:54:49+02:00"
+      },
+      "dateStart": "2026-01-29T12:39:46+02:00",
+      "dateEnd": "2026-01-29T12:45:16+02:00",
+      "speechIndex": 29,
+      "originID": "18116-15854",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 5: Drittes Gesetz zur Änderung der Landesbauordnung 2018 und weiterer Vorschriften im Land Nordrhein-Westfalen",
+        "title": "Drittes Gesetz zur Änderung der Landesbauordnung 2018 und weiterer Vorschriften im Land Nordrhein-Westfalen",
+        "id": "TOP-5",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Jochen Ritter",
+          "context": "main-speaker",
+          "firstname": "Jochen",
+          "lastname": "Ritter",
+          "originPersonID": "01762",
+          "faction": {
+            "label": "CDU",
+            "wid": "Q49762"
+          },
+          "wid": "Q30108825",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://www.landtag.nrw.de/videos/481b564b-5fa4-4a79-a3fb-02c67b34e976/playlist.m3u8#t=9586,9916",
+        "sourcePage": "https://www.landtag.nrw.de/home/mediathek/video.html?kid=481b564b-5fa4-4a79-a3fb-02c67b34e976&top-redner-id=15854",
+        "creator": "Landtag Nordrhein-Westfalen",
+        "license": "Landtag Nordrhein-Westfalen – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; Quellenangabe \"Landtag Nordrhein-Westfalen\". https://www.landtag.nrw.de/home/footer/impressum.html",
+        "originMediaID": "15854",
+        "additionalInformation": {
+          "startOffset": 9586.0,
+          "endOffset": 9916.0
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-video-page",
+        "kid": "481b564b-5fa4-4a79-a3fb-02c67b34e976",
+        "topRednerID": "15854",
+        "topNumber": "5",
+        "mdlId": "01762",
+        "funktionId": "",
+        "rednerRaw": "Jochen Ritter",
+        "fraktionRaw": "CDU",
+        "funktionRaw": "",
+        "startOffset": 9586,
+        "endOffset": 9916,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NW",
+      "electoralPeriod": {
+        "number": 18
+      },
+      "session": {
+        "number": 116,
+        "dateStart": "2026-01-29T10:00:00+02:00",
+        "dateEnd": "2026-01-29T16:54:49+02:00"
+      },
+      "dateStart": "2026-01-29T12:45:16+02:00",
+      "dateEnd": "2026-01-29T12:49:49+02:00",
+      "speechIndex": 30,
+      "originID": "18116-15855",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 5: Drittes Gesetz zur Änderung der Landesbauordnung 2018 und weiterer Vorschriften im Land Nordrhein-Westfalen",
+        "title": "Drittes Gesetz zur Änderung der Landesbauordnung 2018 und weiterer Vorschriften im Land Nordrhein-Westfalen",
+        "id": "TOP-5",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Sebastian Watermeier",
+          "context": "main-speaker",
+          "firstname": "Sebastian",
+          "lastname": "Watermeier",
+          "originPersonID": "01785",
+          "faction": {
+            "label": "SPD",
+            "wid": "Q49768"
+          },
+          "wid": "Q30156253",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://www.landtag.nrw.de/videos/481b564b-5fa4-4a79-a3fb-02c67b34e976/playlist.m3u8#t=9916,10189",
+        "sourcePage": "https://www.landtag.nrw.de/home/mediathek/video.html?kid=481b564b-5fa4-4a79-a3fb-02c67b34e976&top-redner-id=15855",
+        "creator": "Landtag Nordrhein-Westfalen",
+        "license": "Landtag Nordrhein-Westfalen – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; Quellenangabe \"Landtag Nordrhein-Westfalen\". https://www.landtag.nrw.de/home/footer/impressum.html",
+        "originMediaID": "15855",
+        "additionalInformation": {
+          "startOffset": 9916.0,
+          "endOffset": 10189.0
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-video-page",
+        "kid": "481b564b-5fa4-4a79-a3fb-02c67b34e976",
+        "topRednerID": "15855",
+        "topNumber": "5",
+        "mdlId": "01785",
+        "funktionId": "",
+        "rednerRaw": "Sebastian Watermeier",
+        "fraktionRaw": "SPD",
+        "funktionRaw": "",
+        "startOffset": 9916,
+        "endOffset": 10189,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NW",
+      "electoralPeriod": {
+        "number": 18
+      },
+      "session": {
+        "number": 116,
+        "dateStart": "2026-01-29T10:00:00+02:00",
+        "dateEnd": "2026-01-29T16:54:49+02:00"
+      },
+      "dateStart": "2026-01-29T12:49:49+02:00",
+      "dateEnd": "2026-01-29T12:55:15+02:00",
+      "speechIndex": 31,
+      "originID": "18116-15856",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 5: Drittes Gesetz zur Änderung der Landesbauordnung 2018 und weiterer Vorschriften im Land Nordrhein-Westfalen",
+        "title": "Drittes Gesetz zur Änderung der Landesbauordnung 2018 und weiterer Vorschriften im Land Nordrhein-Westfalen",
+        "id": "TOP-5",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Arndt Klocke",
+          "context": "main-speaker",
+          "firstname": "Arndt",
+          "lastname": "Klocke",
+          "originPersonID": "01566",
+          "faction": {
+            "label": "Bündnis 90/Die Grünen",
+            "wid": "Q49766"
+          },
+          "wid": "Q692059",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://www.landtag.nrw.de/videos/481b564b-5fa4-4a79-a3fb-02c67b34e976/playlist.m3u8#t=10189,10515",
+        "sourcePage": "https://www.landtag.nrw.de/home/mediathek/video.html?kid=481b564b-5fa4-4a79-a3fb-02c67b34e976&top-redner-id=15856",
+        "creator": "Landtag Nordrhein-Westfalen",
+        "license": "Landtag Nordrhein-Westfalen – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; Quellenangabe \"Landtag Nordrhein-Westfalen\". https://www.landtag.nrw.de/home/footer/impressum.html",
+        "originMediaID": "15856",
+        "additionalInformation": {
+          "startOffset": 10189.0,
+          "endOffset": 10515.0
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-video-page",
+        "kid": "481b564b-5fa4-4a79-a3fb-02c67b34e976",
+        "topRednerID": "15856",
+        "topNumber": "5",
+        "mdlId": "01566",
+        "funktionId": "",
+        "rednerRaw": "Arndt Klocke",
+        "fraktionRaw": "Bündnis 90/Die Grünen",
+        "funktionRaw": "",
+        "startOffset": 10189,
+        "endOffset": 10515,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NW",
+      "electoralPeriod": {
+        "number": 18
+      },
+      "session": {
+        "number": 116,
+        "dateStart": "2026-01-29T10:00:00+02:00",
+        "dateEnd": "2026-01-29T16:54:49+02:00"
+      },
+      "dateStart": "2026-01-29T12:55:15+02:00",
+      "dateEnd": "2026-01-29T13:00:44+02:00",
+      "speechIndex": 32,
+      "originID": "18116-15857",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 5: Drittes Gesetz zur Änderung der Landesbauordnung 2018 und weiterer Vorschriften im Land Nordrhein-Westfalen",
+        "title": "Drittes Gesetz zur Änderung der Landesbauordnung 2018 und weiterer Vorschriften im Land Nordrhein-Westfalen",
+        "id": "TOP-5",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Angela Freimuth",
+          "context": "main-speaker",
+          "firstname": "Angela",
+          "lastname": "Freimuth",
+          "originPersonID": "01374",
+          "faction": {
+            "label": "FDP",
+            "wid": "Q13124"
+          },
+          "wid": "Q532607",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://www.landtag.nrw.de/videos/481b564b-5fa4-4a79-a3fb-02c67b34e976/playlist.m3u8#t=10515,10844",
+        "sourcePage": "https://www.landtag.nrw.de/home/mediathek/video.html?kid=481b564b-5fa4-4a79-a3fb-02c67b34e976&top-redner-id=15857",
+        "creator": "Landtag Nordrhein-Westfalen",
+        "license": "Landtag Nordrhein-Westfalen – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; Quellenangabe \"Landtag Nordrhein-Westfalen\". https://www.landtag.nrw.de/home/footer/impressum.html",
+        "originMediaID": "15857",
+        "additionalInformation": {
+          "startOffset": 10515.0,
+          "endOffset": 10844.0
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-video-page",
+        "kid": "481b564b-5fa4-4a79-a3fb-02c67b34e976",
+        "topRednerID": "15857",
+        "topNumber": "5",
+        "mdlId": "01374",
+        "funktionId": "",
+        "rednerRaw": "Angela Freimuth",
+        "fraktionRaw": "FDP",
+        "funktionRaw": "",
+        "startOffset": 10515,
+        "endOffset": 10844,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NW",
+      "electoralPeriod": {
+        "number": 18
+      },
+      "session": {
+        "number": 116,
+        "dateStart": "2026-01-29T10:00:00+02:00",
+        "dateEnd": "2026-01-29T16:54:49+02:00"
+      },
+      "dateStart": "2026-01-29T13:00:44+02:00",
+      "dateEnd": "2026-01-29T13:06:53+02:00",
+      "speechIndex": 33,
+      "originID": "18116-15858",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 5: Drittes Gesetz zur Änderung der Landesbauordnung 2018 und weiterer Vorschriften im Land Nordrhein-Westfalen",
+        "title": "Drittes Gesetz zur Änderung der Landesbauordnung 2018 und weiterer Vorschriften im Land Nordrhein-Westfalen",
+        "id": "TOP-5",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Carlo Clemens",
+          "context": "main-speaker",
+          "firstname": "Carlo",
+          "lastname": "Clemens",
+          "originPersonID": "01811",
+          "faction": {
+            "label": "AfD",
+            "wid": "Q6721203"
+          },
+          "wid": "Q107622886",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://www.landtag.nrw.de/videos/481b564b-5fa4-4a79-a3fb-02c67b34e976/playlist.m3u8#t=10844,11213",
+        "sourcePage": "https://www.landtag.nrw.de/home/mediathek/video.html?kid=481b564b-5fa4-4a79-a3fb-02c67b34e976&top-redner-id=15858",
+        "creator": "Landtag Nordrhein-Westfalen",
+        "license": "Landtag Nordrhein-Westfalen – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; Quellenangabe \"Landtag Nordrhein-Westfalen\". https://www.landtag.nrw.de/home/footer/impressum.html",
+        "originMediaID": "15858",
+        "additionalInformation": {
+          "startOffset": 10844.0,
+          "endOffset": 11213.0
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-video-page",
+        "kid": "481b564b-5fa4-4a79-a3fb-02c67b34e976",
+        "topRednerID": "15858",
+        "topNumber": "5",
+        "mdlId": "01811",
+        "funktionId": "",
+        "rednerRaw": "Carlo Clemens",
+        "fraktionRaw": "AfD",
+        "funktionRaw": "",
+        "startOffset": 10844,
+        "endOffset": 11213,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NW",
+      "electoralPeriod": {
+        "number": 18
+      },
+      "session": {
+        "number": 116,
+        "dateStart": "2026-01-29T10:00:00+02:00",
+        "dateEnd": "2026-01-29T16:54:49+02:00"
+      },
+      "dateStart": "2026-01-29T13:06:53+02:00",
+      "dateEnd": "2026-01-29T13:11:46+02:00",
+      "speechIndex": 34,
+      "originID": "18116-15860",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 6: Recht auf Vergessenwerden für Krebsüberlebende im jungen Alter! – Nach der Heilung beginnt das Leben, nicht die nächste Hürde",
+        "title": "Recht auf Vergessenwerden für Krebsüberlebende im jungen Alter! – Nach der Heilung beginnt das Leben, nicht die nächste Hürde",
+        "id": "TOP-6",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Rodion Bakum",
+          "context": "main-speaker",
+          "firstname": "Rodion",
+          "lastname": "Bakum",
+          "originPersonID": "01802",
+          "faction": {
+            "label": "SPD",
+            "wid": "Q49768"
+          }
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://www.landtag.nrw.de/videos/481b564b-5fa4-4a79-a3fb-02c67b34e976/playlist.m3u8#t=11213,11506",
+        "sourcePage": "https://www.landtag.nrw.de/home/mediathek/video.html?kid=481b564b-5fa4-4a79-a3fb-02c67b34e976&top-redner-id=15860",
+        "creator": "Landtag Nordrhein-Westfalen",
+        "license": "Landtag Nordrhein-Westfalen – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; Quellenangabe \"Landtag Nordrhein-Westfalen\". https://www.landtag.nrw.de/home/footer/impressum.html",
+        "originMediaID": "15860",
+        "additionalInformation": {
+          "startOffset": 11213.0,
+          "endOffset": 11506.0
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-video-page",
+        "kid": "481b564b-5fa4-4a79-a3fb-02c67b34e976",
+        "topRednerID": "15860",
+        "topNumber": "6",
+        "mdlId": "01802",
+        "funktionId": "",
+        "rednerRaw": "Rodion Bakum",
+        "fraktionRaw": "SPD",
+        "funktionRaw": "",
+        "startOffset": 11213,
+        "endOffset": 11506,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NW",
+      "electoralPeriod": {
+        "number": 18
+      },
+      "session": {
+        "number": 116,
+        "dateStart": "2026-01-29T10:00:00+02:00",
+        "dateEnd": "2026-01-29T16:54:49+02:00"
+      },
+      "dateStart": "2026-01-29T13:11:46+02:00",
+      "dateEnd": "2026-01-29T13:16:56+02:00",
+      "speechIndex": 35,
+      "originID": "18116-15861",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 6: Recht auf Vergessenwerden für Krebsüberlebende im jungen Alter! – Nach der Heilung beginnt das Leben, nicht die nächste Hürde",
+        "title": "Recht auf Vergessenwerden für Krebsüberlebende im jungen Alter! – Nach der Heilung beginnt das Leben, nicht die nächste Hürde",
+        "id": "TOP-6",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Daniel Hagemeier",
+          "context": "main-speaker",
+          "firstname": "Daniel",
+          "lastname": "Hagemeier",
+          "originPersonID": "01728",
+          "faction": {
+            "label": "CDU",
+            "wid": "Q49762"
+          },
+          "wid": "Q33061649",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://www.landtag.nrw.de/videos/481b564b-5fa4-4a79-a3fb-02c67b34e976/playlist.m3u8#t=11506,11816",
+        "sourcePage": "https://www.landtag.nrw.de/home/mediathek/video.html?kid=481b564b-5fa4-4a79-a3fb-02c67b34e976&top-redner-id=15861",
+        "creator": "Landtag Nordrhein-Westfalen",
+        "license": "Landtag Nordrhein-Westfalen – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; Quellenangabe \"Landtag Nordrhein-Westfalen\". https://www.landtag.nrw.de/home/footer/impressum.html",
+        "originMediaID": "15861",
+        "additionalInformation": {
+          "startOffset": 11506.0,
+          "endOffset": 11816.0
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-video-page",
+        "kid": "481b564b-5fa4-4a79-a3fb-02c67b34e976",
+        "topRednerID": "15861",
+        "topNumber": "6",
+        "mdlId": "01728",
+        "funktionId": "",
+        "rednerRaw": "Daniel Hagemeier",
+        "fraktionRaw": "CDU",
+        "funktionRaw": "",
+        "startOffset": 11506,
+        "endOffset": 11816,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NW",
+      "electoralPeriod": {
+        "number": 18
+      },
+      "session": {
+        "number": 116,
+        "dateStart": "2026-01-29T10:00:00+02:00",
+        "dateEnd": "2026-01-29T16:54:49+02:00"
+      },
+      "dateStart": "2026-01-29T13:16:56+02:00",
+      "dateEnd": "2026-01-29T13:22:22+02:00",
+      "speechIndex": 36,
+      "originID": "18116-15862",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 6: Recht auf Vergessenwerden für Krebsüberlebende im jungen Alter! – Nach der Heilung beginnt das Leben, nicht die nächste Hürde",
+        "title": "Recht auf Vergessenwerden für Krebsüberlebende im jungen Alter! – Nach der Heilung beginnt das Leben, nicht die nächste Hürde",
+        "id": "TOP-6",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Dennis Sonne",
+          "context": "main-speaker",
+          "firstname": "Dennis",
+          "lastname": "Sonne",
+          "originPersonID": "01858",
+          "faction": {
+            "label": "Bündnis 90/Die Grünen",
+            "wid": "Q49766"
+          },
+          "wid": "Q112042468",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://www.landtag.nrw.de/videos/481b564b-5fa4-4a79-a3fb-02c67b34e976/playlist.m3u8#t=11816,12142",
+        "sourcePage": "https://www.landtag.nrw.de/home/mediathek/video.html?kid=481b564b-5fa4-4a79-a3fb-02c67b34e976&top-redner-id=15862",
+        "creator": "Landtag Nordrhein-Westfalen",
+        "license": "Landtag Nordrhein-Westfalen – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; Quellenangabe \"Landtag Nordrhein-Westfalen\". https://www.landtag.nrw.de/home/footer/impressum.html",
+        "originMediaID": "15862",
+        "additionalInformation": {
+          "startOffset": 11816.0,
+          "endOffset": 12142.0
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-video-page",
+        "kid": "481b564b-5fa4-4a79-a3fb-02c67b34e976",
+        "topRednerID": "15862",
+        "topNumber": "6",
+        "mdlId": "01858",
+        "funktionId": "",
+        "rednerRaw": "Dennis Sonne",
+        "fraktionRaw": "Bündnis 90/Die Grünen",
+        "funktionRaw": "",
+        "startOffset": 11816,
+        "endOffset": 12142,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NW",
+      "electoralPeriod": {
+        "number": 18
+      },
+      "session": {
+        "number": 116,
+        "dateStart": "2026-01-29T10:00:00+02:00",
+        "dateEnd": "2026-01-29T16:54:49+02:00"
+      },
+      "dateStart": "2026-01-29T13:22:22+02:00",
+      "dateEnd": "2026-01-29T13:27:26+02:00",
+      "speechIndex": 37,
+      "originID": "18116-15863",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 6: Recht auf Vergessenwerden für Krebsüberlebende im jungen Alter! – Nach der Heilung beginnt das Leben, nicht die nächste Hürde",
+        "title": "Recht auf Vergessenwerden für Krebsüberlebende im jungen Alter! – Nach der Heilung beginnt das Leben, nicht die nächste Hürde",
+        "id": "TOP-6",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Yvonne Gebauer",
+          "context": "main-speaker",
+          "firstname": "Yvonne",
+          "lastname": "Gebauer",
+          "originPersonID": "01628",
+          "faction": {
+            "label": "FDP",
+            "wid": "Q13124"
+          },
+          "wid": "Q2602376",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://www.landtag.nrw.de/videos/481b564b-5fa4-4a79-a3fb-02c67b34e976/playlist.m3u8#t=12142,12446",
+        "sourcePage": "https://www.landtag.nrw.de/home/mediathek/video.html?kid=481b564b-5fa4-4a79-a3fb-02c67b34e976&top-redner-id=15863",
+        "creator": "Landtag Nordrhein-Westfalen",
+        "license": "Landtag Nordrhein-Westfalen – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; Quellenangabe \"Landtag Nordrhein-Westfalen\". https://www.landtag.nrw.de/home/footer/impressum.html",
+        "originMediaID": "15863",
+        "additionalInformation": {
+          "startOffset": 12142.0,
+          "endOffset": 12446.0
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-video-page",
+        "kid": "481b564b-5fa4-4a79-a3fb-02c67b34e976",
+        "topRednerID": "15863",
+        "topNumber": "6",
+        "mdlId": "01628",
+        "funktionId": "",
+        "rednerRaw": "Yvonne Gebauer",
+        "fraktionRaw": "FDP",
+        "funktionRaw": "",
+        "startOffset": 12142,
+        "endOffset": 12446,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NW",
+      "electoralPeriod": {
+        "number": 18
+      },
+      "session": {
+        "number": 116,
+        "dateStart": "2026-01-29T10:00:00+02:00",
+        "dateEnd": "2026-01-29T16:54:49+02:00"
+      },
+      "dateStart": "2026-01-29T13:27:26+02:00",
+      "dateEnd": "2026-01-29T13:31:35+02:00",
+      "speechIndex": 38,
+      "originID": "18116-15864",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 6: Recht auf Vergessenwerden für Krebsüberlebende im jungen Alter! – Nach der Heilung beginnt das Leben, nicht die nächste Hürde",
+        "title": "Recht auf Vergessenwerden für Krebsüberlebende im jungen Alter! – Nach der Heilung beginnt das Leben, nicht die nächste Hürde",
+        "id": "TOP-6",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Martin Vincentz",
+          "context": "main-speaker",
+          "firstname": "Martin",
+          "lastname": "Vincentz",
+          "originPersonID": "01780",
+          "faction": {
+            "label": "AfD",
+            "wid": "Q6721203"
+          },
+          "wid": "Q29959870",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://www.landtag.nrw.de/videos/481b564b-5fa4-4a79-a3fb-02c67b34e976/playlist.m3u8#t=12446,12695",
+        "sourcePage": "https://www.landtag.nrw.de/home/mediathek/video.html?kid=481b564b-5fa4-4a79-a3fb-02c67b34e976&top-redner-id=15864",
+        "creator": "Landtag Nordrhein-Westfalen",
+        "license": "Landtag Nordrhein-Westfalen – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; Quellenangabe \"Landtag Nordrhein-Westfalen\". https://www.landtag.nrw.de/home/footer/impressum.html",
+        "originMediaID": "15864",
+        "additionalInformation": {
+          "startOffset": 12446.0,
+          "endOffset": 12695.0
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-video-page",
+        "kid": "481b564b-5fa4-4a79-a3fb-02c67b34e976",
+        "topRednerID": "15864",
+        "topNumber": "6",
+        "mdlId": "01780",
+        "funktionId": "",
+        "rednerRaw": "Dr. Martin Vincentz",
+        "fraktionRaw": "AfD",
+        "funktionRaw": "",
+        "startOffset": 12446,
+        "endOffset": 12695,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NW",
+      "electoralPeriod": {
+        "number": 18
+      },
+      "session": {
+        "number": 116,
+        "dateStart": "2026-01-29T10:00:00+02:00",
+        "dateEnd": "2026-01-29T16:54:49+02:00"
+      },
+      "dateStart": "2026-01-29T13:31:35+02:00",
+      "dateEnd": "2026-01-29T13:37:39+02:00",
+      "speechIndex": 39,
+      "originID": "18116-15865",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 6: Recht auf Vergessenwerden für Krebsüberlebende im jungen Alter! – Nach der Heilung beginnt das Leben, nicht die nächste Hürde",
+        "title": "Recht auf Vergessenwerden für Krebsüberlebende im jungen Alter! – Nach der Heilung beginnt das Leben, nicht die nächste Hürde",
+        "id": "TOP-6",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Dorothee Feller",
+          "context": "main-speaker",
+          "firstname": "Dorothee",
+          "lastname": "Feller",
+          "role": "Ministerin",
+          "originPersonID": "18MSC1",
+          "faction": {
+            "label": "CDU",
+            "wid": "Q49762"
+          }
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://www.landtag.nrw.de/videos/481b564b-5fa4-4a79-a3fb-02c67b34e976/playlist.m3u8#t=12695,13059",
+        "sourcePage": "https://www.landtag.nrw.de/home/mediathek/video.html?kid=481b564b-5fa4-4a79-a3fb-02c67b34e976&top-redner-id=15865",
+        "creator": "Landtag Nordrhein-Westfalen",
+        "license": "Landtag Nordrhein-Westfalen – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; Quellenangabe \"Landtag Nordrhein-Westfalen\". https://www.landtag.nrw.de/home/footer/impressum.html",
+        "originMediaID": "15865",
+        "additionalInformation": {
+          "startOffset": 12695.0,
+          "endOffset": 13059.0
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-video-page",
+        "kid": "481b564b-5fa4-4a79-a3fb-02c67b34e976",
+        "topRednerID": "15865",
+        "topNumber": "6",
+        "mdlId": "",
+        "funktionId": "18MSC1",
+        "rednerRaw": "Dorothee Feller",
+        "fraktionRaw": "CDU",
+        "funktionRaw": "Ministerin",
+        "startOffset": 12695,
+        "endOffset": 13059,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NW",
+      "electoralPeriod": {
+        "number": 18
+      },
+      "session": {
+        "number": 116,
+        "dateStart": "2026-01-29T10:00:00+02:00",
+        "dateEnd": "2026-01-29T16:54:49+02:00"
+      },
+      "dateStart": "2026-01-29T13:37:39+02:00",
+      "dateEnd": "2026-01-29T13:42:11+02:00",
+      "speechIndex": 40,
+      "originID": "18116-15867",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 7: Mehr Wertschätzung für den Justizvollzug",
+        "title": "Mehr Wertschätzung für den Justizvollzug",
+        "id": "TOP-7",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Werner Pfeil",
+          "context": "main-speaker",
+          "firstname": "Werner",
+          "lastname": "Pfeil",
+          "originPersonID": "01757",
+          "faction": {
+            "label": "FDP",
+            "wid": "Q13124"
+          },
+          "wid": "Q29995117",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://www.landtag.nrw.de/videos/481b564b-5fa4-4a79-a3fb-02c67b34e976/playlist.m3u8#t=13059,13331",
+        "sourcePage": "https://www.landtag.nrw.de/home/mediathek/video.html?kid=481b564b-5fa4-4a79-a3fb-02c67b34e976&top-redner-id=15867",
+        "creator": "Landtag Nordrhein-Westfalen",
+        "license": "Landtag Nordrhein-Westfalen – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; Quellenangabe \"Landtag Nordrhein-Westfalen\". https://www.landtag.nrw.de/home/footer/impressum.html",
+        "originMediaID": "15867",
+        "additionalInformation": {
+          "startOffset": 13059.0,
+          "endOffset": 13331.0
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-video-page",
+        "kid": "481b564b-5fa4-4a79-a3fb-02c67b34e976",
+        "topRednerID": "15867",
+        "topNumber": "7",
+        "mdlId": "01757",
+        "funktionId": "",
+        "rednerRaw": "Dr. Werner Pfeil",
+        "fraktionRaw": "FDP",
+        "funktionRaw": "",
+        "startOffset": 13059,
+        "endOffset": 13331,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NW",
+      "electoralPeriod": {
+        "number": 18
+      },
+      "session": {
+        "number": 116,
+        "dateStart": "2026-01-29T10:00:00+02:00",
+        "dateEnd": "2026-01-29T16:54:49+02:00"
+      },
+      "dateStart": "2026-01-29T13:42:11+02:00",
+      "dateEnd": "2026-01-29T13:49:25+02:00",
+      "speechIndex": 41,
+      "originID": "18116-15868",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 7: Mehr Wertschätzung für den Justizvollzug",
+        "title": "Mehr Wertschätzung für den Justizvollzug",
+        "id": "TOP-7",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Simone Wendland",
+          "context": "main-speaker",
+          "firstname": "Simone",
+          "lastname": "Wendland",
+          "originPersonID": "01786",
+          "faction": {
+            "label": "CDU",
+            "wid": "Q49762"
+          },
+          "wid": "Q30102918",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://www.landtag.nrw.de/videos/481b564b-5fa4-4a79-a3fb-02c67b34e976/playlist.m3u8#t=13331,13765",
+        "sourcePage": "https://www.landtag.nrw.de/home/mediathek/video.html?kid=481b564b-5fa4-4a79-a3fb-02c67b34e976&top-redner-id=15868",
+        "creator": "Landtag Nordrhein-Westfalen",
+        "license": "Landtag Nordrhein-Westfalen – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; Quellenangabe \"Landtag Nordrhein-Westfalen\". https://www.landtag.nrw.de/home/footer/impressum.html",
+        "originMediaID": "15868",
+        "additionalInformation": {
+          "startOffset": 13331.0,
+          "endOffset": 13765.0
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-video-page",
+        "kid": "481b564b-5fa4-4a79-a3fb-02c67b34e976",
+        "topRednerID": "15868",
+        "topNumber": "7",
+        "mdlId": "01786",
+        "funktionId": "",
+        "rednerRaw": "Simone Wendland",
+        "fraktionRaw": "CDU",
+        "funktionRaw": "",
+        "startOffset": 13331,
+        "endOffset": 13765,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NW",
+      "electoralPeriod": {
+        "number": 18
+      },
+      "session": {
+        "number": 116,
+        "dateStart": "2026-01-29T10:00:00+02:00",
+        "dateEnd": "2026-01-29T16:54:49+02:00"
+      },
+      "dateStart": "2026-01-29T13:49:25+02:00",
+      "dateEnd": "2026-01-29T13:54:47+02:00",
+      "speechIndex": 42,
+      "originID": "18116-15869",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 7: Mehr Wertschätzung für den Justizvollzug",
+        "title": "Mehr Wertschätzung für den Justizvollzug",
+        "id": "TOP-7",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Hartmut Ganzke",
+          "context": "main-speaker",
+          "firstname": "Hartmut",
+          "lastname": "Ganzke",
+          "originPersonID": "01627",
+          "faction": {
+            "label": "SPD",
+            "wid": "Q49768"
+          },
+          "wid": "Q1587427",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://www.landtag.nrw.de/videos/481b564b-5fa4-4a79-a3fb-02c67b34e976/playlist.m3u8#t=13765,14087",
+        "sourcePage": "https://www.landtag.nrw.de/home/mediathek/video.html?kid=481b564b-5fa4-4a79-a3fb-02c67b34e976&top-redner-id=15869",
+        "creator": "Landtag Nordrhein-Westfalen",
+        "license": "Landtag Nordrhein-Westfalen – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; Quellenangabe \"Landtag Nordrhein-Westfalen\". https://www.landtag.nrw.de/home/footer/impressum.html",
+        "originMediaID": "15869",
+        "additionalInformation": {
+          "startOffset": 13765.0,
+          "endOffset": 14087.0
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-video-page",
+        "kid": "481b564b-5fa4-4a79-a3fb-02c67b34e976",
+        "topRednerID": "15869",
+        "topNumber": "7",
+        "mdlId": "01627",
+        "funktionId": "",
+        "rednerRaw": "Hartmut Ganzke",
+        "fraktionRaw": "SPD",
+        "funktionRaw": "",
+        "startOffset": 13765,
+        "endOffset": 14087,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NW",
+      "electoralPeriod": {
+        "number": 18
+      },
+      "session": {
+        "number": 116,
+        "dateStart": "2026-01-29T10:00:00+02:00",
+        "dateEnd": "2026-01-29T16:54:49+02:00"
+      },
+      "dateStart": "2026-01-29T13:54:47+02:00",
+      "dateEnd": "2026-01-29T13:59:17+02:00",
+      "speechIndex": 43,
+      "originID": "18116-15870",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 7: Mehr Wertschätzung für den Justizvollzug",
+        "title": "Mehr Wertschätzung für den Justizvollzug",
+        "id": "TOP-7",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Dagmar Hanses",
+          "context": "main-speaker",
+          "firstname": "Dagmar",
+          "lastname": "Hanses",
+          "originPersonID": "01560",
+          "faction": {
+            "label": "Bündnis 90/Die Grünen",
+            "wid": "Q49766"
+          },
+          "wid": "Q1157280",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://www.landtag.nrw.de/videos/481b564b-5fa4-4a79-a3fb-02c67b34e976/playlist.m3u8#t=14087,14357",
+        "sourcePage": "https://www.landtag.nrw.de/home/mediathek/video.html?kid=481b564b-5fa4-4a79-a3fb-02c67b34e976&top-redner-id=15870",
+        "creator": "Landtag Nordrhein-Westfalen",
+        "license": "Landtag Nordrhein-Westfalen – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; Quellenangabe \"Landtag Nordrhein-Westfalen\". https://www.landtag.nrw.de/home/footer/impressum.html",
+        "originMediaID": "15870",
+        "additionalInformation": {
+          "startOffset": 14087.0,
+          "endOffset": 14357.0
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-video-page",
+        "kid": "481b564b-5fa4-4a79-a3fb-02c67b34e976",
+        "topRednerID": "15870",
+        "topNumber": "7",
+        "mdlId": "01560",
+        "funktionId": "",
+        "rednerRaw": "Dagmar Hanses",
+        "fraktionRaw": "Bündnis 90/Die Grünen",
+        "funktionRaw": "",
+        "startOffset": 14087,
+        "endOffset": 14357,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NW",
+      "electoralPeriod": {
+        "number": 18
+      },
+      "session": {
+        "number": 116,
+        "dateStart": "2026-01-29T10:00:00+02:00",
+        "dateEnd": "2026-01-29T16:54:49+02:00"
+      },
+      "dateStart": "2026-01-29T13:59:17+02:00",
+      "dateEnd": "2026-01-29T14:04:51+02:00",
+      "speechIndex": 44,
+      "originID": "18116-15871",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 7: Mehr Wertschätzung für den Justizvollzug",
+        "title": "Mehr Wertschätzung für den Justizvollzug",
+        "id": "TOP-7",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Thomas Röckemann",
+          "context": "main-speaker",
+          "firstname": "Thomas",
+          "lastname": "Röckemann",
+          "originPersonID": "01764",
+          "faction": {
+            "label": "AfD",
+            "wid": "Q6721203"
+          },
+          "wid": "Q29962248",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://www.landtag.nrw.de/videos/481b564b-5fa4-4a79-a3fb-02c67b34e976/playlist.m3u8#t=14357,14691",
+        "sourcePage": "https://www.landtag.nrw.de/home/mediathek/video.html?kid=481b564b-5fa4-4a79-a3fb-02c67b34e976&top-redner-id=15871",
+        "creator": "Landtag Nordrhein-Westfalen",
+        "license": "Landtag Nordrhein-Westfalen – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; Quellenangabe \"Landtag Nordrhein-Westfalen\". https://www.landtag.nrw.de/home/footer/impressum.html",
+        "originMediaID": "15871",
+        "additionalInformation": {
+          "startOffset": 14357.0,
+          "endOffset": 14691.0
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-video-page",
+        "kid": "481b564b-5fa4-4a79-a3fb-02c67b34e976",
+        "topRednerID": "15871",
+        "topNumber": "7",
+        "mdlId": "01764",
+        "funktionId": "",
+        "rednerRaw": "Thomas Röckemann",
+        "fraktionRaw": "AfD",
+        "funktionRaw": "",
+        "startOffset": 14357,
+        "endOffset": 14691,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NW",
+      "electoralPeriod": {
+        "number": 18
+      },
+      "session": {
+        "number": 116,
+        "dateStart": "2026-01-29T10:00:00+02:00",
+        "dateEnd": "2026-01-29T16:54:49+02:00"
+      },
+      "dateStart": "2026-01-29T14:04:51+02:00",
+      "dateEnd": "2026-01-29T14:09:48+02:00",
+      "speechIndex": 45,
+      "originID": "18116-15872",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 7: Mehr Wertschätzung für den Justizvollzug",
+        "title": "Mehr Wertschätzung für den Justizvollzug",
+        "id": "TOP-7",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Dorothee Feller",
+          "context": "main-speaker",
+          "firstname": "Dorothee",
+          "lastname": "Feller",
+          "role": "Ministerin",
+          "originPersonID": "18MSC1",
+          "faction": {
+            "label": "CDU",
+            "wid": "Q49762"
+          }
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://www.landtag.nrw.de/videos/481b564b-5fa4-4a79-a3fb-02c67b34e976/playlist.m3u8#t=14691,14988",
+        "sourcePage": "https://www.landtag.nrw.de/home/mediathek/video.html?kid=481b564b-5fa4-4a79-a3fb-02c67b34e976&top-redner-id=15872",
+        "creator": "Landtag Nordrhein-Westfalen",
+        "license": "Landtag Nordrhein-Westfalen – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; Quellenangabe \"Landtag Nordrhein-Westfalen\". https://www.landtag.nrw.de/home/footer/impressum.html",
+        "originMediaID": "15872",
+        "additionalInformation": {
+          "startOffset": 14691.0,
+          "endOffset": 14988.0
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-video-page",
+        "kid": "481b564b-5fa4-4a79-a3fb-02c67b34e976",
+        "topRednerID": "15872",
+        "topNumber": "7",
+        "mdlId": "",
+        "funktionId": "18MSC1",
+        "rednerRaw": "Dorothee Feller",
+        "fraktionRaw": "CDU",
+        "funktionRaw": "Ministerin",
+        "startOffset": 14691,
+        "endOffset": 14988,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NW",
+      "electoralPeriod": {
+        "number": 18
+      },
+      "session": {
+        "number": 116,
+        "dateStart": "2026-01-29T10:00:00+02:00",
+        "dateEnd": "2026-01-29T16:54:49+02:00"
+      },
+      "dateStart": "2026-01-29T14:09:48+02:00",
+      "dateEnd": "2026-01-29T14:14:28+02:00",
+      "speechIndex": 46,
+      "originID": "18116-15874",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 8: Solidarität mit dem Freiheitsstreben des iranischen Volkes – NRW leistet seinen Beitrag zur Bekämpfung des Mullah-Regimes",
+        "title": "Solidarität mit dem Freiheitsstreben des iranischen Volkes – NRW leistet seinen Beitrag zur Bekämpfung des Mullah-Regimes",
+        "id": "TOP-8",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Sven W. Tritschler",
+          "context": "main-speaker",
+          "firstname": "Sven W.",
+          "lastname": "Tritschler",
+          "originPersonID": "01777",
+          "faction": {
+            "label": "AfD",
+            "wid": "Q6721203"
+          }
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://www.landtag.nrw.de/videos/481b564b-5fa4-4a79-a3fb-02c67b34e976/playlist.m3u8#t=14988,15268",
+        "sourcePage": "https://www.landtag.nrw.de/home/mediathek/video.html?kid=481b564b-5fa4-4a79-a3fb-02c67b34e976&top-redner-id=15874",
+        "creator": "Landtag Nordrhein-Westfalen",
+        "license": "Landtag Nordrhein-Westfalen – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; Quellenangabe \"Landtag Nordrhein-Westfalen\". https://www.landtag.nrw.de/home/footer/impressum.html",
+        "originMediaID": "15874",
+        "additionalInformation": {
+          "startOffset": 14988.0,
+          "endOffset": 15268.0
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-video-page",
+        "kid": "481b564b-5fa4-4a79-a3fb-02c67b34e976",
+        "topRednerID": "15874",
+        "topNumber": "8",
+        "mdlId": "01777",
+        "funktionId": "",
+        "rednerRaw": "Sven W. Tritschler",
+        "fraktionRaw": "AfD",
+        "funktionRaw": "",
+        "startOffset": 14988,
+        "endOffset": 15268,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NW",
+      "electoralPeriod": {
+        "number": 18
+      },
+      "session": {
+        "number": 116,
+        "dateStart": "2026-01-29T10:00:00+02:00",
+        "dateEnd": "2026-01-29T16:54:49+02:00"
+      },
+      "dateStart": "2026-01-29T14:14:28+02:00",
+      "dateEnd": "2026-01-29T14:18:32+02:00",
+      "speechIndex": 47,
+      "originID": "18116-15875",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 8: Solidarität mit dem Freiheitsstreben des iranischen Volkes – NRW leistet seinen Beitrag zur Bekämpfung des Mullah-Regimes",
+        "title": "Solidarität mit dem Freiheitsstreben des iranischen Volkes – NRW leistet seinen Beitrag zur Bekämpfung des Mullah-Regimes",
+        "id": "TOP-8",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Romina Plonsker",
+          "context": "main-speaker",
+          "firstname": "Romina",
+          "lastname": "Plonsker",
+          "originPersonID": "01758",
+          "faction": {
+            "label": "CDU",
+            "wid": "Q49762"
+          },
+          "wid": "Q30275049",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://www.landtag.nrw.de/videos/481b564b-5fa4-4a79-a3fb-02c67b34e976/playlist.m3u8#t=15268,15512",
+        "sourcePage": "https://www.landtag.nrw.de/home/mediathek/video.html?kid=481b564b-5fa4-4a79-a3fb-02c67b34e976&top-redner-id=15875",
+        "creator": "Landtag Nordrhein-Westfalen",
+        "license": "Landtag Nordrhein-Westfalen – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; Quellenangabe \"Landtag Nordrhein-Westfalen\". https://www.landtag.nrw.de/home/footer/impressum.html",
+        "originMediaID": "15875",
+        "additionalInformation": {
+          "startOffset": 15268.0,
+          "endOffset": 15512.0
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-video-page",
+        "kid": "481b564b-5fa4-4a79-a3fb-02c67b34e976",
+        "topRednerID": "15875",
+        "topNumber": "8",
+        "mdlId": "01758",
+        "funktionId": "",
+        "rednerRaw": "Romina Plonsker",
+        "fraktionRaw": "CDU",
+        "funktionRaw": "",
+        "startOffset": 15268,
+        "endOffset": 15512,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NW",
+      "electoralPeriod": {
+        "number": 18
+      },
+      "session": {
+        "number": 116,
+        "dateStart": "2026-01-29T10:00:00+02:00",
+        "dateEnd": "2026-01-29T16:54:49+02:00"
+      },
+      "dateStart": "2026-01-29T14:18:32+02:00",
+      "dateEnd": "2026-01-29T14:29:41+02:00",
+      "speechIndex": 48,
+      "originID": "18116-15876",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 8: Solidarität mit dem Freiheitsstreben des iranischen Volkes – NRW leistet seinen Beitrag zur Bekämpfung des Mullah-Regimes",
+        "title": "Solidarität mit dem Freiheitsstreben des iranischen Volkes – NRW leistet seinen Beitrag zur Bekämpfung des Mullah-Regimes",
+        "id": "TOP-8",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Josef Neumann",
+          "context": "main-speaker",
+          "firstname": "Josef",
+          "lastname": "Neumann",
+          "originPersonID": "01580",
+          "faction": {
+            "label": "SPD",
+            "wid": "Q49768"
+          },
+          "wid": "Q1705368",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://www.landtag.nrw.de/videos/481b564b-5fa4-4a79-a3fb-02c67b34e976/playlist.m3u8#t=15512,16181",
+        "sourcePage": "https://www.landtag.nrw.de/home/mediathek/video.html?kid=481b564b-5fa4-4a79-a3fb-02c67b34e976&top-redner-id=15876",
+        "creator": "Landtag Nordrhein-Westfalen",
+        "license": "Landtag Nordrhein-Westfalen – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; Quellenangabe \"Landtag Nordrhein-Westfalen\". https://www.landtag.nrw.de/home/footer/impressum.html",
+        "originMediaID": "15876",
+        "additionalInformation": {
+          "startOffset": 15512.0,
+          "endOffset": 16181.0
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-video-page",
+        "kid": "481b564b-5fa4-4a79-a3fb-02c67b34e976",
+        "topRednerID": "15876",
+        "topNumber": "8",
+        "mdlId": "01580",
+        "funktionId": "",
+        "rednerRaw": "Josef Neumann",
+        "fraktionRaw": "SPD",
+        "funktionRaw": "",
+        "startOffset": 15512,
+        "endOffset": 16181,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NW",
+      "electoralPeriod": {
+        "number": 18
+      },
+      "session": {
+        "number": 116,
+        "dateStart": "2026-01-29T10:00:00+02:00",
+        "dateEnd": "2026-01-29T16:54:49+02:00"
+      },
+      "dateStart": "2026-01-29T14:29:41+02:00",
+      "dateEnd": "2026-01-29T14:40:37+02:00",
+      "speechIndex": 49,
+      "originID": "18116-15877",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 8: Solidarität mit dem Freiheitsstreben des iranischen Volkes – NRW leistet seinen Beitrag zur Bekämpfung des Mullah-Regimes",
+        "title": "Solidarität mit dem Freiheitsstreben des iranischen Volkes – NRW leistet seinen Beitrag zur Bekämpfung des Mullah-Regimes",
+        "id": "TOP-8",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Berivan Aymaz",
+          "context": "main-speaker",
+          "firstname": "Berivan",
+          "lastname": "Aymaz",
+          "originPersonID": "01706",
+          "faction": {
+            "label": "Bündnis 90/Die Grünen",
+            "wid": "Q49766"
+          },
+          "wid": "Q29961583",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://www.landtag.nrw.de/videos/481b564b-5fa4-4a79-a3fb-02c67b34e976/playlist.m3u8#t=16181,16837",
+        "sourcePage": "https://www.landtag.nrw.de/home/mediathek/video.html?kid=481b564b-5fa4-4a79-a3fb-02c67b34e976&top-redner-id=15877",
+        "creator": "Landtag Nordrhein-Westfalen",
+        "license": "Landtag Nordrhein-Westfalen – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; Quellenangabe \"Landtag Nordrhein-Westfalen\". https://www.landtag.nrw.de/home/footer/impressum.html",
+        "originMediaID": "15877",
+        "additionalInformation": {
+          "startOffset": 16181.0,
+          "endOffset": 16837.0
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-video-page",
+        "kid": "481b564b-5fa4-4a79-a3fb-02c67b34e976",
+        "topRednerID": "15877",
+        "topNumber": "8",
+        "mdlId": "01706",
+        "funktionId": "",
+        "rednerRaw": "Berivan Aymaz",
+        "fraktionRaw": "Bündnis 90/Die Grünen",
+        "funktionRaw": "",
+        "startOffset": 16181,
+        "endOffset": 16837,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NW",
+      "electoralPeriod": {
+        "number": 18
+      },
+      "session": {
+        "number": 116,
+        "dateStart": "2026-01-29T10:00:00+02:00",
+        "dateEnd": "2026-01-29T16:54:49+02:00"
+      },
+      "dateStart": "2026-01-29T14:40:37+02:00",
+      "dateEnd": "2026-01-29T14:42:35+02:00",
+      "speechIndex": 50,
+      "originID": "18116-15878",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 8: Solidarität mit dem Freiheitsstreben des iranischen Volkes – NRW leistet seinen Beitrag zur Bekämpfung des Mullah-Regimes",
+        "title": "Solidarität mit dem Freiheitsstreben des iranischen Volkes – NRW leistet seinen Beitrag zur Bekämpfung des Mullah-Regimes",
+        "id": "TOP-8",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Werner Pfeil",
+          "context": "main-speaker",
+          "firstname": "Werner",
+          "lastname": "Pfeil",
+          "originPersonID": "01757",
+          "faction": {
+            "label": "FDP",
+            "wid": "Q13124"
+          },
+          "wid": "Q29995117",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://www.landtag.nrw.de/videos/481b564b-5fa4-4a79-a3fb-02c67b34e976/playlist.m3u8#t=16837,16955",
+        "sourcePage": "https://www.landtag.nrw.de/home/mediathek/video.html?kid=481b564b-5fa4-4a79-a3fb-02c67b34e976&top-redner-id=15878",
+        "creator": "Landtag Nordrhein-Westfalen",
+        "license": "Landtag Nordrhein-Westfalen – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; Quellenangabe \"Landtag Nordrhein-Westfalen\". https://www.landtag.nrw.de/home/footer/impressum.html",
+        "originMediaID": "15878",
+        "additionalInformation": {
+          "startOffset": 16837.0,
+          "endOffset": 16955.0
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-video-page",
+        "kid": "481b564b-5fa4-4a79-a3fb-02c67b34e976",
+        "topRednerID": "15878",
+        "topNumber": "8",
+        "mdlId": "01757",
+        "funktionId": "",
+        "rednerRaw": "Dr. Werner Pfeil",
+        "fraktionRaw": "FDP",
+        "funktionRaw": "",
+        "startOffset": 16837,
+        "endOffset": 16955,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NW",
+      "electoralPeriod": {
+        "number": 18
+      },
+      "session": {
+        "number": 116,
+        "dateStart": "2026-01-29T10:00:00+02:00",
+        "dateEnd": "2026-01-29T16:54:49+02:00"
+      },
+      "dateStart": "2026-01-29T14:42:35+02:00",
+      "dateEnd": "2026-01-29T14:50:24+02:00",
+      "speechIndex": 51,
+      "originID": "18116-15879",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 8: Solidarität mit dem Freiheitsstreben des iranischen Volkes – NRW leistet seinen Beitrag zur Bekämpfung des Mullah-Regimes",
+        "title": "Solidarität mit dem Freiheitsstreben des iranischen Volkes – NRW leistet seinen Beitrag zur Bekämpfung des Mullah-Regimes",
+        "id": "TOP-8",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Herbert Reul",
+          "context": "main-speaker",
+          "firstname": "Herbert",
+          "lastname": "Reul",
+          "role": "Minister",
+          "originPersonID": "01124",
+          "faction": {
+            "label": "CDU",
+            "wid": "Q49762"
+          },
+          "wid": "Q74168",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://www.landtag.nrw.de/videos/481b564b-5fa4-4a79-a3fb-02c67b34e976/playlist.m3u8#t=16955,17424",
+        "sourcePage": "https://www.landtag.nrw.de/home/mediathek/video.html?kid=481b564b-5fa4-4a79-a3fb-02c67b34e976&top-redner-id=15879",
+        "creator": "Landtag Nordrhein-Westfalen",
+        "license": "Landtag Nordrhein-Westfalen – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; Quellenangabe \"Landtag Nordrhein-Westfalen\". https://www.landtag.nrw.de/home/footer/impressum.html",
+        "originMediaID": "15879",
+        "additionalInformation": {
+          "startOffset": 16955.0,
+          "endOffset": 17424.0
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-video-page",
+        "kid": "481b564b-5fa4-4a79-a3fb-02c67b34e976",
+        "topRednerID": "15879",
+        "topNumber": "8",
+        "mdlId": "01124",
+        "funktionId": "",
+        "rednerRaw": "Herbert Reul",
+        "fraktionRaw": "CDU",
+        "funktionRaw": "Minister",
+        "startOffset": 16955,
+        "endOffset": 17424,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NW",
+      "electoralPeriod": {
+        "number": 18
+      },
+      "session": {
+        "number": 116,
+        "dateStart": "2026-01-29T10:00:00+02:00",
+        "dateEnd": "2026-01-29T16:54:49+02:00"
+      },
+      "dateStart": "2026-01-29T14:50:24+02:00",
+      "dateEnd": "2026-01-29T14:54:37+02:00",
+      "speechIndex": 52,
+      "originID": "18116-15880",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 8: Solidarität mit dem Freiheitsstreben des iranischen Volkes – NRW leistet seinen Beitrag zur Bekämpfung des Mullah-Regimes",
+        "title": "Solidarität mit dem Freiheitsstreben des iranischen Volkes – NRW leistet seinen Beitrag zur Bekämpfung des Mullah-Regimes",
+        "id": "TOP-8",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Enxhi Seli-Zacharias",
+          "context": "main-speaker",
+          "firstname": "Enxhi",
+          "lastname": "Seli-Zacharias",
+          "originPersonID": "01856",
+          "faction": {
+            "label": "AfD",
+            "wid": "Q6721203"
+          },
+          "wid": "Q112169767",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://www.landtag.nrw.de/videos/481b564b-5fa4-4a79-a3fb-02c67b34e976/playlist.m3u8#t=17424,17677",
+        "sourcePage": "https://www.landtag.nrw.de/home/mediathek/video.html?kid=481b564b-5fa4-4a79-a3fb-02c67b34e976&top-redner-id=15880",
+        "creator": "Landtag Nordrhein-Westfalen",
+        "license": "Landtag Nordrhein-Westfalen – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; Quellenangabe \"Landtag Nordrhein-Westfalen\". https://www.landtag.nrw.de/home/footer/impressum.html",
+        "originMediaID": "15880",
+        "additionalInformation": {
+          "startOffset": 17424.0,
+          "endOffset": 17677.0
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-video-page",
+        "kid": "481b564b-5fa4-4a79-a3fb-02c67b34e976",
+        "topRednerID": "15880",
+        "topNumber": "8",
+        "mdlId": "01856",
+        "funktionId": "",
+        "rednerRaw": "Enxhi Seli-Zacharias",
+        "fraktionRaw": "AfD",
+        "funktionRaw": "",
+        "startOffset": 17424,
+        "endOffset": 17677,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NW",
+      "electoralPeriod": {
+        "number": 18
+      },
+      "session": {
+        "number": 116,
+        "dateStart": "2026-01-29T10:00:00+02:00",
+        "dateEnd": "2026-01-29T16:54:49+02:00"
+      },
+      "dateStart": "2026-01-29T14:54:37+02:00",
+      "dateEnd": "2026-01-29T14:56:15+02:00",
+      "speechIndex": 53,
+      "originID": "18116-15881",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 8: Solidarität mit dem Freiheitsstreben des iranischen Volkes – NRW leistet seinen Beitrag zur Bekämpfung des Mullah-Regimes",
+        "title": "Solidarität mit dem Freiheitsstreben des iranischen Volkes – NRW leistet seinen Beitrag zur Bekämpfung des Mullah-Regimes",
+        "id": "TOP-8",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Mehrdad Mostofizadeh",
+          "context": "main-speaker",
+          "firstname": "Mehrdad",
+          "lastname": "Mostofizadeh",
+          "originPersonID": "01579",
+          "faction": {
+            "label": "Bündnis 90/Die Grünen",
+            "wid": "Q49766"
+          },
+          "wid": "Q1917412",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://www.landtag.nrw.de/videos/481b564b-5fa4-4a79-a3fb-02c67b34e976/playlist.m3u8#t=17677,17775",
+        "sourcePage": "https://www.landtag.nrw.de/home/mediathek/video.html?kid=481b564b-5fa4-4a79-a3fb-02c67b34e976&top-redner-id=15881",
+        "creator": "Landtag Nordrhein-Westfalen",
+        "license": "Landtag Nordrhein-Westfalen – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; Quellenangabe \"Landtag Nordrhein-Westfalen\". https://www.landtag.nrw.de/home/footer/impressum.html",
+        "originMediaID": "15881",
+        "additionalInformation": {
+          "startOffset": 17677.0,
+          "endOffset": 17775.0
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-video-page",
+        "kid": "481b564b-5fa4-4a79-a3fb-02c67b34e976",
+        "topRednerID": "15881",
+        "topNumber": "8",
+        "mdlId": "01579",
+        "funktionId": "",
+        "rednerRaw": "Mehrdad Mostofizadeh",
+        "fraktionRaw": "Bündnis 90/Die Grünen",
+        "funktionRaw": "",
+        "startOffset": 17677,
+        "endOffset": 17775,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NW",
+      "electoralPeriod": {
+        "number": 18
+      },
+      "session": {
+        "number": 116,
+        "dateStart": "2026-01-29T10:00:00+02:00",
+        "dateEnd": "2026-01-29T16:54:49+02:00"
+      },
+      "dateStart": "2026-01-29T14:56:15+02:00",
+      "dateEnd": "2026-01-29T14:59:06+02:00",
+      "speechIndex": 54,
+      "originID": "18116-15882",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 8: Solidarität mit dem Freiheitsstreben des iranischen Volkes – NRW leistet seinen Beitrag zur Bekämpfung des Mullah-Regimes",
+        "title": "Solidarität mit dem Freiheitsstreben des iranischen Volkes – NRW leistet seinen Beitrag zur Bekämpfung des Mullah-Regimes",
+        "id": "TOP-8",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Herbert Reul",
+          "context": "main-speaker",
+          "firstname": "Herbert",
+          "lastname": "Reul",
+          "role": "Minister",
+          "originPersonID": "01124",
+          "faction": {
+            "label": "CDU",
+            "wid": "Q49762"
+          },
+          "wid": "Q74168",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://www.landtag.nrw.de/videos/481b564b-5fa4-4a79-a3fb-02c67b34e976/playlist.m3u8#t=17775,17946",
+        "sourcePage": "https://www.landtag.nrw.de/home/mediathek/video.html?kid=481b564b-5fa4-4a79-a3fb-02c67b34e976&top-redner-id=15882",
+        "creator": "Landtag Nordrhein-Westfalen",
+        "license": "Landtag Nordrhein-Westfalen – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; Quellenangabe \"Landtag Nordrhein-Westfalen\". https://www.landtag.nrw.de/home/footer/impressum.html",
+        "originMediaID": "15882",
+        "additionalInformation": {
+          "startOffset": 17775.0,
+          "endOffset": 17946.0
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-video-page",
+        "kid": "481b564b-5fa4-4a79-a3fb-02c67b34e976",
+        "topRednerID": "15882",
+        "topNumber": "8",
+        "mdlId": "01124",
+        "funktionId": "",
+        "rednerRaw": "Herbert Reul",
+        "fraktionRaw": "CDU",
+        "funktionRaw": "Minister",
+        "startOffset": 17775,
+        "endOffset": 17946,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NW",
+      "electoralPeriod": {
+        "number": 18
+      },
+      "session": {
+        "number": 116,
+        "dateStart": "2026-01-29T10:00:00+02:00",
+        "dateEnd": "2026-01-29T16:54:49+02:00"
+      },
+      "dateStart": "2026-01-29T14:59:06+02:00",
+      "dateEnd": "2026-01-29T15:01:35+02:00",
+      "speechIndex": 55,
+      "originID": "18116-15883",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 8: Solidarität mit dem Freiheitsstreben des iranischen Volkes – NRW leistet seinen Beitrag zur Bekämpfung des Mullah-Regimes",
+        "title": "Solidarität mit dem Freiheitsstreben des iranischen Volkes – NRW leistet seinen Beitrag zur Bekämpfung des Mullah-Regimes",
+        "id": "TOP-8",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Josef Neumann",
+          "context": "main-speaker",
+          "firstname": "Josef",
+          "lastname": "Neumann",
+          "originPersonID": "01580",
+          "faction": {
+            "label": "SPD",
+            "wid": "Q49768"
+          },
+          "wid": "Q1705368",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://www.landtag.nrw.de/videos/481b564b-5fa4-4a79-a3fb-02c67b34e976/playlist.m3u8#t=17946,18095",
+        "sourcePage": "https://www.landtag.nrw.de/home/mediathek/video.html?kid=481b564b-5fa4-4a79-a3fb-02c67b34e976&top-redner-id=15883",
+        "creator": "Landtag Nordrhein-Westfalen",
+        "license": "Landtag Nordrhein-Westfalen – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; Quellenangabe \"Landtag Nordrhein-Westfalen\". https://www.landtag.nrw.de/home/footer/impressum.html",
+        "originMediaID": "15883",
+        "additionalInformation": {
+          "startOffset": 17946.0,
+          "endOffset": 18095.0
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-video-page",
+        "kid": "481b564b-5fa4-4a79-a3fb-02c67b34e976",
+        "topRednerID": "15883",
+        "topNumber": "8",
+        "mdlId": "01580",
+        "funktionId": "",
+        "rednerRaw": "Josef Neumann",
+        "fraktionRaw": "SPD",
+        "funktionRaw": "",
+        "startOffset": 17946,
+        "endOffset": 18095,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NW",
+      "electoralPeriod": {
+        "number": 18
+      },
+      "session": {
+        "number": 116,
+        "dateStart": "2026-01-29T10:00:00+02:00",
+        "dateEnd": "2026-01-29T16:54:49+02:00"
+      },
+      "dateStart": "2026-01-29T15:01:35+02:00",
+      "dateEnd": "2026-01-29T15:06:28+02:00",
+      "speechIndex": 56,
+      "originID": "18116-15885",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 9: Fortschreibung des Landespsychiatrieplans",
+        "title": "Fortschreibung des Landespsychiatrieplans",
+        "id": "TOP-9",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Marco Schmitz",
+          "context": "main-speaker",
+          "firstname": "Marco",
+          "lastname": "Schmitz",
+          "originPersonID": "01767",
+          "faction": {
+            "label": "CDU",
+            "wid": "Q49762"
+          },
+          "wid": "Q29949609",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://www.landtag.nrw.de/videos/481b564b-5fa4-4a79-a3fb-02c67b34e976/playlist.m3u8#t=18095,18388",
+        "sourcePage": "https://www.landtag.nrw.de/home/mediathek/video.html?kid=481b564b-5fa4-4a79-a3fb-02c67b34e976&top-redner-id=15885",
+        "creator": "Landtag Nordrhein-Westfalen",
+        "license": "Landtag Nordrhein-Westfalen – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; Quellenangabe \"Landtag Nordrhein-Westfalen\". https://www.landtag.nrw.de/home/footer/impressum.html",
+        "originMediaID": "15885",
+        "additionalInformation": {
+          "startOffset": 18095.0,
+          "endOffset": 18388.0
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-video-page",
+        "kid": "481b564b-5fa4-4a79-a3fb-02c67b34e976",
+        "topRednerID": "15885",
+        "topNumber": "9",
+        "mdlId": "01767",
+        "funktionId": "",
+        "rednerRaw": "Marco Schmitz",
+        "fraktionRaw": "CDU",
+        "funktionRaw": "",
+        "startOffset": 18095,
+        "endOffset": 18388,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NW",
+      "electoralPeriod": {
+        "number": 18
+      },
+      "session": {
+        "number": 116,
+        "dateStart": "2026-01-29T10:00:00+02:00",
+        "dateEnd": "2026-01-29T16:54:49+02:00"
+      },
+      "dateStart": "2026-01-29T15:06:28+02:00",
+      "dateEnd": "2026-01-29T15:11:50+02:00",
+      "speechIndex": 57,
+      "originID": "18116-15886",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 9: Fortschreibung des Landespsychiatrieplans",
+        "title": "Fortschreibung des Landespsychiatrieplans",
+        "id": "TOP-9",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Meral Thoms",
+          "context": "main-speaker",
+          "firstname": "Meral",
+          "lastname": "Thoms",
+          "originPersonID": "01863",
+          "faction": {
+            "label": "Bündnis 90/Die Grünen",
+            "wid": "Q49766"
+          },
+          "wid": "Q112066764",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://www.landtag.nrw.de/videos/481b564b-5fa4-4a79-a3fb-02c67b34e976/playlist.m3u8#t=18388,18710",
+        "sourcePage": "https://www.landtag.nrw.de/home/mediathek/video.html?kid=481b564b-5fa4-4a79-a3fb-02c67b34e976&top-redner-id=15886",
+        "creator": "Landtag Nordrhein-Westfalen",
+        "license": "Landtag Nordrhein-Westfalen – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; Quellenangabe \"Landtag Nordrhein-Westfalen\". https://www.landtag.nrw.de/home/footer/impressum.html",
+        "originMediaID": "15886",
+        "additionalInformation": {
+          "startOffset": 18388.0,
+          "endOffset": 18710.0
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-video-page",
+        "kid": "481b564b-5fa4-4a79-a3fb-02c67b34e976",
+        "topRednerID": "15886",
+        "topNumber": "9",
+        "mdlId": "01863",
+        "funktionId": "",
+        "rednerRaw": "Meral Thoms",
+        "fraktionRaw": "Bündnis 90/Die Grünen",
+        "funktionRaw": "",
+        "startOffset": 18388,
+        "endOffset": 18710,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NW",
+      "electoralPeriod": {
+        "number": 18
+      },
+      "session": {
+        "number": 116,
+        "dateStart": "2026-01-29T10:00:00+02:00",
+        "dateEnd": "2026-01-29T16:54:49+02:00"
+      },
+      "dateStart": "2026-01-29T15:11:50+02:00",
+      "dateEnd": "2026-01-29T15:17:22+02:00",
+      "speechIndex": 58,
+      "originID": "18116-15887",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 9: Fortschreibung des Landespsychiatrieplans",
+        "title": "Fortschreibung des Landespsychiatrieplans",
+        "id": "TOP-9",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Rodion Bakum",
+          "context": "main-speaker",
+          "firstname": "Rodion",
+          "lastname": "Bakum",
+          "originPersonID": "01802",
+          "faction": {
+            "label": "SPD",
+            "wid": "Q49768"
+          }
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://www.landtag.nrw.de/videos/481b564b-5fa4-4a79-a3fb-02c67b34e976/playlist.m3u8#t=18710,19042",
+        "sourcePage": "https://www.landtag.nrw.de/home/mediathek/video.html?kid=481b564b-5fa4-4a79-a3fb-02c67b34e976&top-redner-id=15887",
+        "creator": "Landtag Nordrhein-Westfalen",
+        "license": "Landtag Nordrhein-Westfalen – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; Quellenangabe \"Landtag Nordrhein-Westfalen\". https://www.landtag.nrw.de/home/footer/impressum.html",
+        "originMediaID": "15887",
+        "additionalInformation": {
+          "startOffset": 18710.0,
+          "endOffset": 19042.0
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-video-page",
+        "kid": "481b564b-5fa4-4a79-a3fb-02c67b34e976",
+        "topRednerID": "15887",
+        "topNumber": "9",
+        "mdlId": "01802",
+        "funktionId": "",
+        "rednerRaw": "Rodion Bakum",
+        "fraktionRaw": "SPD",
+        "funktionRaw": "",
+        "startOffset": 18710,
+        "endOffset": 19042,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NW",
+      "electoralPeriod": {
+        "number": 18
+      },
+      "session": {
+        "number": 116,
+        "dateStart": "2026-01-29T10:00:00+02:00",
+        "dateEnd": "2026-01-29T16:54:49+02:00"
+      },
+      "dateStart": "2026-01-29T15:17:22+02:00",
+      "dateEnd": "2026-01-29T15:20:58+02:00",
+      "speechIndex": 59,
+      "originID": "18116-15888",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 9: Fortschreibung des Landespsychiatrieplans",
+        "title": "Fortschreibung des Landespsychiatrieplans",
+        "id": "TOP-9",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Werner Pfeil",
+          "context": "main-speaker",
+          "firstname": "Werner",
+          "lastname": "Pfeil",
+          "originPersonID": "01757",
+          "faction": {
+            "label": "FDP",
+            "wid": "Q13124"
+          },
+          "wid": "Q29995117",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://www.landtag.nrw.de/videos/481b564b-5fa4-4a79-a3fb-02c67b34e976/playlist.m3u8#t=19042,19258",
+        "sourcePage": "https://www.landtag.nrw.de/home/mediathek/video.html?kid=481b564b-5fa4-4a79-a3fb-02c67b34e976&top-redner-id=15888",
+        "creator": "Landtag Nordrhein-Westfalen",
+        "license": "Landtag Nordrhein-Westfalen – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; Quellenangabe \"Landtag Nordrhein-Westfalen\". https://www.landtag.nrw.de/home/footer/impressum.html",
+        "originMediaID": "15888",
+        "additionalInformation": {
+          "startOffset": 19042.0,
+          "endOffset": 19258.0
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-video-page",
+        "kid": "481b564b-5fa4-4a79-a3fb-02c67b34e976",
+        "topRednerID": "15888",
+        "topNumber": "9",
+        "mdlId": "01757",
+        "funktionId": "",
+        "rednerRaw": "Dr. Werner Pfeil",
+        "fraktionRaw": "FDP",
+        "funktionRaw": "",
+        "startOffset": 19042,
+        "endOffset": 19258,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NW",
+      "electoralPeriod": {
+        "number": 18
+      },
+      "session": {
+        "number": 116,
+        "dateStart": "2026-01-29T10:00:00+02:00",
+        "dateEnd": "2026-01-29T16:54:49+02:00"
+      },
+      "dateStart": "2026-01-29T15:20:58+02:00",
+      "dateEnd": "2026-01-29T15:24:04+02:00",
+      "speechIndex": 60,
+      "originID": "18116-15889",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 9: Fortschreibung des Landespsychiatrieplans",
+        "title": "Fortschreibung des Landespsychiatrieplans",
+        "id": "TOP-9",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Martin Vincentz",
+          "context": "main-speaker",
+          "firstname": "Martin",
+          "lastname": "Vincentz",
+          "originPersonID": "01780",
+          "faction": {
+            "label": "AfD",
+            "wid": "Q6721203"
+          },
+          "wid": "Q29959870",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://www.landtag.nrw.de/videos/481b564b-5fa4-4a79-a3fb-02c67b34e976/playlist.m3u8#t=19258,19444",
+        "sourcePage": "https://www.landtag.nrw.de/home/mediathek/video.html?kid=481b564b-5fa4-4a79-a3fb-02c67b34e976&top-redner-id=15889",
+        "creator": "Landtag Nordrhein-Westfalen",
+        "license": "Landtag Nordrhein-Westfalen – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; Quellenangabe \"Landtag Nordrhein-Westfalen\". https://www.landtag.nrw.de/home/footer/impressum.html",
+        "originMediaID": "15889",
+        "additionalInformation": {
+          "startOffset": 19258.0,
+          "endOffset": 19444.0
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-video-page",
+        "kid": "481b564b-5fa4-4a79-a3fb-02c67b34e976",
+        "topRednerID": "15889",
+        "topNumber": "9",
+        "mdlId": "01780",
+        "funktionId": "",
+        "rednerRaw": "Dr. Martin Vincentz",
+        "fraktionRaw": "AfD",
+        "funktionRaw": "",
+        "startOffset": 19258,
+        "endOffset": 19444,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NW",
+      "electoralPeriod": {
+        "number": 18
+      },
+      "session": {
+        "number": 116,
+        "dateStart": "2026-01-29T10:00:00+02:00",
+        "dateEnd": "2026-01-29T16:54:49+02:00"
+      },
+      "dateStart": "2026-01-29T15:24:04+02:00",
+      "dateEnd": "2026-01-29T15:30:18+02:00",
+      "speechIndex": 61,
+      "originID": "18116-15890",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 9: Fortschreibung des Landespsychiatrieplans",
+        "title": "Fortschreibung des Landespsychiatrieplans",
+        "id": "TOP-9",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Karl-Josef Laumann",
+          "context": "main-speaker",
+          "firstname": "Karl-Josef",
+          "lastname": "Laumann",
+          "role": "Minister",
+          "originPersonID": "01526",
+          "faction": {
+            "label": "CDU",
+            "wid": "Q49762"
+          },
+          "wid": "Q87352",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://www.landtag.nrw.de/videos/481b564b-5fa4-4a79-a3fb-02c67b34e976/playlist.m3u8#t=19444,19818",
+        "sourcePage": "https://www.landtag.nrw.de/home/mediathek/video.html?kid=481b564b-5fa4-4a79-a3fb-02c67b34e976&top-redner-id=15890",
+        "creator": "Landtag Nordrhein-Westfalen",
+        "license": "Landtag Nordrhein-Westfalen – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; Quellenangabe \"Landtag Nordrhein-Westfalen\". https://www.landtag.nrw.de/home/footer/impressum.html",
+        "originMediaID": "15890",
+        "additionalInformation": {
+          "startOffset": 19444.0,
+          "endOffset": 19818.0
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-video-page",
+        "kid": "481b564b-5fa4-4a79-a3fb-02c67b34e976",
+        "topRednerID": "15890",
+        "topNumber": "9",
+        "mdlId": "01526",
+        "funktionId": "",
+        "rednerRaw": "Karl-Josef Laumann",
+        "fraktionRaw": "CDU",
+        "funktionRaw": "Minister",
+        "startOffset": 19444,
+        "endOffset": 19818,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NW",
+      "electoralPeriod": {
+        "number": 18
+      },
+      "session": {
+        "number": 116,
+        "dateStart": "2026-01-29T10:00:00+02:00",
+        "dateEnd": "2026-01-29T16:54:49+02:00"
+      },
+      "dateStart": "2026-01-29T15:30:18+02:00",
+      "dateEnd": "2026-01-29T15:34:34+02:00",
+      "speechIndex": 62,
+      "originID": "18116-15892",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 10: Bessere Versorgung und schnellere Diagnose: Wie Lipödem-Betroffenen in NRW geholfen werden kann",
+        "title": "Bessere Versorgung und schnellere Diagnose: Wie Lipödem-Betroffenen in NRW geholfen werden kann",
+        "id": "TOP-10",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Anke Fuchs-Dreisbach",
+          "context": "main-speaker",
+          "firstname": "Anke",
+          "lastname": "Fuchs-Dreisbach",
+          "originPersonID": "01724",
+          "faction": {
+            "label": "CDU",
+            "wid": "Q49762"
+          },
+          "wid": "Q29938036",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://www.landtag.nrw.de/videos/481b564b-5fa4-4a79-a3fb-02c67b34e976/playlist.m3u8#t=19818,20074",
+        "sourcePage": "https://www.landtag.nrw.de/home/mediathek/video.html?kid=481b564b-5fa4-4a79-a3fb-02c67b34e976&top-redner-id=15892",
+        "creator": "Landtag Nordrhein-Westfalen",
+        "license": "Landtag Nordrhein-Westfalen – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; Quellenangabe \"Landtag Nordrhein-Westfalen\". https://www.landtag.nrw.de/home/footer/impressum.html",
+        "originMediaID": "15892",
+        "additionalInformation": {
+          "startOffset": 19818.0,
+          "endOffset": 20074.0
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-video-page",
+        "kid": "481b564b-5fa4-4a79-a3fb-02c67b34e976",
+        "topRednerID": "15892",
+        "topNumber": "10",
+        "mdlId": "01724",
+        "funktionId": "",
+        "rednerRaw": "Anke Fuchs-Dreisbach",
+        "fraktionRaw": "CDU",
+        "funktionRaw": "",
+        "startOffset": 19818,
+        "endOffset": 20074,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NW",
+      "electoralPeriod": {
+        "number": 18
+      },
+      "session": {
+        "number": 116,
+        "dateStart": "2026-01-29T10:00:00+02:00",
+        "dateEnd": "2026-01-29T16:54:49+02:00"
+      },
+      "dateStart": "2026-01-29T15:34:34+02:00",
+      "dateEnd": "2026-01-29T15:39:55+02:00",
+      "speechIndex": 63,
+      "originID": "18116-15893",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 10: Bessere Versorgung und schnellere Diagnose: Wie Lipödem-Betroffenen in NRW geholfen werden kann",
+        "title": "Bessere Versorgung und schnellere Diagnose: Wie Lipödem-Betroffenen in NRW geholfen werden kann",
+        "id": "TOP-10",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Christina Weng",
+          "context": "main-speaker",
+          "firstname": "Christina",
+          "lastname": "Weng",
+          "originPersonID": "01787",
+          "faction": {
+            "label": "SPD",
+            "wid": "Q49768"
+          },
+          "wid": "Q29956324",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://www.landtag.nrw.de/videos/481b564b-5fa4-4a79-a3fb-02c67b34e976/playlist.m3u8#t=20074,20395",
+        "sourcePage": "https://www.landtag.nrw.de/home/mediathek/video.html?kid=481b564b-5fa4-4a79-a3fb-02c67b34e976&top-redner-id=15893",
+        "creator": "Landtag Nordrhein-Westfalen",
+        "license": "Landtag Nordrhein-Westfalen – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; Quellenangabe \"Landtag Nordrhein-Westfalen\". https://www.landtag.nrw.de/home/footer/impressum.html",
+        "originMediaID": "15893",
+        "additionalInformation": {
+          "startOffset": 20074.0,
+          "endOffset": 20395.0
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-video-page",
+        "kid": "481b564b-5fa4-4a79-a3fb-02c67b34e976",
+        "topRednerID": "15893",
+        "topNumber": "10",
+        "mdlId": "01787",
+        "funktionId": "",
+        "rednerRaw": "Christina Weng",
+        "fraktionRaw": "SPD",
+        "funktionRaw": "",
+        "startOffset": 20074,
+        "endOffset": 20395,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NW",
+      "electoralPeriod": {
+        "number": 18
+      },
+      "session": {
+        "number": 116,
+        "dateStart": "2026-01-29T10:00:00+02:00",
+        "dateEnd": "2026-01-29T16:54:49+02:00"
+      },
+      "dateStart": "2026-01-29T15:39:55+02:00",
+      "dateEnd": "2026-01-29T15:43:17+02:00",
+      "speechIndex": 64,
+      "originID": "18116-15894",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 10: Bessere Versorgung und schnellere Diagnose: Wie Lipödem-Betroffenen in NRW geholfen werden kann",
+        "title": "Bessere Versorgung und schnellere Diagnose: Wie Lipödem-Betroffenen in NRW geholfen werden kann",
+        "id": "TOP-10",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Meral Thoms",
+          "context": "main-speaker",
+          "firstname": "Meral",
+          "lastname": "Thoms",
+          "originPersonID": "01863",
+          "faction": {
+            "label": "Bündnis 90/Die Grünen",
+            "wid": "Q49766"
+          },
+          "wid": "Q112066764",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://www.landtag.nrw.de/videos/481b564b-5fa4-4a79-a3fb-02c67b34e976/playlist.m3u8#t=20395,20597",
+        "sourcePage": "https://www.landtag.nrw.de/home/mediathek/video.html?kid=481b564b-5fa4-4a79-a3fb-02c67b34e976&top-redner-id=15894",
+        "creator": "Landtag Nordrhein-Westfalen",
+        "license": "Landtag Nordrhein-Westfalen – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; Quellenangabe \"Landtag Nordrhein-Westfalen\". https://www.landtag.nrw.de/home/footer/impressum.html",
+        "originMediaID": "15894",
+        "additionalInformation": {
+          "startOffset": 20395.0,
+          "endOffset": 20597.0
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-video-page",
+        "kid": "481b564b-5fa4-4a79-a3fb-02c67b34e976",
+        "topRednerID": "15894",
+        "topNumber": "10",
+        "mdlId": "01863",
+        "funktionId": "",
+        "rednerRaw": "Meral Thoms",
+        "fraktionRaw": "Bündnis 90/Die Grünen",
+        "funktionRaw": "",
+        "startOffset": 20395,
+        "endOffset": 20597,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NW",
+      "electoralPeriod": {
+        "number": 18
+      },
+      "session": {
+        "number": 116,
+        "dateStart": "2026-01-29T10:00:00+02:00",
+        "dateEnd": "2026-01-29T16:54:49+02:00"
+      },
+      "dateStart": "2026-01-29T15:43:17+02:00",
+      "dateEnd": "2026-01-29T15:49:19+02:00",
+      "speechIndex": 65,
+      "originID": "18116-15895",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 10: Bessere Versorgung und schnellere Diagnose: Wie Lipödem-Betroffenen in NRW geholfen werden kann",
+        "title": "Bessere Versorgung und schnellere Diagnose: Wie Lipödem-Betroffenen in NRW geholfen werden kann",
+        "id": "TOP-10",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Angela Freimuth",
+          "context": "main-speaker",
+          "firstname": "Angela",
+          "lastname": "Freimuth",
+          "originPersonID": "01374",
+          "faction": {
+            "label": "FDP",
+            "wid": "Q13124"
+          },
+          "wid": "Q532607",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://www.landtag.nrw.de/videos/481b564b-5fa4-4a79-a3fb-02c67b34e976/playlist.m3u8#t=20597,20959",
+        "sourcePage": "https://www.landtag.nrw.de/home/mediathek/video.html?kid=481b564b-5fa4-4a79-a3fb-02c67b34e976&top-redner-id=15895",
+        "creator": "Landtag Nordrhein-Westfalen",
+        "license": "Landtag Nordrhein-Westfalen – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; Quellenangabe \"Landtag Nordrhein-Westfalen\". https://www.landtag.nrw.de/home/footer/impressum.html",
+        "originMediaID": "15895",
+        "additionalInformation": {
+          "startOffset": 20597.0,
+          "endOffset": 20959.0
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-video-page",
+        "kid": "481b564b-5fa4-4a79-a3fb-02c67b34e976",
+        "topRednerID": "15895",
+        "topNumber": "10",
+        "mdlId": "01374",
+        "funktionId": "",
+        "rednerRaw": "Angela Freimuth",
+        "fraktionRaw": "FDP",
+        "funktionRaw": "",
+        "startOffset": 20597,
+        "endOffset": 20959,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NW",
+      "electoralPeriod": {
+        "number": 18
+      },
+      "session": {
+        "number": 116,
+        "dateStart": "2026-01-29T10:00:00+02:00",
+        "dateEnd": "2026-01-29T16:54:49+02:00"
+      },
+      "dateStart": "2026-01-29T15:49:19+02:00",
+      "dateEnd": "2026-01-29T15:51:45+02:00",
+      "speechIndex": 66,
+      "originID": "18116-15896",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 10: Bessere Versorgung und schnellere Diagnose: Wie Lipödem-Betroffenen in NRW geholfen werden kann",
+        "title": "Bessere Versorgung und schnellere Diagnose: Wie Lipödem-Betroffenen in NRW geholfen werden kann",
+        "id": "TOP-10",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Martin Vincentz",
+          "context": "main-speaker",
+          "firstname": "Martin",
+          "lastname": "Vincentz",
+          "originPersonID": "01780",
+          "faction": {
+            "label": "AfD",
+            "wid": "Q6721203"
+          },
+          "wid": "Q29959870",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://www.landtag.nrw.de/videos/481b564b-5fa4-4a79-a3fb-02c67b34e976/playlist.m3u8#t=20959,21105",
+        "sourcePage": "https://www.landtag.nrw.de/home/mediathek/video.html?kid=481b564b-5fa4-4a79-a3fb-02c67b34e976&top-redner-id=15896",
+        "creator": "Landtag Nordrhein-Westfalen",
+        "license": "Landtag Nordrhein-Westfalen – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; Quellenangabe \"Landtag Nordrhein-Westfalen\". https://www.landtag.nrw.de/home/footer/impressum.html",
+        "originMediaID": "15896",
+        "additionalInformation": {
+          "startOffset": 20959.0,
+          "endOffset": 21105.0
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-video-page",
+        "kid": "481b564b-5fa4-4a79-a3fb-02c67b34e976",
+        "topRednerID": "15896",
+        "topNumber": "10",
+        "mdlId": "01780",
+        "funktionId": "",
+        "rednerRaw": "Dr. Martin Vincentz",
+        "fraktionRaw": "AfD",
+        "funktionRaw": "",
+        "startOffset": 20959,
+        "endOffset": 21105,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NW",
+      "electoralPeriod": {
+        "number": 18
+      },
+      "session": {
+        "number": 116,
+        "dateStart": "2026-01-29T10:00:00+02:00",
+        "dateEnd": "2026-01-29T16:54:49+02:00"
+      },
+      "dateStart": "2026-01-29T15:51:45+02:00",
+      "dateEnd": "2026-01-29T15:57:45+02:00",
+      "speechIndex": 67,
+      "originID": "18116-15897",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 10: Bessere Versorgung und schnellere Diagnose: Wie Lipödem-Betroffenen in NRW geholfen werden kann",
+        "title": "Bessere Versorgung und schnellere Diagnose: Wie Lipödem-Betroffenen in NRW geholfen werden kann",
+        "id": "TOP-10",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Karl-Josef Laumann",
+          "context": "main-speaker",
+          "firstname": "Karl-Josef",
+          "lastname": "Laumann",
+          "role": "Minister",
+          "originPersonID": "01526",
+          "faction": {
+            "label": "CDU",
+            "wid": "Q49762"
+          },
+          "wid": "Q87352",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://www.landtag.nrw.de/videos/481b564b-5fa4-4a79-a3fb-02c67b34e976/playlist.m3u8#t=21105,21465",
+        "sourcePage": "https://www.landtag.nrw.de/home/mediathek/video.html?kid=481b564b-5fa4-4a79-a3fb-02c67b34e976&top-redner-id=15897",
+        "creator": "Landtag Nordrhein-Westfalen",
+        "license": "Landtag Nordrhein-Westfalen – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; Quellenangabe \"Landtag Nordrhein-Westfalen\". https://www.landtag.nrw.de/home/footer/impressum.html",
+        "originMediaID": "15897",
+        "additionalInformation": {
+          "startOffset": 21105.0,
+          "endOffset": 21465.0
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-video-page",
+        "kid": "481b564b-5fa4-4a79-a3fb-02c67b34e976",
+        "topRednerID": "15897",
+        "topNumber": "10",
+        "mdlId": "01526",
+        "funktionId": "",
+        "rednerRaw": "Karl-Josef Laumann",
+        "fraktionRaw": "CDU",
+        "funktionRaw": "Minister",
+        "startOffset": 21105,
+        "endOffset": 21465,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NW",
+      "electoralPeriod": {
+        "number": 18
+      },
+      "session": {
+        "number": 116,
+        "dateStart": "2026-01-29T10:00:00+02:00",
+        "dateEnd": "2026-01-29T16:54:49+02:00"
+      },
+      "dateStart": "2026-01-29T15:57:45+02:00",
+      "dateEnd": "2026-01-29T16:03:26+02:00",
+      "speechIndex": 68,
+      "originID": "18116-15899",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 11: Musik ins Leben! Für eine starke kulturelle Bildung in NRW",
+        "title": "Musik ins Leben! Für eine starke kulturelle Bildung in NRW",
+        "id": "TOP-11",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Heike Wermer",
+          "context": "main-speaker",
+          "firstname": "Heike",
+          "lastname": "Wermer",
+          "originPersonID": "01788",
+          "faction": {
+            "label": "CDU",
+            "wid": "Q49762"
+          },
+          "wid": "Q29959941",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://www.landtag.nrw.de/videos/481b564b-5fa4-4a79-a3fb-02c67b34e976/playlist.m3u8#t=21465,21806",
+        "sourcePage": "https://www.landtag.nrw.de/home/mediathek/video.html?kid=481b564b-5fa4-4a79-a3fb-02c67b34e976&top-redner-id=15899",
+        "creator": "Landtag Nordrhein-Westfalen",
+        "license": "Landtag Nordrhein-Westfalen – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; Quellenangabe \"Landtag Nordrhein-Westfalen\". https://www.landtag.nrw.de/home/footer/impressum.html",
+        "originMediaID": "15899",
+        "additionalInformation": {
+          "startOffset": 21465.0,
+          "endOffset": 21806.0
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-video-page",
+        "kid": "481b564b-5fa4-4a79-a3fb-02c67b34e976",
+        "topRednerID": "15899",
+        "topNumber": "11",
+        "mdlId": "01788",
+        "funktionId": "",
+        "rednerRaw": "Heike Wermer",
+        "fraktionRaw": "CDU",
+        "funktionRaw": "",
+        "startOffset": 21465,
+        "endOffset": 21806,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NW",
+      "electoralPeriod": {
+        "number": 18
+      },
+      "session": {
+        "number": 116,
+        "dateStart": "2026-01-29T10:00:00+02:00",
+        "dateEnd": "2026-01-29T16:54:49+02:00"
+      },
+      "dateStart": "2026-01-29T16:03:26+02:00",
+      "dateEnd": "2026-01-29T16:08:31+02:00",
+      "speechIndex": 69,
+      "originID": "18116-15900",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 11: Musik ins Leben! Für eine starke kulturelle Bildung in NRW",
+        "title": "Musik ins Leben! Für eine starke kulturelle Bildung in NRW",
+        "id": "TOP-11",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Andreas Bialas",
+          "context": "main-speaker",
+          "firstname": "Andreas",
+          "lastname": "Bialas",
+          "originPersonID": "01543",
+          "faction": {
+            "label": "SPD",
+            "wid": "Q49768"
+          },
+          "wid": "Q496127",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://www.landtag.nrw.de/videos/481b564b-5fa4-4a79-a3fb-02c67b34e976/playlist.m3u8#t=21806,22111",
+        "sourcePage": "https://www.landtag.nrw.de/home/mediathek/video.html?kid=481b564b-5fa4-4a79-a3fb-02c67b34e976&top-redner-id=15900",
+        "creator": "Landtag Nordrhein-Westfalen",
+        "license": "Landtag Nordrhein-Westfalen – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; Quellenangabe \"Landtag Nordrhein-Westfalen\". https://www.landtag.nrw.de/home/footer/impressum.html",
+        "originMediaID": "15900",
+        "additionalInformation": {
+          "startOffset": 21806.0,
+          "endOffset": 22111.0
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-video-page",
+        "kid": "481b564b-5fa4-4a79-a3fb-02c67b34e976",
+        "topRednerID": "15900",
+        "topNumber": "11",
+        "mdlId": "01543",
+        "funktionId": "",
+        "rednerRaw": "Andreas Bialas",
+        "fraktionRaw": "SPD",
+        "funktionRaw": "",
+        "startOffset": 21806,
+        "endOffset": 22111,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NW",
+      "electoralPeriod": {
+        "number": 18
+      },
+      "session": {
+        "number": 116,
+        "dateStart": "2026-01-29T10:00:00+02:00",
+        "dateEnd": "2026-01-29T16:54:49+02:00"
+      },
+      "dateStart": "2026-01-29T16:08:31+02:00",
+      "dateEnd": "2026-01-29T16:13:46+02:00",
+      "speechIndex": 70,
+      "originID": "18116-15901",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 11: Musik ins Leben! Für eine starke kulturelle Bildung in NRW",
+        "title": "Musik ins Leben! Für eine starke kulturelle Bildung in NRW",
+        "id": "TOP-11",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Frank Jablonski",
+          "context": "main-speaker",
+          "firstname": "Frank",
+          "lastname": "Jablonski",
+          "originPersonID": "01831",
+          "faction": {
+            "label": "Bündnis 90/Die Grünen",
+            "wid": "Q49766"
+          },
+          "wid": "Q112056013",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://www.landtag.nrw.de/videos/481b564b-5fa4-4a79-a3fb-02c67b34e976/playlist.m3u8#t=22111,22426",
+        "sourcePage": "https://www.landtag.nrw.de/home/mediathek/video.html?kid=481b564b-5fa4-4a79-a3fb-02c67b34e976&top-redner-id=15901",
+        "creator": "Landtag Nordrhein-Westfalen",
+        "license": "Landtag Nordrhein-Westfalen – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; Quellenangabe \"Landtag Nordrhein-Westfalen\". https://www.landtag.nrw.de/home/footer/impressum.html",
+        "originMediaID": "15901",
+        "additionalInformation": {
+          "startOffset": 22111.0,
+          "endOffset": 22426.0
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-video-page",
+        "kid": "481b564b-5fa4-4a79-a3fb-02c67b34e976",
+        "topRednerID": "15901",
+        "topNumber": "11",
+        "mdlId": "01831",
+        "funktionId": "",
+        "rednerRaw": "Frank Jablonski",
+        "fraktionRaw": "Bündnis 90/Die Grünen",
+        "funktionRaw": "",
+        "startOffset": 22111,
+        "endOffset": 22426,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NW",
+      "electoralPeriod": {
+        "number": 18
+      },
+      "session": {
+        "number": 116,
+        "dateStart": "2026-01-29T10:00:00+02:00",
+        "dateEnd": "2026-01-29T16:54:49+02:00"
+      },
+      "dateStart": "2026-01-29T16:13:46+02:00",
+      "dateEnd": "2026-01-29T16:17:59+02:00",
+      "speechIndex": 71,
+      "originID": "18116-15902",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 11: Musik ins Leben! Für eine starke kulturelle Bildung in NRW",
+        "title": "Musik ins Leben! Für eine starke kulturelle Bildung in NRW",
+        "id": "TOP-11",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Yvonne Gebauer",
+          "context": "main-speaker",
+          "firstname": "Yvonne",
+          "lastname": "Gebauer",
+          "originPersonID": "01628",
+          "faction": {
+            "label": "FDP",
+            "wid": "Q13124"
+          },
+          "wid": "Q2602376",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://www.landtag.nrw.de/videos/481b564b-5fa4-4a79-a3fb-02c67b34e976/playlist.m3u8#t=22426,22679",
+        "sourcePage": "https://www.landtag.nrw.de/home/mediathek/video.html?kid=481b564b-5fa4-4a79-a3fb-02c67b34e976&top-redner-id=15902",
+        "creator": "Landtag Nordrhein-Westfalen",
+        "license": "Landtag Nordrhein-Westfalen – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; Quellenangabe \"Landtag Nordrhein-Westfalen\". https://www.landtag.nrw.de/home/footer/impressum.html",
+        "originMediaID": "15902",
+        "additionalInformation": {
+          "startOffset": 22426.0,
+          "endOffset": 22679.0
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-video-page",
+        "kid": "481b564b-5fa4-4a79-a3fb-02c67b34e976",
+        "topRednerID": "15902",
+        "topNumber": "11",
+        "mdlId": "01628",
+        "funktionId": "",
+        "rednerRaw": "Yvonne Gebauer",
+        "fraktionRaw": "FDP",
+        "funktionRaw": "",
+        "startOffset": 22426,
+        "endOffset": 22679,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NW",
+      "electoralPeriod": {
+        "number": 18
+      },
+      "session": {
+        "number": 116,
+        "dateStart": "2026-01-29T10:00:00+02:00",
+        "dateEnd": "2026-01-29T16:54:49+02:00"
+      },
+      "dateStart": "2026-01-29T16:17:59+02:00",
+      "dateEnd": "2026-01-29T16:22:31+02:00",
+      "speechIndex": 72,
+      "originID": "18116-15903",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 11: Musik ins Leben! Für eine starke kulturelle Bildung in NRW",
+        "title": "Musik ins Leben! Für eine starke kulturelle Bildung in NRW",
+        "id": "TOP-11",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Hartmut Beucker",
+          "context": "main-speaker",
+          "firstname": "Hartmut",
+          "lastname": "Beucker",
+          "originPersonID": "01805",
+          "faction": {
+            "label": "AfD",
+            "wid": "Q6721203"
+          },
+          "wid": "Q113495557",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://www.landtag.nrw.de/videos/481b564b-5fa4-4a79-a3fb-02c67b34e976/playlist.m3u8#t=22679,22951",
+        "sourcePage": "https://www.landtag.nrw.de/home/mediathek/video.html?kid=481b564b-5fa4-4a79-a3fb-02c67b34e976&top-redner-id=15903",
+        "creator": "Landtag Nordrhein-Westfalen",
+        "license": "Landtag Nordrhein-Westfalen – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; Quellenangabe \"Landtag Nordrhein-Westfalen\". https://www.landtag.nrw.de/home/footer/impressum.html",
+        "originMediaID": "15903",
+        "additionalInformation": {
+          "startOffset": 22679.0,
+          "endOffset": 22951.0
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-video-page",
+        "kid": "481b564b-5fa4-4a79-a3fb-02c67b34e976",
+        "topRednerID": "15903",
+        "topNumber": "11",
+        "mdlId": "01805",
+        "funktionId": "",
+        "rednerRaw": "Dr. Hartmut Beucker",
+        "fraktionRaw": "AfD",
+        "funktionRaw": "",
+        "startOffset": 22679,
+        "endOffset": 22951,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NW",
+      "electoralPeriod": {
+        "number": 18
+      },
+      "session": {
+        "number": 116,
+        "dateStart": "2026-01-29T10:00:00+02:00",
+        "dateEnd": "2026-01-29T16:54:49+02:00"
+      },
+      "dateStart": "2026-01-29T16:22:31+02:00",
+      "dateEnd": "2026-01-29T16:28:56+02:00",
+      "speechIndex": 73,
+      "originID": "18116-15904",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 11: Musik ins Leben! Für eine starke kulturelle Bildung in NRW",
+        "title": "Musik ins Leben! Für eine starke kulturelle Bildung in NRW",
+        "id": "TOP-11",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Ina Brandes",
+          "context": "main-speaker",
+          "firstname": "Ina",
+          "lastname": "Brandes",
+          "role": "Ministerin",
+          "originPersonID": "01873",
+          "faction": {
+            "label": "CDU",
+            "wid": "Q49762"
+          }
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://www.landtag.nrw.de/videos/481b564b-5fa4-4a79-a3fb-02c67b34e976/playlist.m3u8#t=22951,23336",
+        "sourcePage": "https://www.landtag.nrw.de/home/mediathek/video.html?kid=481b564b-5fa4-4a79-a3fb-02c67b34e976&top-redner-id=15904",
+        "creator": "Landtag Nordrhein-Westfalen",
+        "license": "Landtag Nordrhein-Westfalen – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; Quellenangabe \"Landtag Nordrhein-Westfalen\". https://www.landtag.nrw.de/home/footer/impressum.html",
+        "originMediaID": "15904",
+        "additionalInformation": {
+          "startOffset": 22951.0,
+          "endOffset": 23336.0
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-video-page",
+        "kid": "481b564b-5fa4-4a79-a3fb-02c67b34e976",
+        "topRednerID": "15904",
+        "topNumber": "11",
+        "mdlId": "01873",
+        "funktionId": "",
+        "rednerRaw": "Ina Brandes",
+        "fraktionRaw": "CDU",
+        "funktionRaw": "Ministerin",
+        "startOffset": 22951,
+        "endOffset": 23336,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NW",
+      "electoralPeriod": {
+        "number": 18
+      },
+      "session": {
+        "number": 116,
+        "dateStart": "2026-01-29T10:00:00+02:00",
+        "dateEnd": "2026-01-29T16:54:49+02:00"
+      },
+      "dateStart": "2026-01-29T16:28:56+02:00",
+      "dateEnd": "2026-01-29T16:33:35+02:00",
+      "speechIndex": 74,
+      "originID": "18116-15906",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 12: Faire Wettbewerbsbedingungen im Taxi- und Mietwagenmarkt gewährleisten",
+        "title": "Faire Wettbewerbsbedingungen im Taxi- und Mietwagenmarkt gewährleisten",
+        "id": "TOP-12",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Oliver Krauß",
+          "context": "main-speaker",
+          "firstname": "Oliver",
+          "lastname": "Krauß",
+          "originPersonID": "01739",
+          "faction": {
+            "label": "CDU",
+            "wid": "Q49762"
+          },
+          "wid": "Q30303454",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://www.landtag.nrw.de/videos/481b564b-5fa4-4a79-a3fb-02c67b34e976/playlist.m3u8#t=23336,23615",
+        "sourcePage": "https://www.landtag.nrw.de/home/mediathek/video.html?kid=481b564b-5fa4-4a79-a3fb-02c67b34e976&top-redner-id=15906",
+        "creator": "Landtag Nordrhein-Westfalen",
+        "license": "Landtag Nordrhein-Westfalen – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; Quellenangabe \"Landtag Nordrhein-Westfalen\". https://www.landtag.nrw.de/home/footer/impressum.html",
+        "originMediaID": "15906",
+        "additionalInformation": {
+          "startOffset": 23336.0,
+          "endOffset": 23615.0
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-video-page",
+        "kid": "481b564b-5fa4-4a79-a3fb-02c67b34e976",
+        "topRednerID": "15906",
+        "topNumber": "12",
+        "mdlId": "01739",
+        "funktionId": "",
+        "rednerRaw": "Oliver Krauß",
+        "fraktionRaw": "CDU",
+        "funktionRaw": "",
+        "startOffset": 23336,
+        "endOffset": 23615,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NW",
+      "electoralPeriod": {
+        "number": 18
+      },
+      "session": {
+        "number": 116,
+        "dateStart": "2026-01-29T10:00:00+02:00",
+        "dateEnd": "2026-01-29T16:54:49+02:00"
+      },
+      "dateStart": "2026-01-29T16:33:35+02:00",
+      "dateEnd": "2026-01-29T16:36:51+02:00",
+      "speechIndex": 75,
+      "originID": "18116-15907",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 12: Faire Wettbewerbsbedingungen im Taxi- und Mietwagenmarkt gewährleisten",
+        "title": "Faire Wettbewerbsbedingungen im Taxi- und Mietwagenmarkt gewährleisten",
+        "id": "TOP-12",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Laura Postma",
+          "context": "main-speaker",
+          "firstname": "Laura",
+          "lastname": "Postma",
+          "originPersonID": "01849",
+          "faction": {
+            "label": "Bündnis 90/Die Grünen",
+            "wid": "Q49766"
+          },
+          "wid": "Q112073114",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://www.landtag.nrw.de/videos/481b564b-5fa4-4a79-a3fb-02c67b34e976/playlist.m3u8#t=23615,23811",
+        "sourcePage": "https://www.landtag.nrw.de/home/mediathek/video.html?kid=481b564b-5fa4-4a79-a3fb-02c67b34e976&top-redner-id=15907",
+        "creator": "Landtag Nordrhein-Westfalen",
+        "license": "Landtag Nordrhein-Westfalen – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; Quellenangabe \"Landtag Nordrhein-Westfalen\". https://www.landtag.nrw.de/home/footer/impressum.html",
+        "originMediaID": "15907",
+        "additionalInformation": {
+          "startOffset": 23615.0,
+          "endOffset": 23811.0
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-video-page",
+        "kid": "481b564b-5fa4-4a79-a3fb-02c67b34e976",
+        "topRednerID": "15907",
+        "topNumber": "12",
+        "mdlId": "01849",
+        "funktionId": "",
+        "rednerRaw": "Laura Postma",
+        "fraktionRaw": "Bündnis 90/Die Grünen",
+        "funktionRaw": "",
+        "startOffset": 23615,
+        "endOffset": 23811,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NW",
+      "electoralPeriod": {
+        "number": 18
+      },
+      "session": {
+        "number": 116,
+        "dateStart": "2026-01-29T10:00:00+02:00",
+        "dateEnd": "2026-01-29T16:54:49+02:00"
+      },
+      "dateStart": "2026-01-29T16:36:51+02:00",
+      "dateEnd": "2026-01-29T16:41:46+02:00",
+      "speechIndex": 76,
+      "originID": "18116-15908",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 12: Faire Wettbewerbsbedingungen im Taxi- und Mietwagenmarkt gewährleisten",
+        "title": "Faire Wettbewerbsbedingungen im Taxi- und Mietwagenmarkt gewährleisten",
+        "id": "TOP-12",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Julia Kahle-Hausmann",
+          "context": "main-speaker",
+          "firstname": "Julia",
+          "lastname": "Kahle-Hausmann",
+          "originPersonID": "01832",
+          "faction": {
+            "label": "SPD",
+            "wid": "Q49768"
+          }
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://www.landtag.nrw.de/videos/481b564b-5fa4-4a79-a3fb-02c67b34e976/playlist.m3u8#t=23811,24106",
+        "sourcePage": "https://www.landtag.nrw.de/home/mediathek/video.html?kid=481b564b-5fa4-4a79-a3fb-02c67b34e976&top-redner-id=15908",
+        "creator": "Landtag Nordrhein-Westfalen",
+        "license": "Landtag Nordrhein-Westfalen – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; Quellenangabe \"Landtag Nordrhein-Westfalen\". https://www.landtag.nrw.de/home/footer/impressum.html",
+        "originMediaID": "15908",
+        "additionalInformation": {
+          "startOffset": 23811.0,
+          "endOffset": 24106.0
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-video-page",
+        "kid": "481b564b-5fa4-4a79-a3fb-02c67b34e976",
+        "topRednerID": "15908",
+        "topNumber": "12",
+        "mdlId": "01832",
+        "funktionId": "",
+        "rednerRaw": "Julia Kahle-Hausmann",
+        "fraktionRaw": "SPD",
+        "funktionRaw": "",
+        "startOffset": 23811,
+        "endOffset": 24106,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NW",
+      "electoralPeriod": {
+        "number": 18
+      },
+      "session": {
+        "number": 116,
+        "dateStart": "2026-01-29T10:00:00+02:00",
+        "dateEnd": "2026-01-29T16:54:49+02:00"
+      },
+      "dateStart": "2026-01-29T16:41:46+02:00",
+      "dateEnd": "2026-01-29T16:44:42+02:00",
+      "speechIndex": 77,
+      "originID": "18116-15909",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 12: Faire Wettbewerbsbedingungen im Taxi- und Mietwagenmarkt gewährleisten",
+        "title": "Faire Wettbewerbsbedingungen im Taxi- und Mietwagenmarkt gewährleisten",
+        "id": "TOP-12",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Christof Rasche",
+          "context": "main-speaker",
+          "firstname": "Christof",
+          "lastname": "Rasche",
+          "originPersonID": "01419",
+          "faction": {
+            "label": "FDP",
+            "wid": "Q13124"
+          },
+          "wid": "Q1084323",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://www.landtag.nrw.de/videos/481b564b-5fa4-4a79-a3fb-02c67b34e976/playlist.m3u8#t=24106,24282",
+        "sourcePage": "https://www.landtag.nrw.de/home/mediathek/video.html?kid=481b564b-5fa4-4a79-a3fb-02c67b34e976&top-redner-id=15909",
+        "creator": "Landtag Nordrhein-Westfalen",
+        "license": "Landtag Nordrhein-Westfalen – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; Quellenangabe \"Landtag Nordrhein-Westfalen\". https://www.landtag.nrw.de/home/footer/impressum.html",
+        "originMediaID": "15909",
+        "additionalInformation": {
+          "startOffset": 24106.0,
+          "endOffset": 24282.0
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-video-page",
+        "kid": "481b564b-5fa4-4a79-a3fb-02c67b34e976",
+        "topRednerID": "15909",
+        "topNumber": "12",
+        "mdlId": "01419",
+        "funktionId": "",
+        "rednerRaw": "Christof Rasche",
+        "fraktionRaw": "FDP",
+        "funktionRaw": "",
+        "startOffset": 24106,
+        "endOffset": 24282,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NW",
+      "electoralPeriod": {
+        "number": 18
+      },
+      "session": {
+        "number": 116,
+        "dateStart": "2026-01-29T10:00:00+02:00",
+        "dateEnd": "2026-01-29T16:54:49+02:00"
+      },
+      "dateStart": "2026-01-29T16:44:42+02:00",
+      "dateEnd": "2026-01-29T16:49:31+02:00",
+      "speechIndex": 78,
+      "originID": "18116-15910",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 12: Faire Wettbewerbsbedingungen im Taxi- und Mietwagenmarkt gewährleisten",
+        "title": "Faire Wettbewerbsbedingungen im Taxi- und Mietwagenmarkt gewährleisten",
+        "id": "TOP-12",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Klaus Esser",
+          "context": "main-speaker",
+          "firstname": "Klaus",
+          "lastname": "Esser",
+          "originPersonID": "01819",
+          "faction": {
+            "label": "AfD",
+            "wid": "Q6721203"
+          },
+          "wid": "Q113637879",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://www.landtag.nrw.de/videos/481b564b-5fa4-4a79-a3fb-02c67b34e976/playlist.m3u8#t=24282,24571",
+        "sourcePage": "https://www.landtag.nrw.de/home/mediathek/video.html?kid=481b564b-5fa4-4a79-a3fb-02c67b34e976&top-redner-id=15910",
+        "creator": "Landtag Nordrhein-Westfalen",
+        "license": "Landtag Nordrhein-Westfalen – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; Quellenangabe \"Landtag Nordrhein-Westfalen\". https://www.landtag.nrw.de/home/footer/impressum.html",
+        "originMediaID": "15910",
+        "additionalInformation": {
+          "startOffset": 24282.0,
+          "endOffset": 24571.0
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-video-page",
+        "kid": "481b564b-5fa4-4a79-a3fb-02c67b34e976",
+        "topRednerID": "15910",
+        "topNumber": "12",
+        "mdlId": "01819",
+        "funktionId": "",
+        "rednerRaw": "Klaus Esser",
+        "fraktionRaw": "AfD",
+        "funktionRaw": "",
+        "startOffset": 24282,
+        "endOffset": 24571,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NW",
+      "electoralPeriod": {
+        "number": 18
+      },
+      "session": {
+        "number": 116,
+        "dateStart": "2026-01-29T10:00:00+02:00",
+        "dateEnd": "2026-01-29T16:54:49+02:00"
+      },
+      "dateStart": "2026-01-29T16:49:31+02:00",
+      "dateEnd": "2026-01-29T16:54:49+02:00",
+      "speechIndex": 79,
+      "originID": "18116-15911",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 12: Faire Wettbewerbsbedingungen im Taxi- und Mietwagenmarkt gewährleisten",
+        "title": "Faire Wettbewerbsbedingungen im Taxi- und Mietwagenmarkt gewährleisten",
+        "id": "TOP-12",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Oliver Krischer",
+          "context": "main-speaker",
+          "firstname": "Oliver",
+          "lastname": "Krischer",
+          "role": "Minister",
+          "originPersonID": "18MUG1",
+          "faction": {
+            "label": "Bündnis 90/Die Grünen",
+            "wid": "Q49766"
+          }
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://www.landtag.nrw.de/videos/481b564b-5fa4-4a79-a3fb-02c67b34e976/playlist.m3u8#t=24571,24889",
+        "sourcePage": "https://www.landtag.nrw.de/home/mediathek/video.html?kid=481b564b-5fa4-4a79-a3fb-02c67b34e976&top-redner-id=15911",
+        "creator": "Landtag Nordrhein-Westfalen",
+        "license": "Landtag Nordrhein-Westfalen – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; Quellenangabe \"Landtag Nordrhein-Westfalen\". https://www.landtag.nrw.de/home/footer/impressum.html",
+        "originMediaID": "15911",
+        "additionalInformation": {
+          "startOffset": 24571.0,
+          "endOffset": 24889.0
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-video-page",
+        "kid": "481b564b-5fa4-4a79-a3fb-02c67b34e976",
+        "topRednerID": "15911",
+        "topNumber": "12",
+        "mdlId": "",
+        "funktionId": "18MUG1",
+        "rednerRaw": "Oliver Krischer",
+        "fraktionRaw": "Bündnis 90/Die Grünen",
+        "funktionRaw": "Minister",
+        "startOffset": 24571,
+        "endOffset": 24889,
+        "timesAreVideoRelative": false
+      }
+    }
+  ]
+}

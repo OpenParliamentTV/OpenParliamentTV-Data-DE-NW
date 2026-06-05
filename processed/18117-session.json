@@ -1,0 +1,3078 @@
+{
+  "meta": {
+    "schemaVersion": "1.0",
+    "parliament": "DE-NW",
+    "electoralPeriod": {
+      "number": 18
+    },
+    "session": "18117",
+    "dateStart": "2026-01-30T10:00:00+02:00",
+    "dateEnd": "2026-01-30T14:07:42+02:00",
+    "sourceURI": "https://www.landtag.nrw.de/home/mediathek/video.html?kid=16904f0f-9e3d-4b7c-a9a2-ad09bd26ac69",
+    "processing": {
+      "parse_media": "2026-06-01T20:40:01",
+      "merge": "2026-06-01T20:40:01",
+      "nel": "2026-06-01T20:40:01"
+    },
+    "lastUpdate": "2026-06-01T20:40:01"
+  },
+  "data": [
+    {
+      "parliament": "DE-NW",
+      "electoralPeriod": {
+        "number": 18
+      },
+      "session": {
+        "number": 117,
+        "dateStart": "2026-01-30T10:00:00+02:00",
+        "dateEnd": "2026-01-30T14:07:42+02:00"
+      },
+      "dateStart": "2026-01-30T10:00:00+02:00",
+      "dateEnd": "2026-01-30T10:02:19+02:00",
+      "speechIndex": 1,
+      "originID": "18117-15921",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "Sitzungseröffnung Präsident André Kuper",
+        "title": "Sitzungseröffnung Präsident André Kuper",
+        "id": "sitzungser-ffnung-pr-sident-andr-kuper",
+        "nativeType": "DE-NW-opening",
+        "type": "opening"
+      },
+      "people": [
+        {
+          "label": "André Kuper",
+          "context": "president",
+          "firstname": "André",
+          "lastname": "Kuper",
+          "role": "Präsident",
+          "originPersonID": "18PC1",
+          "wid": "Q520320",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://www.landtag.nrw.de/videos/16904f0f-9e3d-4b7c-a9a2-ad09bd26ac69/playlist.m3u8#t=0,139",
+        "sourcePage": "https://www.landtag.nrw.de/home/mediathek/video.html?kid=16904f0f-9e3d-4b7c-a9a2-ad09bd26ac69&top-redner-id=15921",
+        "creator": "Landtag Nordrhein-Westfalen",
+        "license": "Landtag Nordrhein-Westfalen – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; Quellenangabe \"Landtag Nordrhein-Westfalen\". https://www.landtag.nrw.de/home/footer/impressum.html",
+        "originMediaID": "15921",
+        "additionalInformation": {
+          "startOffset": 0.0,
+          "endOffset": 139.0
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-video-page",
+        "kid": "16904f0f-9e3d-4b7c-a9a2-ad09bd26ac69",
+        "topRednerID": "15921",
+        "topNumber": "",
+        "mdlId": "",
+        "funktionId": "18PC1",
+        "rednerRaw": "André Kuper",
+        "fraktionRaw": "",
+        "funktionRaw": "Präsident",
+        "startOffset": 0,
+        "endOffset": 139,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NW",
+      "electoralPeriod": {
+        "number": 18
+      },
+      "session": {
+        "number": 117,
+        "dateStart": "2026-01-30T10:00:00+02:00",
+        "dateEnd": "2026-01-30T14:07:42+02:00"
+      },
+      "dateStart": "2026-01-30T10:02:19+02:00",
+      "dateEnd": "2026-01-30T10:09:49+02:00",
+      "speechIndex": 2,
+      "originID": "18117-15923",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 1: Stauland NRW: Wie reagiert das Land auf die Datenauswertung des Navigationsdienstleisters TomTom und die sich verschlechternde Stau- und Verkehrslage? in Verbindung damit NRW weiterhin Stau-Hotspot – Landesregierung liefert keine Antworten auf explodierende Pendlerbelastungen und Verkehrsprobleme",
+        "title": "Stauland NRW: Wie reagiert das Land auf die Datenauswertung des Navigationsdienstleisters TomTom und die sich verschlechternde Stau- und Verkehrslage? in Verbindung damit NRW weiterhin Stau-Hotspot – Landesregierung liefert keine Antworten auf explodierende Pendlerbelastungen und Verkehrsprobleme",
+        "id": "TOP-1",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Klaus Esser",
+          "context": "main-speaker",
+          "firstname": "Klaus",
+          "lastname": "Esser",
+          "originPersonID": "01819",
+          "faction": {
+            "label": "AfD",
+            "wid": "Q6721203"
+          },
+          "wid": "Q113637879",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://www.landtag.nrw.de/videos/16904f0f-9e3d-4b7c-a9a2-ad09bd26ac69/playlist.m3u8#t=139,589",
+        "sourcePage": "https://www.landtag.nrw.de/home/mediathek/video.html?kid=16904f0f-9e3d-4b7c-a9a2-ad09bd26ac69&top-redner-id=15923",
+        "creator": "Landtag Nordrhein-Westfalen",
+        "license": "Landtag Nordrhein-Westfalen – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; Quellenangabe \"Landtag Nordrhein-Westfalen\". https://www.landtag.nrw.de/home/footer/impressum.html",
+        "originMediaID": "15923",
+        "additionalInformation": {
+          "startOffset": 139.0,
+          "endOffset": 589.0
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-video-page",
+        "kid": "16904f0f-9e3d-4b7c-a9a2-ad09bd26ac69",
+        "topRednerID": "15923",
+        "topNumber": "1",
+        "mdlId": "01819",
+        "funktionId": "",
+        "rednerRaw": "Klaus Esser",
+        "fraktionRaw": "AfD",
+        "funktionRaw": "",
+        "startOffset": 139,
+        "endOffset": 589,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NW",
+      "electoralPeriod": {
+        "number": 18
+      },
+      "session": {
+        "number": 117,
+        "dateStart": "2026-01-30T10:00:00+02:00",
+        "dateEnd": "2026-01-30T14:07:42+02:00"
+      },
+      "dateStart": "2026-01-30T10:09:49+02:00",
+      "dateEnd": "2026-01-30T10:16:19+02:00",
+      "speechIndex": 3,
+      "originID": "18117-15924",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 1: Stauland NRW: Wie reagiert das Land auf die Datenauswertung des Navigationsdienstleisters TomTom und die sich verschlechternde Stau- und Verkehrslage? in Verbindung damit NRW weiterhin Stau-Hotspot – Landesregierung liefert keine Antworten auf explodierende Pendlerbelastungen und Verkehrsprobleme",
+        "title": "Stauland NRW: Wie reagiert das Land auf die Datenauswertung des Navigationsdienstleisters TomTom und die sich verschlechternde Stau- und Verkehrslage? in Verbindung damit NRW weiterhin Stau-Hotspot – Landesregierung liefert keine Antworten auf explodierende Pendlerbelastungen und Verkehrsprobleme",
+        "id": "TOP-1",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Alexander Vogt",
+          "context": "main-speaker",
+          "firstname": "Alexander",
+          "lastname": "Vogt",
+          "originPersonID": "01594",
+          "faction": {
+            "label": "SPD",
+            "wid": "Q49768"
+          },
+          "wid": "Q1711462",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://www.landtag.nrw.de/videos/16904f0f-9e3d-4b7c-a9a2-ad09bd26ac69/playlist.m3u8#t=589,979",
+        "sourcePage": "https://www.landtag.nrw.de/home/mediathek/video.html?kid=16904f0f-9e3d-4b7c-a9a2-ad09bd26ac69&top-redner-id=15924",
+        "creator": "Landtag Nordrhein-Westfalen",
+        "license": "Landtag Nordrhein-Westfalen – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; Quellenangabe \"Landtag Nordrhein-Westfalen\". https://www.landtag.nrw.de/home/footer/impressum.html",
+        "originMediaID": "15924",
+        "additionalInformation": {
+          "startOffset": 589.0,
+          "endOffset": 979.0
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-video-page",
+        "kid": "16904f0f-9e3d-4b7c-a9a2-ad09bd26ac69",
+        "topRednerID": "15924",
+        "topNumber": "1",
+        "mdlId": "01594",
+        "funktionId": "",
+        "rednerRaw": "Alexander Vogt",
+        "fraktionRaw": "SPD",
+        "funktionRaw": "",
+        "startOffset": 589,
+        "endOffset": 979,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NW",
+      "electoralPeriod": {
+        "number": 18
+      },
+      "session": {
+        "number": 117,
+        "dateStart": "2026-01-30T10:00:00+02:00",
+        "dateEnd": "2026-01-30T14:07:42+02:00"
+      },
+      "dateStart": "2026-01-30T10:16:19+02:00",
+      "dateEnd": "2026-01-30T10:21:31+02:00",
+      "speechIndex": 4,
+      "originID": "18117-15925",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 1: Stauland NRW: Wie reagiert das Land auf die Datenauswertung des Navigationsdienstleisters TomTom und die sich verschlechternde Stau- und Verkehrslage? in Verbindung damit NRW weiterhin Stau-Hotspot – Landesregierung liefert keine Antworten auf explodierende Pendlerbelastungen und Verkehrsprobleme",
+        "title": "Stauland NRW: Wie reagiert das Land auf die Datenauswertung des Navigationsdienstleisters TomTom und die sich verschlechternde Stau- und Verkehrslage? in Verbindung damit NRW weiterhin Stau-Hotspot – Landesregierung liefert keine Antworten auf explodierende Pendlerbelastungen und Verkehrsprobleme",
+        "id": "TOP-1",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Klaus Voussem",
+          "context": "main-speaker",
+          "firstname": "Klaus",
+          "lastname": "Voussem",
+          "originPersonID": "01597",
+          "faction": {
+            "label": "CDU",
+            "wid": "Q49762"
+          },
+          "wid": "Q1744066",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://www.landtag.nrw.de/videos/16904f0f-9e3d-4b7c-a9a2-ad09bd26ac69/playlist.m3u8#t=979,1291",
+        "sourcePage": "https://www.landtag.nrw.de/home/mediathek/video.html?kid=16904f0f-9e3d-4b7c-a9a2-ad09bd26ac69&top-redner-id=15925",
+        "creator": "Landtag Nordrhein-Westfalen",
+        "license": "Landtag Nordrhein-Westfalen – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; Quellenangabe \"Landtag Nordrhein-Westfalen\". https://www.landtag.nrw.de/home/footer/impressum.html",
+        "originMediaID": "15925",
+        "additionalInformation": {
+          "startOffset": 979.0,
+          "endOffset": 1291.0
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-video-page",
+        "kid": "16904f0f-9e3d-4b7c-a9a2-ad09bd26ac69",
+        "topRednerID": "15925",
+        "topNumber": "1",
+        "mdlId": "01597",
+        "funktionId": "",
+        "rednerRaw": "Klaus Voussem",
+        "fraktionRaw": "CDU",
+        "funktionRaw": "",
+        "startOffset": 979,
+        "endOffset": 1291,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NW",
+      "electoralPeriod": {
+        "number": 18
+      },
+      "session": {
+        "number": 117,
+        "dateStart": "2026-01-30T10:00:00+02:00",
+        "dateEnd": "2026-01-30T14:07:42+02:00"
+      },
+      "dateStart": "2026-01-30T10:21:31+02:00",
+      "dateEnd": "2026-01-30T10:29:31+02:00",
+      "speechIndex": 5,
+      "originID": "18117-15926",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 1: Stauland NRW: Wie reagiert das Land auf die Datenauswertung des Navigationsdienstleisters TomTom und die sich verschlechternde Stau- und Verkehrslage? in Verbindung damit NRW weiterhin Stau-Hotspot – Landesregierung liefert keine Antworten auf explodierende Pendlerbelastungen und Verkehrsprobleme",
+        "title": "Stauland NRW: Wie reagiert das Land auf die Datenauswertung des Navigationsdienstleisters TomTom und die sich verschlechternde Stau- und Verkehrslage? in Verbindung damit NRW weiterhin Stau-Hotspot – Landesregierung liefert keine Antworten auf explodierende Pendlerbelastungen und Verkehrsprobleme",
+        "id": "TOP-1",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Christof Rasche",
+          "context": "main-speaker",
+          "firstname": "Christof",
+          "lastname": "Rasche",
+          "originPersonID": "01419",
+          "faction": {
+            "label": "FDP",
+            "wid": "Q13124"
+          },
+          "wid": "Q1084323",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://www.landtag.nrw.de/videos/16904f0f-9e3d-4b7c-a9a2-ad09bd26ac69/playlist.m3u8#t=1291,1771",
+        "sourcePage": "https://www.landtag.nrw.de/home/mediathek/video.html?kid=16904f0f-9e3d-4b7c-a9a2-ad09bd26ac69&top-redner-id=15926",
+        "creator": "Landtag Nordrhein-Westfalen",
+        "license": "Landtag Nordrhein-Westfalen – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; Quellenangabe \"Landtag Nordrhein-Westfalen\". https://www.landtag.nrw.de/home/footer/impressum.html",
+        "originMediaID": "15926",
+        "additionalInformation": {
+          "startOffset": 1291.0,
+          "endOffset": 1771.0
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-video-page",
+        "kid": "16904f0f-9e3d-4b7c-a9a2-ad09bd26ac69",
+        "topRednerID": "15926",
+        "topNumber": "1",
+        "mdlId": "01419",
+        "funktionId": "",
+        "rednerRaw": "Christof Rasche",
+        "fraktionRaw": "FDP",
+        "funktionRaw": "",
+        "startOffset": 1291,
+        "endOffset": 1771,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NW",
+      "electoralPeriod": {
+        "number": 18
+      },
+      "session": {
+        "number": 117,
+        "dateStart": "2026-01-30T10:00:00+02:00",
+        "dateEnd": "2026-01-30T14:07:42+02:00"
+      },
+      "dateStart": "2026-01-30T10:29:31+02:00",
+      "dateEnd": "2026-01-30T10:36:12+02:00",
+      "speechIndex": 6,
+      "originID": "18117-15927",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 1: Stauland NRW: Wie reagiert das Land auf die Datenauswertung des Navigationsdienstleisters TomTom und die sich verschlechternde Stau- und Verkehrslage? in Verbindung damit NRW weiterhin Stau-Hotspot – Landesregierung liefert keine Antworten auf explodierende Pendlerbelastungen und Verkehrsprobleme",
+        "title": "Stauland NRW: Wie reagiert das Land auf die Datenauswertung des Navigationsdienstleisters TomTom und die sich verschlechternde Stau- und Verkehrslage? in Verbindung damit NRW weiterhin Stau-Hotspot – Landesregierung liefert keine Antworten auf explodierende Pendlerbelastungen und Verkehrsprobleme",
+        "id": "TOP-1",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Martin Metz",
+          "context": "main-speaker",
+          "firstname": "Martin",
+          "lastname": "Metz",
+          "originPersonID": "01842",
+          "faction": {
+            "label": "Bündnis 90/Die Grünen",
+            "wid": "Q49766"
+          },
+          "wid": "Q110888917",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://www.landtag.nrw.de/videos/16904f0f-9e3d-4b7c-a9a2-ad09bd26ac69/playlist.m3u8#t=1771,2172",
+        "sourcePage": "https://www.landtag.nrw.de/home/mediathek/video.html?kid=16904f0f-9e3d-4b7c-a9a2-ad09bd26ac69&top-redner-id=15927",
+        "creator": "Landtag Nordrhein-Westfalen",
+        "license": "Landtag Nordrhein-Westfalen – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; Quellenangabe \"Landtag Nordrhein-Westfalen\". https://www.landtag.nrw.de/home/footer/impressum.html",
+        "originMediaID": "15927",
+        "additionalInformation": {
+          "startOffset": 1771.0,
+          "endOffset": 2172.0
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-video-page",
+        "kid": "16904f0f-9e3d-4b7c-a9a2-ad09bd26ac69",
+        "topRednerID": "15927",
+        "topNumber": "1",
+        "mdlId": "01842",
+        "funktionId": "",
+        "rednerRaw": "Martin Metz",
+        "fraktionRaw": "Bündnis 90/Die Grünen",
+        "funktionRaw": "",
+        "startOffset": 1771,
+        "endOffset": 2172,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NW",
+      "electoralPeriod": {
+        "number": 18
+      },
+      "session": {
+        "number": 117,
+        "dateStart": "2026-01-30T10:00:00+02:00",
+        "dateEnd": "2026-01-30T14:07:42+02:00"
+      },
+      "dateStart": "2026-01-30T10:36:12+02:00",
+      "dateEnd": "2026-01-30T10:44:01+02:00",
+      "speechIndex": 7,
+      "originID": "18117-15928",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 1: Stauland NRW: Wie reagiert das Land auf die Datenauswertung des Navigationsdienstleisters TomTom und die sich verschlechternde Stau- und Verkehrslage? in Verbindung damit NRW weiterhin Stau-Hotspot – Landesregierung liefert keine Antworten auf explodierende Pendlerbelastungen und Verkehrsprobleme",
+        "title": "Stauland NRW: Wie reagiert das Land auf die Datenauswertung des Navigationsdienstleisters TomTom und die sich verschlechternde Stau- und Verkehrslage? in Verbindung damit NRW weiterhin Stau-Hotspot – Landesregierung liefert keine Antworten auf explodierende Pendlerbelastungen und Verkehrsprobleme",
+        "id": "TOP-1",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Oliver Krischer",
+          "context": "main-speaker",
+          "firstname": "Oliver",
+          "lastname": "Krischer",
+          "role": "Minister",
+          "originPersonID": "18MUG1",
+          "faction": {
+            "label": "Bündnis 90/Die Grünen",
+            "wid": "Q49766"
+          }
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://www.landtag.nrw.de/videos/16904f0f-9e3d-4b7c-a9a2-ad09bd26ac69/playlist.m3u8#t=2172,2641",
+        "sourcePage": "https://www.landtag.nrw.de/home/mediathek/video.html?kid=16904f0f-9e3d-4b7c-a9a2-ad09bd26ac69&top-redner-id=15928",
+        "creator": "Landtag Nordrhein-Westfalen",
+        "license": "Landtag Nordrhein-Westfalen – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; Quellenangabe \"Landtag Nordrhein-Westfalen\". https://www.landtag.nrw.de/home/footer/impressum.html",
+        "originMediaID": "15928",
+        "additionalInformation": {
+          "startOffset": 2172.0,
+          "endOffset": 2641.0
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-video-page",
+        "kid": "16904f0f-9e3d-4b7c-a9a2-ad09bd26ac69",
+        "topRednerID": "15928",
+        "topNumber": "1",
+        "mdlId": "",
+        "funktionId": "18MUG1",
+        "rednerRaw": "Oliver Krischer",
+        "fraktionRaw": "Bündnis 90/Die Grünen",
+        "funktionRaw": "Minister",
+        "startOffset": 2172,
+        "endOffset": 2641,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NW",
+      "electoralPeriod": {
+        "number": 18
+      },
+      "session": {
+        "number": 117,
+        "dateStart": "2026-01-30T10:00:00+02:00",
+        "dateEnd": "2026-01-30T14:07:42+02:00"
+      },
+      "dateStart": "2026-01-30T10:44:01+02:00",
+      "dateEnd": "2026-01-30T10:50:21+02:00",
+      "speechIndex": 8,
+      "originID": "18117-15929",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 1: Stauland NRW: Wie reagiert das Land auf die Datenauswertung des Navigationsdienstleisters TomTom und die sich verschlechternde Stau- und Verkehrslage? in Verbindung damit NRW weiterhin Stau-Hotspot – Landesregierung liefert keine Antworten auf explodierende Pendlerbelastungen und Verkehrsprobleme",
+        "title": "Stauland NRW: Wie reagiert das Land auf die Datenauswertung des Navigationsdienstleisters TomTom und die sich verschlechternde Stau- und Verkehrslage? in Verbindung damit NRW weiterhin Stau-Hotspot – Landesregierung liefert keine Antworten auf explodierende Pendlerbelastungen und Verkehrsprobleme",
+        "id": "TOP-1",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Gordan Dudas",
+          "context": "main-speaker",
+          "firstname": "Gordan",
+          "lastname": "Dudas",
+          "originPersonID": "01552",
+          "faction": {
+            "label": "SPD",
+            "wid": "Q49768"
+          },
+          "wid": "Q1170623",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://www.landtag.nrw.de/videos/16904f0f-9e3d-4b7c-a9a2-ad09bd26ac69/playlist.m3u8#t=2641,3021",
+        "sourcePage": "https://www.landtag.nrw.de/home/mediathek/video.html?kid=16904f0f-9e3d-4b7c-a9a2-ad09bd26ac69&top-redner-id=15929",
+        "creator": "Landtag Nordrhein-Westfalen",
+        "license": "Landtag Nordrhein-Westfalen – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; Quellenangabe \"Landtag Nordrhein-Westfalen\". https://www.landtag.nrw.de/home/footer/impressum.html",
+        "originMediaID": "15929",
+        "additionalInformation": {
+          "startOffset": 2641.0,
+          "endOffset": 3021.0
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-video-page",
+        "kid": "16904f0f-9e3d-4b7c-a9a2-ad09bd26ac69",
+        "topRednerID": "15929",
+        "topNumber": "1",
+        "mdlId": "01552",
+        "funktionId": "",
+        "rednerRaw": "Gordan Dudas",
+        "fraktionRaw": "SPD",
+        "funktionRaw": "",
+        "startOffset": 2641,
+        "endOffset": 3021,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NW",
+      "electoralPeriod": {
+        "number": 18
+      },
+      "session": {
+        "number": 117,
+        "dateStart": "2026-01-30T10:00:00+02:00",
+        "dateEnd": "2026-01-30T14:07:42+02:00"
+      },
+      "dateStart": "2026-01-30T10:50:21+02:00",
+      "dateEnd": "2026-01-30T10:54:50+02:00",
+      "speechIndex": 9,
+      "originID": "18117-15930",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 1: Stauland NRW: Wie reagiert das Land auf die Datenauswertung des Navigationsdienstleisters TomTom und die sich verschlechternde Stau- und Verkehrslage? in Verbindung damit NRW weiterhin Stau-Hotspot – Landesregierung liefert keine Antworten auf explodierende Pendlerbelastungen und Verkehrsprobleme",
+        "title": "Stauland NRW: Wie reagiert das Land auf die Datenauswertung des Navigationsdienstleisters TomTom und die sich verschlechternde Stau- und Verkehrslage? in Verbindung damit NRW weiterhin Stau-Hotspot – Landesregierung liefert keine Antworten auf explodierende Pendlerbelastungen und Verkehrsprobleme",
+        "id": "TOP-1",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Olaf Lehne",
+          "context": "main-speaker",
+          "firstname": "Olaf",
+          "lastname": "Lehne",
+          "originPersonID": "01492",
+          "faction": {
+            "label": "CDU",
+            "wid": "Q49762"
+          },
+          "wid": "Q2018007",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://www.landtag.nrw.de/videos/16904f0f-9e3d-4b7c-a9a2-ad09bd26ac69/playlist.m3u8#t=3021,3290",
+        "sourcePage": "https://www.landtag.nrw.de/home/mediathek/video.html?kid=16904f0f-9e3d-4b7c-a9a2-ad09bd26ac69&top-redner-id=15930",
+        "creator": "Landtag Nordrhein-Westfalen",
+        "license": "Landtag Nordrhein-Westfalen – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; Quellenangabe \"Landtag Nordrhein-Westfalen\". https://www.landtag.nrw.de/home/footer/impressum.html",
+        "originMediaID": "15930",
+        "additionalInformation": {
+          "startOffset": 3021.0,
+          "endOffset": 3290.0
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-video-page",
+        "kid": "16904f0f-9e3d-4b7c-a9a2-ad09bd26ac69",
+        "topRednerID": "15930",
+        "topNumber": "1",
+        "mdlId": "01492",
+        "funktionId": "",
+        "rednerRaw": "Olaf Lehne",
+        "fraktionRaw": "CDU",
+        "funktionRaw": "",
+        "startOffset": 3021,
+        "endOffset": 3290,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NW",
+      "electoralPeriod": {
+        "number": 18
+      },
+      "session": {
+        "number": 117,
+        "dateStart": "2026-01-30T10:00:00+02:00",
+        "dateEnd": "2026-01-30T14:07:42+02:00"
+      },
+      "dateStart": "2026-01-30T10:54:50+02:00",
+      "dateEnd": "2026-01-30T11:00:29+02:00",
+      "speechIndex": 10,
+      "originID": "18117-15931",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 1: Stauland NRW: Wie reagiert das Land auf die Datenauswertung des Navigationsdienstleisters TomTom und die sich verschlechternde Stau- und Verkehrslage? in Verbindung damit NRW weiterhin Stau-Hotspot – Landesregierung liefert keine Antworten auf explodierende Pendlerbelastungen und Verkehrsprobleme",
+        "title": "Stauland NRW: Wie reagiert das Land auf die Datenauswertung des Navigationsdienstleisters TomTom und die sich verschlechternde Stau- und Verkehrslage? in Verbindung damit NRW weiterhin Stau-Hotspot – Landesregierung liefert keine Antworten auf explodierende Pendlerbelastungen und Verkehrsprobleme",
+        "id": "TOP-1",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Christof Rasche",
+          "context": "main-speaker",
+          "firstname": "Christof",
+          "lastname": "Rasche",
+          "originPersonID": "01419",
+          "faction": {
+            "label": "FDP",
+            "wid": "Q13124"
+          },
+          "wid": "Q1084323",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://www.landtag.nrw.de/videos/16904f0f-9e3d-4b7c-a9a2-ad09bd26ac69/playlist.m3u8#t=3290,3629",
+        "sourcePage": "https://www.landtag.nrw.de/home/mediathek/video.html?kid=16904f0f-9e3d-4b7c-a9a2-ad09bd26ac69&top-redner-id=15931",
+        "creator": "Landtag Nordrhein-Westfalen",
+        "license": "Landtag Nordrhein-Westfalen – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; Quellenangabe \"Landtag Nordrhein-Westfalen\". https://www.landtag.nrw.de/home/footer/impressum.html",
+        "originMediaID": "15931",
+        "additionalInformation": {
+          "startOffset": 3290.0,
+          "endOffset": 3629.0
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-video-page",
+        "kid": "16904f0f-9e3d-4b7c-a9a2-ad09bd26ac69",
+        "topRednerID": "15931",
+        "topNumber": "1",
+        "mdlId": "01419",
+        "funktionId": "",
+        "rednerRaw": "Christof Rasche",
+        "fraktionRaw": "FDP",
+        "funktionRaw": "",
+        "startOffset": 3290,
+        "endOffset": 3629,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NW",
+      "electoralPeriod": {
+        "number": 18
+      },
+      "session": {
+        "number": 117,
+        "dateStart": "2026-01-30T10:00:00+02:00",
+        "dateEnd": "2026-01-30T14:07:42+02:00"
+      },
+      "dateStart": "2026-01-30T11:00:29+02:00",
+      "dateEnd": "2026-01-30T11:06:10+02:00",
+      "speechIndex": 11,
+      "originID": "18117-15932",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 1: Stauland NRW: Wie reagiert das Land auf die Datenauswertung des Navigationsdienstleisters TomTom und die sich verschlechternde Stau- und Verkehrslage? in Verbindung damit NRW weiterhin Stau-Hotspot – Landesregierung liefert keine Antworten auf explodierende Pendlerbelastungen und Verkehrsprobleme",
+        "title": "Stauland NRW: Wie reagiert das Land auf die Datenauswertung des Navigationsdienstleisters TomTom und die sich verschlechternde Stau- und Verkehrslage? in Verbindung damit NRW weiterhin Stau-Hotspot – Landesregierung liefert keine Antworten auf explodierende Pendlerbelastungen und Verkehrsprobleme",
+        "id": "TOP-1",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Martin Metz",
+          "context": "main-speaker",
+          "firstname": "Martin",
+          "lastname": "Metz",
+          "originPersonID": "01842",
+          "faction": {
+            "label": "Bündnis 90/Die Grünen",
+            "wid": "Q49766"
+          },
+          "wid": "Q110888917",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://www.landtag.nrw.de/videos/16904f0f-9e3d-4b7c-a9a2-ad09bd26ac69/playlist.m3u8#t=3629,3970",
+        "sourcePage": "https://www.landtag.nrw.de/home/mediathek/video.html?kid=16904f0f-9e3d-4b7c-a9a2-ad09bd26ac69&top-redner-id=15932",
+        "creator": "Landtag Nordrhein-Westfalen",
+        "license": "Landtag Nordrhein-Westfalen – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; Quellenangabe \"Landtag Nordrhein-Westfalen\". https://www.landtag.nrw.de/home/footer/impressum.html",
+        "originMediaID": "15932",
+        "additionalInformation": {
+          "startOffset": 3629.0,
+          "endOffset": 3970.0
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-video-page",
+        "kid": "16904f0f-9e3d-4b7c-a9a2-ad09bd26ac69",
+        "topRednerID": "15932",
+        "topNumber": "1",
+        "mdlId": "01842",
+        "funktionId": "",
+        "rednerRaw": "Martin Metz",
+        "fraktionRaw": "Bündnis 90/Die Grünen",
+        "funktionRaw": "",
+        "startOffset": 3629,
+        "endOffset": 3970,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NW",
+      "electoralPeriod": {
+        "number": 18
+      },
+      "session": {
+        "number": 117,
+        "dateStart": "2026-01-30T10:00:00+02:00",
+        "dateEnd": "2026-01-30T14:07:42+02:00"
+      },
+      "dateStart": "2026-01-30T11:06:10+02:00",
+      "dateEnd": "2026-01-30T11:08:00+02:00",
+      "speechIndex": 12,
+      "originID": "18117-15933",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 1: Stauland NRW: Wie reagiert das Land auf die Datenauswertung des Navigationsdienstleisters TomTom und die sich verschlechternde Stau- und Verkehrslage? in Verbindung damit NRW weiterhin Stau-Hotspot – Landesregierung liefert keine Antworten auf explodierende Pendlerbelastungen und Verkehrsprobleme",
+        "title": "Stauland NRW: Wie reagiert das Land auf die Datenauswertung des Navigationsdienstleisters TomTom und die sich verschlechternde Stau- und Verkehrslage? in Verbindung damit NRW weiterhin Stau-Hotspot – Landesregierung liefert keine Antworten auf explodierende Pendlerbelastungen und Verkehrsprobleme",
+        "id": "TOP-1",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Oliver Krischer",
+          "context": "main-speaker",
+          "firstname": "Oliver",
+          "lastname": "Krischer",
+          "role": "Minister",
+          "originPersonID": "18MUG1",
+          "faction": {
+            "label": "Bündnis 90/Die Grünen",
+            "wid": "Q49766"
+          }
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://www.landtag.nrw.de/videos/16904f0f-9e3d-4b7c-a9a2-ad09bd26ac69/playlist.m3u8#t=3970,4080",
+        "sourcePage": "https://www.landtag.nrw.de/home/mediathek/video.html?kid=16904f0f-9e3d-4b7c-a9a2-ad09bd26ac69&top-redner-id=15933",
+        "creator": "Landtag Nordrhein-Westfalen",
+        "license": "Landtag Nordrhein-Westfalen – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; Quellenangabe \"Landtag Nordrhein-Westfalen\". https://www.landtag.nrw.de/home/footer/impressum.html",
+        "originMediaID": "15933",
+        "additionalInformation": {
+          "startOffset": 3970.0,
+          "endOffset": 4080.0
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-video-page",
+        "kid": "16904f0f-9e3d-4b7c-a9a2-ad09bd26ac69",
+        "topRednerID": "15933",
+        "topNumber": "1",
+        "mdlId": "",
+        "funktionId": "18MUG1",
+        "rednerRaw": "Oliver Krischer",
+        "fraktionRaw": "Bündnis 90/Die Grünen",
+        "funktionRaw": "Minister",
+        "startOffset": 3970,
+        "endOffset": 4080,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NW",
+      "electoralPeriod": {
+        "number": 18
+      },
+      "session": {
+        "number": 117,
+        "dateStart": "2026-01-30T10:00:00+02:00",
+        "dateEnd": "2026-01-30T14:07:42+02:00"
+      },
+      "dateStart": "2026-01-30T11:08:00+02:00",
+      "dateEnd": "2026-01-30T11:11:55+02:00",
+      "speechIndex": 13,
+      "originID": "18117-15934",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 1: Stauland NRW: Wie reagiert das Land auf die Datenauswertung des Navigationsdienstleisters TomTom und die sich verschlechternde Stau- und Verkehrslage? in Verbindung damit NRW weiterhin Stau-Hotspot – Landesregierung liefert keine Antworten auf explodierende Pendlerbelastungen und Verkehrsprobleme",
+        "title": "Stauland NRW: Wie reagiert das Land auf die Datenauswertung des Navigationsdienstleisters TomTom und die sich verschlechternde Stau- und Verkehrslage? in Verbindung damit NRW weiterhin Stau-Hotspot – Landesregierung liefert keine Antworten auf explodierende Pendlerbelastungen und Verkehrsprobleme",
+        "id": "TOP-1",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Alexander Vogt",
+          "context": "main-speaker",
+          "firstname": "Alexander",
+          "lastname": "Vogt",
+          "originPersonID": "01594",
+          "faction": {
+            "label": "SPD",
+            "wid": "Q49768"
+          },
+          "wid": "Q1711462",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://www.landtag.nrw.de/videos/16904f0f-9e3d-4b7c-a9a2-ad09bd26ac69/playlist.m3u8#t=4080,4315",
+        "sourcePage": "https://www.landtag.nrw.de/home/mediathek/video.html?kid=16904f0f-9e3d-4b7c-a9a2-ad09bd26ac69&top-redner-id=15934",
+        "creator": "Landtag Nordrhein-Westfalen",
+        "license": "Landtag Nordrhein-Westfalen – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; Quellenangabe \"Landtag Nordrhein-Westfalen\". https://www.landtag.nrw.de/home/footer/impressum.html",
+        "originMediaID": "15934",
+        "additionalInformation": {
+          "startOffset": 4080.0,
+          "endOffset": 4315.0
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-video-page",
+        "kid": "16904f0f-9e3d-4b7c-a9a2-ad09bd26ac69",
+        "topRednerID": "15934",
+        "topNumber": "1",
+        "mdlId": "01594",
+        "funktionId": "",
+        "rednerRaw": "Alexander Vogt",
+        "fraktionRaw": "SPD",
+        "funktionRaw": "",
+        "startOffset": 4080,
+        "endOffset": 4315,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NW",
+      "electoralPeriod": {
+        "number": 18
+      },
+      "session": {
+        "number": 117,
+        "dateStart": "2026-01-30T10:00:00+02:00",
+        "dateEnd": "2026-01-30T14:07:42+02:00"
+      },
+      "dateStart": "2026-01-30T11:11:55+02:00",
+      "dateEnd": "2026-01-30T11:19:57+02:00",
+      "speechIndex": 14,
+      "originID": "18117-15936",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 2: Lückenlose Aufklärung des Terroranschlags von Solingen – Verantwortung übernehmen statt Transparenz versprechen",
+        "title": "Lückenlose Aufklärung des Terroranschlags von Solingen – Verantwortung übernehmen statt Transparenz versprechen",
+        "id": "TOP-2",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Henning Höne",
+          "context": "main-speaker",
+          "firstname": "Henning",
+          "lastname": "Höne",
+          "originPersonID": "01637",
+          "faction": {
+            "label": "FDP",
+            "wid": "Q13124"
+          },
+          "wid": "Q1578958",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://www.landtag.nrw.de/videos/16904f0f-9e3d-4b7c-a9a2-ad09bd26ac69/playlist.m3u8#t=4315,4797",
+        "sourcePage": "https://www.landtag.nrw.de/home/mediathek/video.html?kid=16904f0f-9e3d-4b7c-a9a2-ad09bd26ac69&top-redner-id=15936",
+        "creator": "Landtag Nordrhein-Westfalen",
+        "license": "Landtag Nordrhein-Westfalen – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; Quellenangabe \"Landtag Nordrhein-Westfalen\". https://www.landtag.nrw.de/home/footer/impressum.html",
+        "originMediaID": "15936",
+        "additionalInformation": {
+          "startOffset": 4315.0,
+          "endOffset": 4797.0
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-video-page",
+        "kid": "16904f0f-9e3d-4b7c-a9a2-ad09bd26ac69",
+        "topRednerID": "15936",
+        "topNumber": "2",
+        "mdlId": "01637",
+        "funktionId": "",
+        "rednerRaw": "Henning Höne",
+        "fraktionRaw": "FDP",
+        "funktionRaw": "",
+        "startOffset": 4315,
+        "endOffset": 4797,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NW",
+      "electoralPeriod": {
+        "number": 18
+      },
+      "session": {
+        "number": 117,
+        "dateStart": "2026-01-30T10:00:00+02:00",
+        "dateEnd": "2026-01-30T14:07:42+02:00"
+      },
+      "dateStart": "2026-01-30T11:19:57+02:00",
+      "dateEnd": "2026-01-30T11:27:31+02:00",
+      "speechIndex": 15,
+      "originID": "18117-15937",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 2: Lückenlose Aufklärung des Terroranschlags von Solingen – Verantwortung übernehmen statt Transparenz versprechen",
+        "title": "Lückenlose Aufklärung des Terroranschlags von Solingen – Verantwortung übernehmen statt Transparenz versprechen",
+        "id": "TOP-2",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Fabian Schrumpf",
+          "context": "main-speaker",
+          "firstname": "Fabian",
+          "lastname": "Schrumpf",
+          "originPersonID": "01770",
+          "faction": {
+            "label": "CDU",
+            "wid": "Q49762"
+          },
+          "wid": "Q30243119",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://www.landtag.nrw.de/videos/16904f0f-9e3d-4b7c-a9a2-ad09bd26ac69/playlist.m3u8#t=4797,5251",
+        "sourcePage": "https://www.landtag.nrw.de/home/mediathek/video.html?kid=16904f0f-9e3d-4b7c-a9a2-ad09bd26ac69&top-redner-id=15937",
+        "creator": "Landtag Nordrhein-Westfalen",
+        "license": "Landtag Nordrhein-Westfalen – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; Quellenangabe \"Landtag Nordrhein-Westfalen\". https://www.landtag.nrw.de/home/footer/impressum.html",
+        "originMediaID": "15937",
+        "additionalInformation": {
+          "startOffset": 4797.0,
+          "endOffset": 5251.0
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-video-page",
+        "kid": "16904f0f-9e3d-4b7c-a9a2-ad09bd26ac69",
+        "topRednerID": "15937",
+        "topNumber": "2",
+        "mdlId": "01770",
+        "funktionId": "",
+        "rednerRaw": "Fabian Schrumpf",
+        "fraktionRaw": "CDU",
+        "funktionRaw": "",
+        "startOffset": 4797,
+        "endOffset": 5251,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NW",
+      "electoralPeriod": {
+        "number": 18
+      },
+      "session": {
+        "number": 117,
+        "dateStart": "2026-01-30T10:00:00+02:00",
+        "dateEnd": "2026-01-30T14:07:42+02:00"
+      },
+      "dateStart": "2026-01-30T11:27:31+02:00",
+      "dateEnd": "2026-01-30T11:34:05+02:00",
+      "speechIndex": 16,
+      "originID": "18117-15938",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 2: Lückenlose Aufklärung des Terroranschlags von Solingen – Verantwortung übernehmen statt Transparenz versprechen",
+        "title": "Lückenlose Aufklärung des Terroranschlags von Solingen – Verantwortung übernehmen statt Transparenz versprechen",
+        "id": "TOP-2",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Lisa-Kristin Kapteinat",
+          "context": "main-speaker",
+          "firstname": "Lisa-Kristin",
+          "lastname": "Kapteinat",
+          "originPersonID": "01733",
+          "faction": {
+            "label": "SPD",
+            "wid": "Q49768"
+          },
+          "wid": "Q30181719",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://www.landtag.nrw.de/videos/16904f0f-9e3d-4b7c-a9a2-ad09bd26ac69/playlist.m3u8#t=5251,5645",
+        "sourcePage": "https://www.landtag.nrw.de/home/mediathek/video.html?kid=16904f0f-9e3d-4b7c-a9a2-ad09bd26ac69&top-redner-id=15938",
+        "creator": "Landtag Nordrhein-Westfalen",
+        "license": "Landtag Nordrhein-Westfalen – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; Quellenangabe \"Landtag Nordrhein-Westfalen\". https://www.landtag.nrw.de/home/footer/impressum.html",
+        "originMediaID": "15938",
+        "additionalInformation": {
+          "startOffset": 5251.0,
+          "endOffset": 5645.0
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-video-page",
+        "kid": "16904f0f-9e3d-4b7c-a9a2-ad09bd26ac69",
+        "topRednerID": "15938",
+        "topNumber": "2",
+        "mdlId": "01733",
+        "funktionId": "",
+        "rednerRaw": "Lisa-Kristin Kapteinat",
+        "fraktionRaw": "SPD",
+        "funktionRaw": "",
+        "startOffset": 5251,
+        "endOffset": 5645,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NW",
+      "electoralPeriod": {
+        "number": 18
+      },
+      "session": {
+        "number": 117,
+        "dateStart": "2026-01-30T10:00:00+02:00",
+        "dateEnd": "2026-01-30T14:07:42+02:00"
+      },
+      "dateStart": "2026-01-30T11:34:05+02:00",
+      "dateEnd": "2026-01-30T11:39:24+02:00",
+      "speechIndex": 17,
+      "originID": "18117-15939",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 2: Lückenlose Aufklärung des Terroranschlags von Solingen – Verantwortung übernehmen statt Transparenz versprechen",
+        "title": "Lückenlose Aufklärung des Terroranschlags von Solingen – Verantwortung übernehmen statt Transparenz versprechen",
+        "id": "TOP-2",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Laura Postma",
+          "context": "main-speaker",
+          "firstname": "Laura",
+          "lastname": "Postma",
+          "originPersonID": "01849",
+          "faction": {
+            "label": "Bündnis 90/Die Grünen",
+            "wid": "Q49766"
+          },
+          "wid": "Q112073114",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://www.landtag.nrw.de/videos/16904f0f-9e3d-4b7c-a9a2-ad09bd26ac69/playlist.m3u8#t=5645,5964",
+        "sourcePage": "https://www.landtag.nrw.de/home/mediathek/video.html?kid=16904f0f-9e3d-4b7c-a9a2-ad09bd26ac69&top-redner-id=15939",
+        "creator": "Landtag Nordrhein-Westfalen",
+        "license": "Landtag Nordrhein-Westfalen – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; Quellenangabe \"Landtag Nordrhein-Westfalen\". https://www.landtag.nrw.de/home/footer/impressum.html",
+        "originMediaID": "15939",
+        "additionalInformation": {
+          "startOffset": 5645.0,
+          "endOffset": 5964.0
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-video-page",
+        "kid": "16904f0f-9e3d-4b7c-a9a2-ad09bd26ac69",
+        "topRednerID": "15939",
+        "topNumber": "2",
+        "mdlId": "01849",
+        "funktionId": "",
+        "rednerRaw": "Laura Postma",
+        "fraktionRaw": "Bündnis 90/Die Grünen",
+        "funktionRaw": "",
+        "startOffset": 5645,
+        "endOffset": 5964,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NW",
+      "electoralPeriod": {
+        "number": 18
+      },
+      "session": {
+        "number": 117,
+        "dateStart": "2026-01-30T10:00:00+02:00",
+        "dateEnd": "2026-01-30T14:07:42+02:00"
+      },
+      "dateStart": "2026-01-30T11:39:24+02:00",
+      "dateEnd": "2026-01-30T11:47:30+02:00",
+      "speechIndex": 18,
+      "originID": "18117-15940",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 2: Lückenlose Aufklärung des Terroranschlags von Solingen – Verantwortung übernehmen statt Transparenz versprechen",
+        "title": "Lückenlose Aufklärung des Terroranschlags von Solingen – Verantwortung übernehmen statt Transparenz versprechen",
+        "id": "TOP-2",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Enxhi Seli-Zacharias",
+          "context": "main-speaker",
+          "firstname": "Enxhi",
+          "lastname": "Seli-Zacharias",
+          "originPersonID": "01856",
+          "faction": {
+            "label": "AfD",
+            "wid": "Q6721203"
+          },
+          "wid": "Q112169767",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://www.landtag.nrw.de/videos/16904f0f-9e3d-4b7c-a9a2-ad09bd26ac69/playlist.m3u8#t=5964,6450",
+        "sourcePage": "https://www.landtag.nrw.de/home/mediathek/video.html?kid=16904f0f-9e3d-4b7c-a9a2-ad09bd26ac69&top-redner-id=15940",
+        "creator": "Landtag Nordrhein-Westfalen",
+        "license": "Landtag Nordrhein-Westfalen – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; Quellenangabe \"Landtag Nordrhein-Westfalen\". https://www.landtag.nrw.de/home/footer/impressum.html",
+        "originMediaID": "15940",
+        "additionalInformation": {
+          "startOffset": 5964.0,
+          "endOffset": 6450.0
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-video-page",
+        "kid": "16904f0f-9e3d-4b7c-a9a2-ad09bd26ac69",
+        "topRednerID": "15940",
+        "topNumber": "2",
+        "mdlId": "01856",
+        "funktionId": "",
+        "rednerRaw": "Enxhi Seli-Zacharias",
+        "fraktionRaw": "AfD",
+        "funktionRaw": "",
+        "startOffset": 5964,
+        "endOffset": 6450,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NW",
+      "electoralPeriod": {
+        "number": 18
+      },
+      "session": {
+        "number": 117,
+        "dateStart": "2026-01-30T10:00:00+02:00",
+        "dateEnd": "2026-01-30T14:07:42+02:00"
+      },
+      "dateStart": "2026-01-30T11:47:30+02:00",
+      "dateEnd": "2026-01-30T11:54:09+02:00",
+      "speechIndex": 19,
+      "originID": "18117-15941",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 2: Lückenlose Aufklärung des Terroranschlags von Solingen – Verantwortung übernehmen statt Transparenz versprechen",
+        "title": "Lückenlose Aufklärung des Terroranschlags von Solingen – Verantwortung übernehmen statt Transparenz versprechen",
+        "id": "TOP-2",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Verena Schäffer",
+          "context": "main-speaker",
+          "firstname": "Verena",
+          "lastname": "Schäffer",
+          "role": "Ministerin",
+          "originPersonID": "01589",
+          "faction": {
+            "label": "Bündnis 90/Die Grünen",
+            "wid": "Q49766"
+          },
+          "wid": "Q1575138",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://www.landtag.nrw.de/videos/16904f0f-9e3d-4b7c-a9a2-ad09bd26ac69/playlist.m3u8#t=6450,6849",
+        "sourcePage": "https://www.landtag.nrw.de/home/mediathek/video.html?kid=16904f0f-9e3d-4b7c-a9a2-ad09bd26ac69&top-redner-id=15941",
+        "creator": "Landtag Nordrhein-Westfalen",
+        "license": "Landtag Nordrhein-Westfalen – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; Quellenangabe \"Landtag Nordrhein-Westfalen\". https://www.landtag.nrw.de/home/footer/impressum.html",
+        "originMediaID": "15941",
+        "additionalInformation": {
+          "startOffset": 6450.0,
+          "endOffset": 6849.0
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-video-page",
+        "kid": "16904f0f-9e3d-4b7c-a9a2-ad09bd26ac69",
+        "topRednerID": "15941",
+        "topNumber": "2",
+        "mdlId": "01589",
+        "funktionId": "",
+        "rednerRaw": "Verena Schäffer",
+        "fraktionRaw": "Bündnis 90/Die Grünen",
+        "funktionRaw": "Ministerin",
+        "startOffset": 6450,
+        "endOffset": 6849,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NW",
+      "electoralPeriod": {
+        "number": 18
+      },
+      "session": {
+        "number": 117,
+        "dateStart": "2026-01-30T10:00:00+02:00",
+        "dateEnd": "2026-01-30T14:07:42+02:00"
+      },
+      "dateStart": "2026-01-30T11:54:09+02:00",
+      "dateEnd": "2026-01-30T12:00:08+02:00",
+      "speechIndex": 20,
+      "originID": "18117-15942",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 2: Lückenlose Aufklärung des Terroranschlags von Solingen – Verantwortung übernehmen statt Transparenz versprechen",
+        "title": "Lückenlose Aufklärung des Terroranschlags von Solingen – Verantwortung übernehmen statt Transparenz versprechen",
+        "id": "TOP-2",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Henning Höne",
+          "context": "main-speaker",
+          "firstname": "Henning",
+          "lastname": "Höne",
+          "originPersonID": "01637",
+          "faction": {
+            "label": "FDP",
+            "wid": "Q13124"
+          },
+          "wid": "Q1578958",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://www.landtag.nrw.de/videos/16904f0f-9e3d-4b7c-a9a2-ad09bd26ac69/playlist.m3u8#t=6849,7208",
+        "sourcePage": "https://www.landtag.nrw.de/home/mediathek/video.html?kid=16904f0f-9e3d-4b7c-a9a2-ad09bd26ac69&top-redner-id=15942",
+        "creator": "Landtag Nordrhein-Westfalen",
+        "license": "Landtag Nordrhein-Westfalen – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; Quellenangabe \"Landtag Nordrhein-Westfalen\". https://www.landtag.nrw.de/home/footer/impressum.html",
+        "originMediaID": "15942",
+        "additionalInformation": {
+          "startOffset": 6849.0,
+          "endOffset": 7208.0
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-video-page",
+        "kid": "16904f0f-9e3d-4b7c-a9a2-ad09bd26ac69",
+        "topRednerID": "15942",
+        "topNumber": "2",
+        "mdlId": "01637",
+        "funktionId": "",
+        "rednerRaw": "Henning Höne",
+        "fraktionRaw": "FDP",
+        "funktionRaw": "",
+        "startOffset": 6849,
+        "endOffset": 7208,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NW",
+      "electoralPeriod": {
+        "number": 18
+      },
+      "session": {
+        "number": 117,
+        "dateStart": "2026-01-30T10:00:00+02:00",
+        "dateEnd": "2026-01-30T14:07:42+02:00"
+      },
+      "dateStart": "2026-01-30T12:00:08+02:00",
+      "dateEnd": "2026-01-30T12:06:20+02:00",
+      "speechIndex": 21,
+      "originID": "18117-15943",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 2: Lückenlose Aufklärung des Terroranschlags von Solingen – Verantwortung übernehmen statt Transparenz versprechen",
+        "title": "Lückenlose Aufklärung des Terroranschlags von Solingen – Verantwortung übernehmen statt Transparenz versprechen",
+        "id": "TOP-2",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Enxhi Seli-Zacharias",
+          "context": "main-speaker",
+          "firstname": "Enxhi",
+          "lastname": "Seli-Zacharias",
+          "originPersonID": "01856",
+          "faction": {
+            "label": "AfD",
+            "wid": "Q6721203"
+          },
+          "wid": "Q112169767",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://www.landtag.nrw.de/videos/16904f0f-9e3d-4b7c-a9a2-ad09bd26ac69/playlist.m3u8#t=7208,7580",
+        "sourcePage": "https://www.landtag.nrw.de/home/mediathek/video.html?kid=16904f0f-9e3d-4b7c-a9a2-ad09bd26ac69&top-redner-id=15943",
+        "creator": "Landtag Nordrhein-Westfalen",
+        "license": "Landtag Nordrhein-Westfalen – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; Quellenangabe \"Landtag Nordrhein-Westfalen\". https://www.landtag.nrw.de/home/footer/impressum.html",
+        "originMediaID": "15943",
+        "additionalInformation": {
+          "startOffset": 7208.0,
+          "endOffset": 7580.0
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-video-page",
+        "kid": "16904f0f-9e3d-4b7c-a9a2-ad09bd26ac69",
+        "topRednerID": "15943",
+        "topNumber": "2",
+        "mdlId": "01856",
+        "funktionId": "",
+        "rednerRaw": "Enxhi Seli-Zacharias",
+        "fraktionRaw": "AfD",
+        "funktionRaw": "",
+        "startOffset": 7208,
+        "endOffset": 7580,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NW",
+      "electoralPeriod": {
+        "number": 18
+      },
+      "session": {
+        "number": 117,
+        "dateStart": "2026-01-30T10:00:00+02:00",
+        "dateEnd": "2026-01-30T14:07:42+02:00"
+      },
+      "dateStart": "2026-01-30T12:06:20+02:00",
+      "dateEnd": "2026-01-30T12:07:39+02:00",
+      "speechIndex": 22,
+      "originID": "18117-15944",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 2: Lückenlose Aufklärung des Terroranschlags von Solingen – Verantwortung übernehmen statt Transparenz versprechen",
+        "title": "Lückenlose Aufklärung des Terroranschlags von Solingen – Verantwortung übernehmen statt Transparenz versprechen",
+        "id": "TOP-2",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Thorsten Klute",
+          "context": "main-speaker",
+          "firstname": "Thorsten",
+          "lastname": "Klute",
+          "originPersonID": "01836",
+          "faction": {
+            "label": "SPD",
+            "wid": "Q49768"
+          }
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://www.landtag.nrw.de/videos/16904f0f-9e3d-4b7c-a9a2-ad09bd26ac69/playlist.m3u8#t=7580,7659",
+        "sourcePage": "https://www.landtag.nrw.de/home/mediathek/video.html?kid=16904f0f-9e3d-4b7c-a9a2-ad09bd26ac69&top-redner-id=15944",
+        "creator": "Landtag Nordrhein-Westfalen",
+        "license": "Landtag Nordrhein-Westfalen – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; Quellenangabe \"Landtag Nordrhein-Westfalen\". https://www.landtag.nrw.de/home/footer/impressum.html",
+        "originMediaID": "15944",
+        "additionalInformation": {
+          "startOffset": 7580.0,
+          "endOffset": 7659.0
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-video-page",
+        "kid": "16904f0f-9e3d-4b7c-a9a2-ad09bd26ac69",
+        "topRednerID": "15944",
+        "topNumber": "2",
+        "mdlId": "01836",
+        "funktionId": "",
+        "rednerRaw": "Thorsten Klute",
+        "fraktionRaw": "SPD",
+        "funktionRaw": "",
+        "startOffset": 7580,
+        "endOffset": 7659,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NW",
+      "electoralPeriod": {
+        "number": 18
+      },
+      "session": {
+        "number": 117,
+        "dateStart": "2026-01-30T10:00:00+02:00",
+        "dateEnd": "2026-01-30T14:07:42+02:00"
+      },
+      "dateStart": "2026-01-30T12:07:39+02:00",
+      "dateEnd": "2026-01-30T12:09:57+02:00",
+      "speechIndex": 23,
+      "originID": "18117-15945",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 2: Lückenlose Aufklärung des Terroranschlags von Solingen – Verantwortung übernehmen statt Transparenz versprechen",
+        "title": "Lückenlose Aufklärung des Terroranschlags von Solingen – Verantwortung übernehmen statt Transparenz versprechen",
+        "id": "TOP-2",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Mehrdad Mostofizadeh",
+          "context": "main-speaker",
+          "firstname": "Mehrdad",
+          "lastname": "Mostofizadeh",
+          "originPersonID": "01579",
+          "faction": {
+            "label": "Bündnis 90/Die Grünen",
+            "wid": "Q49766"
+          },
+          "wid": "Q1917412",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://www.landtag.nrw.de/videos/16904f0f-9e3d-4b7c-a9a2-ad09bd26ac69/playlist.m3u8#t=7659,7797",
+        "sourcePage": "https://www.landtag.nrw.de/home/mediathek/video.html?kid=16904f0f-9e3d-4b7c-a9a2-ad09bd26ac69&top-redner-id=15945",
+        "creator": "Landtag Nordrhein-Westfalen",
+        "license": "Landtag Nordrhein-Westfalen – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; Quellenangabe \"Landtag Nordrhein-Westfalen\". https://www.landtag.nrw.de/home/footer/impressum.html",
+        "originMediaID": "15945",
+        "additionalInformation": {
+          "startOffset": 7659.0,
+          "endOffset": 7797.0
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-video-page",
+        "kid": "16904f0f-9e3d-4b7c-a9a2-ad09bd26ac69",
+        "topRednerID": "15945",
+        "topNumber": "2",
+        "mdlId": "01579",
+        "funktionId": "",
+        "rednerRaw": "Mehrdad Mostofizadeh",
+        "fraktionRaw": "Bündnis 90/Die Grünen",
+        "funktionRaw": "",
+        "startOffset": 7659,
+        "endOffset": 7797,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NW",
+      "electoralPeriod": {
+        "number": 18
+      },
+      "session": {
+        "number": 117,
+        "dateStart": "2026-01-30T10:00:00+02:00",
+        "dateEnd": "2026-01-30T14:07:42+02:00"
+      },
+      "dateStart": "2026-01-30T12:09:57+02:00",
+      "dateEnd": "2026-01-30T12:15:37+02:00",
+      "speechIndex": 24,
+      "originID": "18117-15947",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 3: Gesetz zur Änderung des Kinderbildungsgesetzes",
+        "title": "Gesetz zur Änderung des Kinderbildungsgesetzes",
+        "id": "TOP-3",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Verena Schäffer",
+          "context": "main-speaker",
+          "firstname": "Verena",
+          "lastname": "Schäffer",
+          "role": "Ministerin",
+          "originPersonID": "01589",
+          "faction": {
+            "label": "Bündnis 90/Die Grünen",
+            "wid": "Q49766"
+          },
+          "wid": "Q1575138",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://www.landtag.nrw.de/videos/16904f0f-9e3d-4b7c-a9a2-ad09bd26ac69/playlist.m3u8#t=7797,8137",
+        "sourcePage": "https://www.landtag.nrw.de/home/mediathek/video.html?kid=16904f0f-9e3d-4b7c-a9a2-ad09bd26ac69&top-redner-id=15947",
+        "creator": "Landtag Nordrhein-Westfalen",
+        "license": "Landtag Nordrhein-Westfalen – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; Quellenangabe \"Landtag Nordrhein-Westfalen\". https://www.landtag.nrw.de/home/footer/impressum.html",
+        "originMediaID": "15947",
+        "additionalInformation": {
+          "startOffset": 7797.0,
+          "endOffset": 8137.0
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-video-page",
+        "kid": "16904f0f-9e3d-4b7c-a9a2-ad09bd26ac69",
+        "topRednerID": "15947",
+        "topNumber": "3",
+        "mdlId": "01589",
+        "funktionId": "",
+        "rednerRaw": "Verena Schäffer",
+        "fraktionRaw": "Bündnis 90/Die Grünen",
+        "funktionRaw": "Ministerin",
+        "startOffset": 7797,
+        "endOffset": 8137,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NW",
+      "electoralPeriod": {
+        "number": 18
+      },
+      "session": {
+        "number": 117,
+        "dateStart": "2026-01-30T10:00:00+02:00",
+        "dateEnd": "2026-01-30T14:07:42+02:00"
+      },
+      "dateStart": "2026-01-30T12:15:37+02:00",
+      "dateEnd": "2026-01-30T12:20:37+02:00",
+      "speechIndex": 25,
+      "originID": "18117-15948",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 3: Gesetz zur Änderung des Kinderbildungsgesetzes",
+        "title": "Gesetz zur Änderung des Kinderbildungsgesetzes",
+        "id": "TOP-3",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Christina Schulze Föcking",
+          "context": "main-speaker",
+          "firstname": "Christina Schulze",
+          "lastname": "Föcking",
+          "originPersonID": "01588",
+          "faction": {
+            "label": "CDU",
+            "wid": "Q49762"
+          },
+          "wid": "Q1083279",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://www.landtag.nrw.de/videos/16904f0f-9e3d-4b7c-a9a2-ad09bd26ac69/playlist.m3u8#t=8137,8437",
+        "sourcePage": "https://www.landtag.nrw.de/home/mediathek/video.html?kid=16904f0f-9e3d-4b7c-a9a2-ad09bd26ac69&top-redner-id=15948",
+        "creator": "Landtag Nordrhein-Westfalen",
+        "license": "Landtag Nordrhein-Westfalen – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; Quellenangabe \"Landtag Nordrhein-Westfalen\". https://www.landtag.nrw.de/home/footer/impressum.html",
+        "originMediaID": "15948",
+        "additionalInformation": {
+          "startOffset": 8137.0,
+          "endOffset": 8437.0
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-video-page",
+        "kid": "16904f0f-9e3d-4b7c-a9a2-ad09bd26ac69",
+        "topRednerID": "15948",
+        "topNumber": "3",
+        "mdlId": "01588",
+        "funktionId": "",
+        "rednerRaw": "Christina Schulze Föcking",
+        "fraktionRaw": "CDU",
+        "funktionRaw": "",
+        "startOffset": 8137,
+        "endOffset": 8437,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NW",
+      "electoralPeriod": {
+        "number": 18
+      },
+      "session": {
+        "number": 117,
+        "dateStart": "2026-01-30T10:00:00+02:00",
+        "dateEnd": "2026-01-30T14:07:42+02:00"
+      },
+      "dateStart": "2026-01-30T12:20:37+02:00",
+      "dateEnd": "2026-01-30T12:26:41+02:00",
+      "speechIndex": 26,
+      "originID": "18117-15949",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 3: Gesetz zur Änderung des Kinderbildungsgesetzes",
+        "title": "Gesetz zur Änderung des Kinderbildungsgesetzes",
+        "id": "TOP-3",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Dennis Maelzer",
+          "context": "main-speaker",
+          "firstname": "Dennis",
+          "lastname": "Maelzer",
+          "originPersonID": "01574",
+          "faction": {
+            "label": "SPD",
+            "wid": "Q49768"
+          },
+          "wid": "Q1189336",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://www.landtag.nrw.de/videos/16904f0f-9e3d-4b7c-a9a2-ad09bd26ac69/playlist.m3u8#t=8437,8801",
+        "sourcePage": "https://www.landtag.nrw.de/home/mediathek/video.html?kid=16904f0f-9e3d-4b7c-a9a2-ad09bd26ac69&top-redner-id=15949",
+        "creator": "Landtag Nordrhein-Westfalen",
+        "license": "Landtag Nordrhein-Westfalen – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; Quellenangabe \"Landtag Nordrhein-Westfalen\". https://www.landtag.nrw.de/home/footer/impressum.html",
+        "originMediaID": "15949",
+        "additionalInformation": {
+          "startOffset": 8437.0,
+          "endOffset": 8801.0
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-video-page",
+        "kid": "16904f0f-9e3d-4b7c-a9a2-ad09bd26ac69",
+        "topRednerID": "15949",
+        "topNumber": "3",
+        "mdlId": "01574",
+        "funktionId": "",
+        "rednerRaw": "Dr. Dennis Maelzer",
+        "fraktionRaw": "SPD",
+        "funktionRaw": "",
+        "startOffset": 8437,
+        "endOffset": 8801,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NW",
+      "electoralPeriod": {
+        "number": 18
+      },
+      "session": {
+        "number": 117,
+        "dateStart": "2026-01-30T10:00:00+02:00",
+        "dateEnd": "2026-01-30T14:07:42+02:00"
+      },
+      "dateStart": "2026-01-30T12:26:41+02:00",
+      "dateEnd": "2026-01-30T12:31:33+02:00",
+      "speechIndex": 27,
+      "originID": "18117-15950",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 3: Gesetz zur Änderung des Kinderbildungsgesetzes",
+        "title": "Gesetz zur Änderung des Kinderbildungsgesetzes",
+        "id": "TOP-3",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Eileen Woestmann",
+          "context": "main-speaker",
+          "firstname": "Eileen",
+          "lastname": "Woestmann",
+          "originPersonID": "01867",
+          "faction": {
+            "label": "Bündnis 90/Die Grünen",
+            "wid": "Q49766"
+          }
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://www.landtag.nrw.de/videos/16904f0f-9e3d-4b7c-a9a2-ad09bd26ac69/playlist.m3u8#t=8801,9093",
+        "sourcePage": "https://www.landtag.nrw.de/home/mediathek/video.html?kid=16904f0f-9e3d-4b7c-a9a2-ad09bd26ac69&top-redner-id=15950",
+        "creator": "Landtag Nordrhein-Westfalen",
+        "license": "Landtag Nordrhein-Westfalen – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; Quellenangabe \"Landtag Nordrhein-Westfalen\". https://www.landtag.nrw.de/home/footer/impressum.html",
+        "originMediaID": "15950",
+        "additionalInformation": {
+          "startOffset": 8801.0,
+          "endOffset": 9093.0
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-video-page",
+        "kid": "16904f0f-9e3d-4b7c-a9a2-ad09bd26ac69",
+        "topRednerID": "15950",
+        "topNumber": "3",
+        "mdlId": "01867",
+        "funktionId": "",
+        "rednerRaw": "Eileen Woestmann",
+        "fraktionRaw": "Bündnis 90/Die Grünen",
+        "funktionRaw": "",
+        "startOffset": 8801,
+        "endOffset": 9093,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NW",
+      "electoralPeriod": {
+        "number": 18
+      },
+      "session": {
+        "number": 117,
+        "dateStart": "2026-01-30T10:00:00+02:00",
+        "dateEnd": "2026-01-30T14:07:42+02:00"
+      },
+      "dateStart": "2026-01-30T12:31:33+02:00",
+      "dateEnd": "2026-01-30T12:36:54+02:00",
+      "speechIndex": 28,
+      "originID": "18117-15951",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 3: Gesetz zur Änderung des Kinderbildungsgesetzes",
+        "title": "Gesetz zur Änderung des Kinderbildungsgesetzes",
+        "id": "TOP-3",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Yvonne Gebauer",
+          "context": "main-speaker",
+          "firstname": "Yvonne",
+          "lastname": "Gebauer",
+          "originPersonID": "01628",
+          "faction": {
+            "label": "FDP",
+            "wid": "Q13124"
+          },
+          "wid": "Q2602376",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://www.landtag.nrw.de/videos/16904f0f-9e3d-4b7c-a9a2-ad09bd26ac69/playlist.m3u8#t=9093,9414",
+        "sourcePage": "https://www.landtag.nrw.de/home/mediathek/video.html?kid=16904f0f-9e3d-4b7c-a9a2-ad09bd26ac69&top-redner-id=15951",
+        "creator": "Landtag Nordrhein-Westfalen",
+        "license": "Landtag Nordrhein-Westfalen – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; Quellenangabe \"Landtag Nordrhein-Westfalen\". https://www.landtag.nrw.de/home/footer/impressum.html",
+        "originMediaID": "15951",
+        "additionalInformation": {
+          "startOffset": 9093.0,
+          "endOffset": 9414.0
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-video-page",
+        "kid": "16904f0f-9e3d-4b7c-a9a2-ad09bd26ac69",
+        "topRednerID": "15951",
+        "topNumber": "3",
+        "mdlId": "01628",
+        "funktionId": "",
+        "rednerRaw": "Yvonne Gebauer",
+        "fraktionRaw": "FDP",
+        "funktionRaw": "",
+        "startOffset": 9093,
+        "endOffset": 9414,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NW",
+      "electoralPeriod": {
+        "number": 18
+      },
+      "session": {
+        "number": 117,
+        "dateStart": "2026-01-30T10:00:00+02:00",
+        "dateEnd": "2026-01-30T14:07:42+02:00"
+      },
+      "dateStart": "2026-01-30T12:36:54+02:00",
+      "dateEnd": "2026-01-30T12:42:40+02:00",
+      "speechIndex": 29,
+      "originID": "18117-15952",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 3: Gesetz zur Änderung des Kinderbildungsgesetzes",
+        "title": "Gesetz zur Änderung des Kinderbildungsgesetzes",
+        "id": "TOP-3",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Carlo Clemens",
+          "context": "main-speaker",
+          "firstname": "Carlo",
+          "lastname": "Clemens",
+          "originPersonID": "01811",
+          "faction": {
+            "label": "AfD",
+            "wid": "Q6721203"
+          },
+          "wid": "Q107622886",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://www.landtag.nrw.de/videos/16904f0f-9e3d-4b7c-a9a2-ad09bd26ac69/playlist.m3u8#t=9414,9760",
+        "sourcePage": "https://www.landtag.nrw.de/home/mediathek/video.html?kid=16904f0f-9e3d-4b7c-a9a2-ad09bd26ac69&top-redner-id=15952",
+        "creator": "Landtag Nordrhein-Westfalen",
+        "license": "Landtag Nordrhein-Westfalen – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; Quellenangabe \"Landtag Nordrhein-Westfalen\". https://www.landtag.nrw.de/home/footer/impressum.html",
+        "originMediaID": "15952",
+        "additionalInformation": {
+          "startOffset": 9414.0,
+          "endOffset": 9760.0
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-video-page",
+        "kid": "16904f0f-9e3d-4b7c-a9a2-ad09bd26ac69",
+        "topRednerID": "15952",
+        "topNumber": "3",
+        "mdlId": "01811",
+        "funktionId": "",
+        "rednerRaw": "Carlo Clemens",
+        "fraktionRaw": "AfD",
+        "funktionRaw": "",
+        "startOffset": 9414,
+        "endOffset": 9760,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NW",
+      "electoralPeriod": {
+        "number": 18
+      },
+      "session": {
+        "number": 117,
+        "dateStart": "2026-01-30T10:00:00+02:00",
+        "dateEnd": "2026-01-30T14:07:42+02:00"
+      },
+      "dateStart": "2026-01-30T12:42:40+02:00",
+      "dateEnd": "2026-01-30T12:47:26+02:00",
+      "speechIndex": 30,
+      "originID": "18117-15954",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 4: Die Zukunft der Bildung sichern: Eine moderne Neuausrichtung des Lehramtsstudiums in NRW",
+        "title": "Die Zukunft der Bildung sichern: Eine moderne Neuausrichtung des Lehramtsstudiums in NRW",
+        "id": "TOP-4",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Dilek Engin",
+          "context": "main-speaker",
+          "firstname": "Dilek",
+          "lastname": "Engin",
+          "originPersonID": "01818",
+          "faction": {
+            "label": "SPD",
+            "wid": "Q49768"
+          }
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://www.landtag.nrw.de/videos/16904f0f-9e3d-4b7c-a9a2-ad09bd26ac69/playlist.m3u8#t=9760,10046",
+        "sourcePage": "https://www.landtag.nrw.de/home/mediathek/video.html?kid=16904f0f-9e3d-4b7c-a9a2-ad09bd26ac69&top-redner-id=15954",
+        "creator": "Landtag Nordrhein-Westfalen",
+        "license": "Landtag Nordrhein-Westfalen – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; Quellenangabe \"Landtag Nordrhein-Westfalen\". https://www.landtag.nrw.de/home/footer/impressum.html",
+        "originMediaID": "15954",
+        "additionalInformation": {
+          "startOffset": 9760.0,
+          "endOffset": 10046.0
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-video-page",
+        "kid": "16904f0f-9e3d-4b7c-a9a2-ad09bd26ac69",
+        "topRednerID": "15954",
+        "topNumber": "4",
+        "mdlId": "01818",
+        "funktionId": "",
+        "rednerRaw": "Dilek Engin",
+        "fraktionRaw": "SPD",
+        "funktionRaw": "",
+        "startOffset": 9760,
+        "endOffset": 10046,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NW",
+      "electoralPeriod": {
+        "number": 18
+      },
+      "session": {
+        "number": 117,
+        "dateStart": "2026-01-30T10:00:00+02:00",
+        "dateEnd": "2026-01-30T14:07:42+02:00"
+      },
+      "dateStart": "2026-01-30T12:47:26+02:00",
+      "dateEnd": "2026-01-30T12:51:59+02:00",
+      "speechIndex": 31,
+      "originID": "18117-15955",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 4: Die Zukunft der Bildung sichern: Eine moderne Neuausrichtung des Lehramtsstudiums in NRW",
+        "title": "Die Zukunft der Bildung sichern: Eine moderne Neuausrichtung des Lehramtsstudiums in NRW",
+        "id": "TOP-4",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Bianca Winkelmann",
+          "context": "main-speaker",
+          "firstname": "Bianca",
+          "lastname": "Winkelmann",
+          "originPersonID": "01789",
+          "faction": {
+            "label": "CDU",
+            "wid": "Q49762"
+          },
+          "wid": "Q29954512",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://www.landtag.nrw.de/videos/16904f0f-9e3d-4b7c-a9a2-ad09bd26ac69/playlist.m3u8#t=10046,10319",
+        "sourcePage": "https://www.landtag.nrw.de/home/mediathek/video.html?kid=16904f0f-9e3d-4b7c-a9a2-ad09bd26ac69&top-redner-id=15955",
+        "creator": "Landtag Nordrhein-Westfalen",
+        "license": "Landtag Nordrhein-Westfalen – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; Quellenangabe \"Landtag Nordrhein-Westfalen\". https://www.landtag.nrw.de/home/footer/impressum.html",
+        "originMediaID": "15955",
+        "additionalInformation": {
+          "startOffset": 10046.0,
+          "endOffset": 10319.0
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-video-page",
+        "kid": "16904f0f-9e3d-4b7c-a9a2-ad09bd26ac69",
+        "topRednerID": "15955",
+        "topNumber": "4",
+        "mdlId": "01789",
+        "funktionId": "",
+        "rednerRaw": "Bianca Winkelmann",
+        "fraktionRaw": "CDU",
+        "funktionRaw": "",
+        "startOffset": 10046,
+        "endOffset": 10319,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NW",
+      "electoralPeriod": {
+        "number": 18
+      },
+      "session": {
+        "number": 117,
+        "dateStart": "2026-01-30T10:00:00+02:00",
+        "dateEnd": "2026-01-30T14:07:42+02:00"
+      },
+      "dateStart": "2026-01-30T12:51:59+02:00",
+      "dateEnd": "2026-01-30T12:56:21+02:00",
+      "speechIndex": 32,
+      "originID": "18117-15956",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 4: Die Zukunft der Bildung sichern: Eine moderne Neuausrichtung des Lehramtsstudiums in NRW",
+        "title": "Die Zukunft der Bildung sichern: Eine moderne Neuausrichtung des Lehramtsstudiums in NRW",
+        "id": "TOP-4",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Gönül Eglence",
+          "context": "main-speaker",
+          "firstname": "Gönül",
+          "lastname": "Eglence",
+          "originPersonID": "01816",
+          "faction": {
+            "label": "Bündnis 90/Die Grünen",
+            "wid": "Q49766"
+          },
+          "wid": "Q112112781",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://www.landtag.nrw.de/videos/16904f0f-9e3d-4b7c-a9a2-ad09bd26ac69/playlist.m3u8#t=10319,10581",
+        "sourcePage": "https://www.landtag.nrw.de/home/mediathek/video.html?kid=16904f0f-9e3d-4b7c-a9a2-ad09bd26ac69&top-redner-id=15956",
+        "creator": "Landtag Nordrhein-Westfalen",
+        "license": "Landtag Nordrhein-Westfalen – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; Quellenangabe \"Landtag Nordrhein-Westfalen\". https://www.landtag.nrw.de/home/footer/impressum.html",
+        "originMediaID": "15956",
+        "additionalInformation": {
+          "startOffset": 10319.0,
+          "endOffset": 10581.0
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-video-page",
+        "kid": "16904f0f-9e3d-4b7c-a9a2-ad09bd26ac69",
+        "topRednerID": "15956",
+        "topNumber": "4",
+        "mdlId": "01816",
+        "funktionId": "",
+        "rednerRaw": "Gönül Eglence",
+        "fraktionRaw": "Bündnis 90/Die Grünen",
+        "funktionRaw": "",
+        "startOffset": 10319,
+        "endOffset": 10581,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NW",
+      "electoralPeriod": {
+        "number": 18
+      },
+      "session": {
+        "number": 117,
+        "dateStart": "2026-01-30T10:00:00+02:00",
+        "dateEnd": "2026-01-30T14:07:42+02:00"
+      },
+      "dateStart": "2026-01-30T12:56:21+02:00",
+      "dateEnd": "2026-01-30T13:01:25+02:00",
+      "speechIndex": 33,
+      "originID": "18117-15957",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 4: Die Zukunft der Bildung sichern: Eine moderne Neuausrichtung des Lehramtsstudiums in NRW",
+        "title": "Die Zukunft der Bildung sichern: Eine moderne Neuausrichtung des Lehramtsstudiums in NRW",
+        "id": "TOP-4",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Franziska Müller-Rech",
+          "context": "main-speaker",
+          "firstname": "Franziska",
+          "lastname": "Müller-Rech",
+          "originPersonID": "01748",
+          "faction": {
+            "label": "FDP",
+            "wid": "Q13124"
+          },
+          "wid": "Q30069482",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://www.landtag.nrw.de/videos/16904f0f-9e3d-4b7c-a9a2-ad09bd26ac69/playlist.m3u8#t=10581,10885",
+        "sourcePage": "https://www.landtag.nrw.de/home/mediathek/video.html?kid=16904f0f-9e3d-4b7c-a9a2-ad09bd26ac69&top-redner-id=15957",
+        "creator": "Landtag Nordrhein-Westfalen",
+        "license": "Landtag Nordrhein-Westfalen – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; Quellenangabe \"Landtag Nordrhein-Westfalen\". https://www.landtag.nrw.de/home/footer/impressum.html",
+        "originMediaID": "15957",
+        "additionalInformation": {
+          "startOffset": 10581.0,
+          "endOffset": 10885.0
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-video-page",
+        "kid": "16904f0f-9e3d-4b7c-a9a2-ad09bd26ac69",
+        "topRednerID": "15957",
+        "topNumber": "4",
+        "mdlId": "01748",
+        "funktionId": "",
+        "rednerRaw": "Franziska Müller-Rech",
+        "fraktionRaw": "FDP",
+        "funktionRaw": "",
+        "startOffset": 10581,
+        "endOffset": 10885,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NW",
+      "electoralPeriod": {
+        "number": 18
+      },
+      "session": {
+        "number": 117,
+        "dateStart": "2026-01-30T10:00:00+02:00",
+        "dateEnd": "2026-01-30T14:07:42+02:00"
+      },
+      "dateStart": "2026-01-30T13:01:25+02:00",
+      "dateEnd": "2026-01-30T13:05:28+02:00",
+      "speechIndex": 34,
+      "originID": "18117-15958",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 4: Die Zukunft der Bildung sichern: Eine moderne Neuausrichtung des Lehramtsstudiums in NRW",
+        "title": "Die Zukunft der Bildung sichern: Eine moderne Neuausrichtung des Lehramtsstudiums in NRW",
+        "id": "TOP-4",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Hartmut Beucker",
+          "context": "main-speaker",
+          "firstname": "Hartmut",
+          "lastname": "Beucker",
+          "originPersonID": "01805",
+          "faction": {
+            "label": "AfD",
+            "wid": "Q6721203"
+          },
+          "wid": "Q113495557",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://www.landtag.nrw.de/videos/16904f0f-9e3d-4b7c-a9a2-ad09bd26ac69/playlist.m3u8#t=10885,11128",
+        "sourcePage": "https://www.landtag.nrw.de/home/mediathek/video.html?kid=16904f0f-9e3d-4b7c-a9a2-ad09bd26ac69&top-redner-id=15958",
+        "creator": "Landtag Nordrhein-Westfalen",
+        "license": "Landtag Nordrhein-Westfalen – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; Quellenangabe \"Landtag Nordrhein-Westfalen\". https://www.landtag.nrw.de/home/footer/impressum.html",
+        "originMediaID": "15958",
+        "additionalInformation": {
+          "startOffset": 10885.0,
+          "endOffset": 11128.0
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-video-page",
+        "kid": "16904f0f-9e3d-4b7c-a9a2-ad09bd26ac69",
+        "topRednerID": "15958",
+        "topNumber": "4",
+        "mdlId": "01805",
+        "funktionId": "",
+        "rednerRaw": "Dr. Hartmut Beucker",
+        "fraktionRaw": "AfD",
+        "funktionRaw": "",
+        "startOffset": 10885,
+        "endOffset": 11128,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NW",
+      "electoralPeriod": {
+        "number": 18
+      },
+      "session": {
+        "number": 117,
+        "dateStart": "2026-01-30T10:00:00+02:00",
+        "dateEnd": "2026-01-30T14:07:42+02:00"
+      },
+      "dateStart": "2026-01-30T13:05:28+02:00",
+      "dateEnd": "2026-01-30T13:12:44+02:00",
+      "speechIndex": 35,
+      "originID": "18117-15959",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 4: Die Zukunft der Bildung sichern: Eine moderne Neuausrichtung des Lehramtsstudiums in NRW",
+        "title": "Die Zukunft der Bildung sichern: Eine moderne Neuausrichtung des Lehramtsstudiums in NRW",
+        "id": "TOP-4",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Dorothee Feller",
+          "context": "main-speaker",
+          "firstname": "Dorothee",
+          "lastname": "Feller",
+          "role": "Ministerin",
+          "originPersonID": "18MSC1",
+          "faction": {
+            "label": "CDU",
+            "wid": "Q49762"
+          }
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://www.landtag.nrw.de/videos/16904f0f-9e3d-4b7c-a9a2-ad09bd26ac69/playlist.m3u8#t=11128,11564",
+        "sourcePage": "https://www.landtag.nrw.de/home/mediathek/video.html?kid=16904f0f-9e3d-4b7c-a9a2-ad09bd26ac69&top-redner-id=15959",
+        "creator": "Landtag Nordrhein-Westfalen",
+        "license": "Landtag Nordrhein-Westfalen – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; Quellenangabe \"Landtag Nordrhein-Westfalen\". https://www.landtag.nrw.de/home/footer/impressum.html",
+        "originMediaID": "15959",
+        "additionalInformation": {
+          "startOffset": 11128.0,
+          "endOffset": 11564.0
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-video-page",
+        "kid": "16904f0f-9e3d-4b7c-a9a2-ad09bd26ac69",
+        "topRednerID": "15959",
+        "topNumber": "4",
+        "mdlId": "",
+        "funktionId": "18MSC1",
+        "rednerRaw": "Dorothee Feller",
+        "fraktionRaw": "CDU",
+        "funktionRaw": "Ministerin",
+        "startOffset": 11128,
+        "endOffset": 11564,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NW",
+      "electoralPeriod": {
+        "number": 18
+      },
+      "session": {
+        "number": 117,
+        "dateStart": "2026-01-30T10:00:00+02:00",
+        "dateEnd": "2026-01-30T14:07:42+02:00"
+      },
+      "dateStart": "2026-01-30T13:12:44+02:00",
+      "dateEnd": "2026-01-30T13:15:37+02:00",
+      "speechIndex": 36,
+      "originID": "18117-15960",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 4: Die Zukunft der Bildung sichern: Eine moderne Neuausrichtung des Lehramtsstudiums in NRW",
+        "title": "Die Zukunft der Bildung sichern: Eine moderne Neuausrichtung des Lehramtsstudiums in NRW",
+        "id": "TOP-4",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Dilek Engin",
+          "context": "main-speaker",
+          "firstname": "Dilek",
+          "lastname": "Engin",
+          "originPersonID": "01818",
+          "faction": {
+            "label": "SPD",
+            "wid": "Q49768"
+          }
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://www.landtag.nrw.de/videos/16904f0f-9e3d-4b7c-a9a2-ad09bd26ac69/playlist.m3u8#t=11564,11737",
+        "sourcePage": "https://www.landtag.nrw.de/home/mediathek/video.html?kid=16904f0f-9e3d-4b7c-a9a2-ad09bd26ac69&top-redner-id=15960",
+        "creator": "Landtag Nordrhein-Westfalen",
+        "license": "Landtag Nordrhein-Westfalen – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; Quellenangabe \"Landtag Nordrhein-Westfalen\". https://www.landtag.nrw.de/home/footer/impressum.html",
+        "originMediaID": "15960",
+        "additionalInformation": {
+          "startOffset": 11564.0,
+          "endOffset": 11737.0
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-video-page",
+        "kid": "16904f0f-9e3d-4b7c-a9a2-ad09bd26ac69",
+        "topRednerID": "15960",
+        "topNumber": "4",
+        "mdlId": "01818",
+        "funktionId": "",
+        "rednerRaw": "Dilek Engin",
+        "fraktionRaw": "SPD",
+        "funktionRaw": "",
+        "startOffset": 11564,
+        "endOffset": 11737,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NW",
+      "electoralPeriod": {
+        "number": 18
+      },
+      "session": {
+        "number": 117,
+        "dateStart": "2026-01-30T10:00:00+02:00",
+        "dateEnd": "2026-01-30T14:07:42+02:00"
+      },
+      "dateStart": "2026-01-30T13:15:37+02:00",
+      "dateEnd": "2026-01-30T13:20:47+02:00",
+      "speechIndex": 37,
+      "originID": "18117-15962",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 5: Bildungschancen in Nordrhein-Westfalen",
+        "title": "Bildungschancen in Nordrhein-Westfalen",
+        "id": "TOP-5",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Franziska Müller-Rech",
+          "context": "main-speaker",
+          "firstname": "Franziska",
+          "lastname": "Müller-Rech",
+          "originPersonID": "01748",
+          "faction": {
+            "label": "FDP",
+            "wid": "Q13124"
+          },
+          "wid": "Q30069482",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://www.landtag.nrw.de/videos/16904f0f-9e3d-4b7c-a9a2-ad09bd26ac69/playlist.m3u8#t=11737,12047",
+        "sourcePage": "https://www.landtag.nrw.de/home/mediathek/video.html?kid=16904f0f-9e3d-4b7c-a9a2-ad09bd26ac69&top-redner-id=15962",
+        "creator": "Landtag Nordrhein-Westfalen",
+        "license": "Landtag Nordrhein-Westfalen – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; Quellenangabe \"Landtag Nordrhein-Westfalen\". https://www.landtag.nrw.de/home/footer/impressum.html",
+        "originMediaID": "15962",
+        "additionalInformation": {
+          "startOffset": 11737.0,
+          "endOffset": 12047.0
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-video-page",
+        "kid": "16904f0f-9e3d-4b7c-a9a2-ad09bd26ac69",
+        "topRednerID": "15962",
+        "topNumber": "5",
+        "mdlId": "01748",
+        "funktionId": "",
+        "rednerRaw": "Franziska Müller-Rech",
+        "fraktionRaw": "FDP",
+        "funktionRaw": "",
+        "startOffset": 11737,
+        "endOffset": 12047,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NW",
+      "electoralPeriod": {
+        "number": 18
+      },
+      "session": {
+        "number": 117,
+        "dateStart": "2026-01-30T10:00:00+02:00",
+        "dateEnd": "2026-01-30T14:07:42+02:00"
+      },
+      "dateStart": "2026-01-30T13:20:47+02:00",
+      "dateEnd": "2026-01-30T13:26:08+02:00",
+      "speechIndex": 38,
+      "originID": "18117-15963",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 5: Bildungschancen in Nordrhein-Westfalen",
+        "title": "Bildungschancen in Nordrhein-Westfalen",
+        "id": "TOP-5",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Katharina Gebauer",
+          "context": "main-speaker",
+          "firstname": "Katharina",
+          "lastname": "Gebauer",
+          "originPersonID": "01725",
+          "faction": {
+            "label": "CDU",
+            "wid": "Q49762"
+          },
+          "wid": "Q30275051",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://www.landtag.nrw.de/videos/16904f0f-9e3d-4b7c-a9a2-ad09bd26ac69/playlist.m3u8#t=12047,12368",
+        "sourcePage": "https://www.landtag.nrw.de/home/mediathek/video.html?kid=16904f0f-9e3d-4b7c-a9a2-ad09bd26ac69&top-redner-id=15963",
+        "creator": "Landtag Nordrhein-Westfalen",
+        "license": "Landtag Nordrhein-Westfalen – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; Quellenangabe \"Landtag Nordrhein-Westfalen\". https://www.landtag.nrw.de/home/footer/impressum.html",
+        "originMediaID": "15963",
+        "additionalInformation": {
+          "startOffset": 12047.0,
+          "endOffset": 12368.0
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-video-page",
+        "kid": "16904f0f-9e3d-4b7c-a9a2-ad09bd26ac69",
+        "topRednerID": "15963",
+        "topNumber": "5",
+        "mdlId": "01725",
+        "funktionId": "",
+        "rednerRaw": "Katharina Gebauer",
+        "fraktionRaw": "CDU",
+        "funktionRaw": "",
+        "startOffset": 12047,
+        "endOffset": 12368,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NW",
+      "electoralPeriod": {
+        "number": 18
+      },
+      "session": {
+        "number": 117,
+        "dateStart": "2026-01-30T10:00:00+02:00",
+        "dateEnd": "2026-01-30T14:07:42+02:00"
+      },
+      "dateStart": "2026-01-30T13:26:08+02:00",
+      "dateEnd": "2026-01-30T13:30:58+02:00",
+      "speechIndex": 39,
+      "originID": "18117-15964",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 5: Bildungschancen in Nordrhein-Westfalen",
+        "title": "Bildungschancen in Nordrhein-Westfalen",
+        "id": "TOP-5",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Dilek Engin",
+          "context": "main-speaker",
+          "firstname": "Dilek",
+          "lastname": "Engin",
+          "originPersonID": "01818",
+          "faction": {
+            "label": "SPD",
+            "wid": "Q49768"
+          }
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://www.landtag.nrw.de/videos/16904f0f-9e3d-4b7c-a9a2-ad09bd26ac69/playlist.m3u8#t=12368,12658",
+        "sourcePage": "https://www.landtag.nrw.de/home/mediathek/video.html?kid=16904f0f-9e3d-4b7c-a9a2-ad09bd26ac69&top-redner-id=15964",
+        "creator": "Landtag Nordrhein-Westfalen",
+        "license": "Landtag Nordrhein-Westfalen – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; Quellenangabe \"Landtag Nordrhein-Westfalen\". https://www.landtag.nrw.de/home/footer/impressum.html",
+        "originMediaID": "15964",
+        "additionalInformation": {
+          "startOffset": 12368.0,
+          "endOffset": 12658.0
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-video-page",
+        "kid": "16904f0f-9e3d-4b7c-a9a2-ad09bd26ac69",
+        "topRednerID": "15964",
+        "topNumber": "5",
+        "mdlId": "01818",
+        "funktionId": "",
+        "rednerRaw": "Dilek Engin",
+        "fraktionRaw": "SPD",
+        "funktionRaw": "",
+        "startOffset": 12368,
+        "endOffset": 12658,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NW",
+      "electoralPeriod": {
+        "number": 18
+      },
+      "session": {
+        "number": 117,
+        "dateStart": "2026-01-30T10:00:00+02:00",
+        "dateEnd": "2026-01-30T14:07:42+02:00"
+      },
+      "dateStart": "2026-01-30T13:30:58+02:00",
+      "dateEnd": "2026-01-30T13:36:28+02:00",
+      "speechIndex": 40,
+      "originID": "18117-15965",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 5: Bildungschancen in Nordrhein-Westfalen",
+        "title": "Bildungschancen in Nordrhein-Westfalen",
+        "id": "TOP-5",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Eileen Woestmann",
+          "context": "main-speaker",
+          "firstname": "Eileen",
+          "lastname": "Woestmann",
+          "originPersonID": "01867",
+          "faction": {
+            "label": "Bündnis 90/Die Grünen",
+            "wid": "Q49766"
+          }
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://www.landtag.nrw.de/videos/16904f0f-9e3d-4b7c-a9a2-ad09bd26ac69/playlist.m3u8#t=12658,12988",
+        "sourcePage": "https://www.landtag.nrw.de/home/mediathek/video.html?kid=16904f0f-9e3d-4b7c-a9a2-ad09bd26ac69&top-redner-id=15965",
+        "creator": "Landtag Nordrhein-Westfalen",
+        "license": "Landtag Nordrhein-Westfalen – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; Quellenangabe \"Landtag Nordrhein-Westfalen\". https://www.landtag.nrw.de/home/footer/impressum.html",
+        "originMediaID": "15965",
+        "additionalInformation": {
+          "startOffset": 12658.0,
+          "endOffset": 12988.0
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-video-page",
+        "kid": "16904f0f-9e3d-4b7c-a9a2-ad09bd26ac69",
+        "topRednerID": "15965",
+        "topNumber": "5",
+        "mdlId": "01867",
+        "funktionId": "",
+        "rednerRaw": "Eileen Woestmann",
+        "fraktionRaw": "Bündnis 90/Die Grünen",
+        "funktionRaw": "",
+        "startOffset": 12658,
+        "endOffset": 12988,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NW",
+      "electoralPeriod": {
+        "number": 18
+      },
+      "session": {
+        "number": 117,
+        "dateStart": "2026-01-30T10:00:00+02:00",
+        "dateEnd": "2026-01-30T14:07:42+02:00"
+      },
+      "dateStart": "2026-01-30T13:36:28+02:00",
+      "dateEnd": "2026-01-30T13:41:51+02:00",
+      "speechIndex": 41,
+      "originID": "18117-15966",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 5: Bildungschancen in Nordrhein-Westfalen",
+        "title": "Bildungschancen in Nordrhein-Westfalen",
+        "id": "TOP-5",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Carlo Clemens",
+          "context": "main-speaker",
+          "firstname": "Carlo",
+          "lastname": "Clemens",
+          "originPersonID": "01811",
+          "faction": {
+            "label": "AfD",
+            "wid": "Q6721203"
+          },
+          "wid": "Q107622886",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://www.landtag.nrw.de/videos/16904f0f-9e3d-4b7c-a9a2-ad09bd26ac69/playlist.m3u8#t=12988,13311",
+        "sourcePage": "https://www.landtag.nrw.de/home/mediathek/video.html?kid=16904f0f-9e3d-4b7c-a9a2-ad09bd26ac69&top-redner-id=15966",
+        "creator": "Landtag Nordrhein-Westfalen",
+        "license": "Landtag Nordrhein-Westfalen – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; Quellenangabe \"Landtag Nordrhein-Westfalen\". https://www.landtag.nrw.de/home/footer/impressum.html",
+        "originMediaID": "15966",
+        "additionalInformation": {
+          "startOffset": 12988.0,
+          "endOffset": 13311.0
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-video-page",
+        "kid": "16904f0f-9e3d-4b7c-a9a2-ad09bd26ac69",
+        "topRednerID": "15966",
+        "topNumber": "5",
+        "mdlId": "01811",
+        "funktionId": "",
+        "rednerRaw": "Carlo Clemens",
+        "fraktionRaw": "AfD",
+        "funktionRaw": "",
+        "startOffset": 12988,
+        "endOffset": 13311,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NW",
+      "electoralPeriod": {
+        "number": 18
+      },
+      "session": {
+        "number": 117,
+        "dateStart": "2026-01-30T10:00:00+02:00",
+        "dateEnd": "2026-01-30T14:07:42+02:00"
+      },
+      "dateStart": "2026-01-30T13:41:51+02:00",
+      "dateEnd": "2026-01-30T13:44:36+02:00",
+      "speechIndex": 42,
+      "originID": "18117-15967",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 5: Bildungschancen in Nordrhein-Westfalen",
+        "title": "Bildungschancen in Nordrhein-Westfalen",
+        "id": "TOP-5",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Verena Schäffer",
+          "context": "main-speaker",
+          "firstname": "Verena",
+          "lastname": "Schäffer",
+          "role": "Ministerin",
+          "originPersonID": "01589",
+          "faction": {
+            "label": "Bündnis 90/Die Grünen",
+            "wid": "Q49766"
+          },
+          "wid": "Q1575138",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://www.landtag.nrw.de/videos/16904f0f-9e3d-4b7c-a9a2-ad09bd26ac69/playlist.m3u8#t=13311,13476",
+        "sourcePage": "https://www.landtag.nrw.de/home/mediathek/video.html?kid=16904f0f-9e3d-4b7c-a9a2-ad09bd26ac69&top-redner-id=15967",
+        "creator": "Landtag Nordrhein-Westfalen",
+        "license": "Landtag Nordrhein-Westfalen – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; Quellenangabe \"Landtag Nordrhein-Westfalen\". https://www.landtag.nrw.de/home/footer/impressum.html",
+        "originMediaID": "15967",
+        "additionalInformation": {
+          "startOffset": 13311.0,
+          "endOffset": 13476.0
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-video-page",
+        "kid": "16904f0f-9e3d-4b7c-a9a2-ad09bd26ac69",
+        "topRednerID": "15967",
+        "topNumber": "5",
+        "mdlId": "01589",
+        "funktionId": "",
+        "rednerRaw": "Verena Schäffer",
+        "fraktionRaw": "Bündnis 90/Die Grünen",
+        "funktionRaw": "Ministerin",
+        "startOffset": 13311,
+        "endOffset": 13476,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NW",
+      "electoralPeriod": {
+        "number": 18
+      },
+      "session": {
+        "number": 117,
+        "dateStart": "2026-01-30T10:00:00+02:00",
+        "dateEnd": "2026-01-30T14:07:42+02:00"
+      },
+      "dateStart": "2026-01-30T13:44:36+02:00",
+      "dateEnd": "2026-01-30T13:49:04+02:00",
+      "speechIndex": 43,
+      "originID": "18117-15969",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 6: Zwangsmitgliedschaft in der Pflegekammer NRW beenden: Freiwilligkeit statt staatlichem Zwang",
+        "title": "Zwangsmitgliedschaft in der Pflegekammer NRW beenden: Freiwilligkeit statt staatlichem Zwang",
+        "id": "TOP-6",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Martin Vincentz",
+          "context": "main-speaker",
+          "firstname": "Martin",
+          "lastname": "Vincentz",
+          "originPersonID": "01780",
+          "faction": {
+            "label": "AfD",
+            "wid": "Q6721203"
+          },
+          "wid": "Q29959870",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://www.landtag.nrw.de/videos/16904f0f-9e3d-4b7c-a9a2-ad09bd26ac69/playlist.m3u8#t=13476,13744",
+        "sourcePage": "https://www.landtag.nrw.de/home/mediathek/video.html?kid=16904f0f-9e3d-4b7c-a9a2-ad09bd26ac69&top-redner-id=15969",
+        "creator": "Landtag Nordrhein-Westfalen",
+        "license": "Landtag Nordrhein-Westfalen – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; Quellenangabe \"Landtag Nordrhein-Westfalen\". https://www.landtag.nrw.de/home/footer/impressum.html",
+        "originMediaID": "15969",
+        "additionalInformation": {
+          "startOffset": 13476.0,
+          "endOffset": 13744.0
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-video-page",
+        "kid": "16904f0f-9e3d-4b7c-a9a2-ad09bd26ac69",
+        "topRednerID": "15969",
+        "topNumber": "6",
+        "mdlId": "01780",
+        "funktionId": "",
+        "rednerRaw": "Dr. Martin Vincentz",
+        "fraktionRaw": "AfD",
+        "funktionRaw": "",
+        "startOffset": 13476,
+        "endOffset": 13744,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NW",
+      "electoralPeriod": {
+        "number": 18
+      },
+      "session": {
+        "number": 117,
+        "dateStart": "2026-01-30T10:00:00+02:00",
+        "dateEnd": "2026-01-30T14:07:42+02:00"
+      },
+      "dateStart": "2026-01-30T13:49:04+02:00",
+      "dateEnd": "2026-01-30T13:52:57+02:00",
+      "speechIndex": 44,
+      "originID": "18117-15970",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 6: Zwangsmitgliedschaft in der Pflegekammer NRW beenden: Freiwilligkeit statt staatlichem Zwang",
+        "title": "Zwangsmitgliedschaft in der Pflegekammer NRW beenden: Freiwilligkeit statt staatlichem Zwang",
+        "id": "TOP-6",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Guido Görtz",
+          "context": "main-speaker",
+          "firstname": "Guido",
+          "lastname": "Görtz",
+          "originPersonID": "01825",
+          "faction": {
+            "label": "CDU",
+            "wid": "Q49762"
+          }
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://www.landtag.nrw.de/videos/16904f0f-9e3d-4b7c-a9a2-ad09bd26ac69/playlist.m3u8#t=13744,13977",
+        "sourcePage": "https://www.landtag.nrw.de/home/mediathek/video.html?kid=16904f0f-9e3d-4b7c-a9a2-ad09bd26ac69&top-redner-id=15970",
+        "creator": "Landtag Nordrhein-Westfalen",
+        "license": "Landtag Nordrhein-Westfalen – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; Quellenangabe \"Landtag Nordrhein-Westfalen\". https://www.landtag.nrw.de/home/footer/impressum.html",
+        "originMediaID": "15970",
+        "additionalInformation": {
+          "startOffset": 13744.0,
+          "endOffset": 13977.0
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-video-page",
+        "kid": "16904f0f-9e3d-4b7c-a9a2-ad09bd26ac69",
+        "topRednerID": "15970",
+        "topNumber": "6",
+        "mdlId": "01825",
+        "funktionId": "",
+        "rednerRaw": "Guido Görtz",
+        "fraktionRaw": "CDU",
+        "funktionRaw": "",
+        "startOffset": 13744,
+        "endOffset": 13977,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NW",
+      "electoralPeriod": {
+        "number": 18
+      },
+      "session": {
+        "number": 117,
+        "dateStart": "2026-01-30T10:00:00+02:00",
+        "dateEnd": "2026-01-30T14:07:42+02:00"
+      },
+      "dateStart": "2026-01-30T13:52:57+02:00",
+      "dateEnd": "2026-01-30T13:57:03+02:00",
+      "speechIndex": 45,
+      "originID": "18117-15971",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 6: Zwangsmitgliedschaft in der Pflegekammer NRW beenden: Freiwilligkeit statt staatlichem Zwang",
+        "title": "Zwangsmitgliedschaft in der Pflegekammer NRW beenden: Freiwilligkeit statt staatlichem Zwang",
+        "id": "TOP-6",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Christina Weng",
+          "context": "main-speaker",
+          "firstname": "Christina",
+          "lastname": "Weng",
+          "originPersonID": "01787",
+          "faction": {
+            "label": "SPD",
+            "wid": "Q49768"
+          },
+          "wid": "Q29956324",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://www.landtag.nrw.de/videos/16904f0f-9e3d-4b7c-a9a2-ad09bd26ac69/playlist.m3u8#t=13977,14223",
+        "sourcePage": "https://www.landtag.nrw.de/home/mediathek/video.html?kid=16904f0f-9e3d-4b7c-a9a2-ad09bd26ac69&top-redner-id=15971",
+        "creator": "Landtag Nordrhein-Westfalen",
+        "license": "Landtag Nordrhein-Westfalen – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; Quellenangabe \"Landtag Nordrhein-Westfalen\". https://www.landtag.nrw.de/home/footer/impressum.html",
+        "originMediaID": "15971",
+        "additionalInformation": {
+          "startOffset": 13977.0,
+          "endOffset": 14223.0
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-video-page",
+        "kid": "16904f0f-9e3d-4b7c-a9a2-ad09bd26ac69",
+        "topRednerID": "15971",
+        "topNumber": "6",
+        "mdlId": "01787",
+        "funktionId": "",
+        "rednerRaw": "Christina Weng",
+        "fraktionRaw": "SPD",
+        "funktionRaw": "",
+        "startOffset": 13977,
+        "endOffset": 14223,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NW",
+      "electoralPeriod": {
+        "number": 18
+      },
+      "session": {
+        "number": 117,
+        "dateStart": "2026-01-30T10:00:00+02:00",
+        "dateEnd": "2026-01-30T14:07:42+02:00"
+      },
+      "dateStart": "2026-01-30T13:57:03+02:00",
+      "dateEnd": "2026-01-30T13:59:01+02:00",
+      "speechIndex": 46,
+      "originID": "18117-15972",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 6: Zwangsmitgliedschaft in der Pflegekammer NRW beenden: Freiwilligkeit statt staatlichem Zwang",
+        "title": "Zwangsmitgliedschaft in der Pflegekammer NRW beenden: Freiwilligkeit statt staatlichem Zwang",
+        "id": "TOP-6",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Mehrdad Mostofizadeh",
+          "context": "main-speaker",
+          "firstname": "Mehrdad",
+          "lastname": "Mostofizadeh",
+          "originPersonID": "01579",
+          "faction": {
+            "label": "Bündnis 90/Die Grünen",
+            "wid": "Q49766"
+          },
+          "wid": "Q1917412",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://www.landtag.nrw.de/videos/16904f0f-9e3d-4b7c-a9a2-ad09bd26ac69/playlist.m3u8#t=14223,14341",
+        "sourcePage": "https://www.landtag.nrw.de/home/mediathek/video.html?kid=16904f0f-9e3d-4b7c-a9a2-ad09bd26ac69&top-redner-id=15972",
+        "creator": "Landtag Nordrhein-Westfalen",
+        "license": "Landtag Nordrhein-Westfalen – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; Quellenangabe \"Landtag Nordrhein-Westfalen\". https://www.landtag.nrw.de/home/footer/impressum.html",
+        "originMediaID": "15972",
+        "additionalInformation": {
+          "startOffset": 14223.0,
+          "endOffset": 14341.0
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-video-page",
+        "kid": "16904f0f-9e3d-4b7c-a9a2-ad09bd26ac69",
+        "topRednerID": "15972",
+        "topNumber": "6",
+        "mdlId": "01579",
+        "funktionId": "",
+        "rednerRaw": "Mehrdad Mostofizadeh",
+        "fraktionRaw": "Bündnis 90/Die Grünen",
+        "funktionRaw": "",
+        "startOffset": 14223,
+        "endOffset": 14341,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NW",
+      "electoralPeriod": {
+        "number": 18
+      },
+      "session": {
+        "number": 117,
+        "dateStart": "2026-01-30T10:00:00+02:00",
+        "dateEnd": "2026-01-30T14:07:42+02:00"
+      },
+      "dateStart": "2026-01-30T13:59:01+02:00",
+      "dateEnd": "2026-01-30T14:02:06+02:00",
+      "speechIndex": 47,
+      "originID": "18117-15973",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 6: Zwangsmitgliedschaft in der Pflegekammer NRW beenden: Freiwilligkeit statt staatlichem Zwang",
+        "title": "Zwangsmitgliedschaft in der Pflegekammer NRW beenden: Freiwilligkeit statt staatlichem Zwang",
+        "id": "TOP-6",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Franziska Müller-Rech",
+          "context": "main-speaker",
+          "firstname": "Franziska",
+          "lastname": "Müller-Rech",
+          "originPersonID": "01748",
+          "faction": {
+            "label": "FDP",
+            "wid": "Q13124"
+          },
+          "wid": "Q30069482",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://www.landtag.nrw.de/videos/16904f0f-9e3d-4b7c-a9a2-ad09bd26ac69/playlist.m3u8#t=14341,14526",
+        "sourcePage": "https://www.landtag.nrw.de/home/mediathek/video.html?kid=16904f0f-9e3d-4b7c-a9a2-ad09bd26ac69&top-redner-id=15973",
+        "creator": "Landtag Nordrhein-Westfalen",
+        "license": "Landtag Nordrhein-Westfalen – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; Quellenangabe \"Landtag Nordrhein-Westfalen\". https://www.landtag.nrw.de/home/footer/impressum.html",
+        "originMediaID": "15973",
+        "additionalInformation": {
+          "startOffset": 14341.0,
+          "endOffset": 14526.0
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-video-page",
+        "kid": "16904f0f-9e3d-4b7c-a9a2-ad09bd26ac69",
+        "topRednerID": "15973",
+        "topNumber": "6",
+        "mdlId": "01748",
+        "funktionId": "",
+        "rednerRaw": "Franziska Müller-Rech",
+        "fraktionRaw": "FDP",
+        "funktionRaw": "",
+        "startOffset": 14341,
+        "endOffset": 14526,
+        "timesAreVideoRelative": false
+      }
+    },
+    {
+      "parliament": "DE-NW",
+      "electoralPeriod": {
+        "number": 18
+      },
+      "session": {
+        "number": 117,
+        "dateStart": "2026-01-30T10:00:00+02:00",
+        "dateEnd": "2026-01-30T14:07:42+02:00"
+      },
+      "dateStart": "2026-01-30T14:02:06+02:00",
+      "dateEnd": "2026-01-30T14:07:42+02:00",
+      "speechIndex": 48,
+      "originID": "18117-15974",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 6: Zwangsmitgliedschaft in der Pflegekammer NRW beenden: Freiwilligkeit statt staatlichem Zwang",
+        "title": "Zwangsmitgliedschaft in der Pflegekammer NRW beenden: Freiwilligkeit statt staatlichem Zwang",
+        "id": "TOP-6",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Karl-Josef Laumann",
+          "context": "main-speaker",
+          "firstname": "Karl-Josef",
+          "lastname": "Laumann",
+          "role": "Minister",
+          "originPersonID": "01526",
+          "faction": {
+            "label": "CDU",
+            "wid": "Q49762"
+          },
+          "wid": "Q87352",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://www.landtag.nrw.de/videos/16904f0f-9e3d-4b7c-a9a2-ad09bd26ac69/playlist.m3u8#t=14526,14862",
+        "sourcePage": "https://www.landtag.nrw.de/home/mediathek/video.html?kid=16904f0f-9e3d-4b7c-a9a2-ad09bd26ac69&top-redner-id=15974",
+        "creator": "Landtag Nordrhein-Westfalen",
+        "license": "Landtag Nordrhein-Westfalen – die Aufzeichnungen dürfen zu nicht kommerziellen Zwecken (politische Berichterstattung, Bildung) genutzt werden; Quellenangabe \"Landtag Nordrhein-Westfalen\". https://www.landtag.nrw.de/home/footer/impressum.html",
+        "originMediaID": "15974",
+        "additionalInformation": {
+          "startOffset": 14526.0,
+          "endOffset": 14862.0
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "mediathek-video-page",
+        "kid": "16904f0f-9e3d-4b7c-a9a2-ad09bd26ac69",
+        "topRednerID": "15974",
+        "topNumber": "6",
+        "mdlId": "01526",
+        "funktionId": "",
+        "rednerRaw": "Karl-Josef Laumann",
+        "fraktionRaw": "CDU",
+        "funktionRaw": "Minister",
+        "startOffset": 14526,
+        "endOffset": 14862,
+        "timesAreVideoRelative": false
+      }
+    }
+  ]
+}
