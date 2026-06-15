@@ -1,21 +1,17 @@
 {
   "meta": {
     "schemaVersion": "1.0",
-    "parliament": "DE-NW",
-    "electoralPeriod": {
-      "number": 18
-    },
     "session": "18117",
     "dateStart": "2026-01-30T10:00:00+02:00",
     "dateEnd": "2026-01-30T14:07:42+02:00",
-    "sourceURI": "https://www.landtag.nrw.de/home/mediathek/video.html?kid=16904f0f-9e3d-4b7c-a9a2-ad09bd26ac69",
+    "lastProcessing": "align",
+    "lastUpdate": "2026-06-14T07:56:18",
     "processing": {
       "parse_media": "2026-06-14T09:52:38",
       "merge": "2026-06-14T09:52:43",
       "align": "2026-06-14T07:56:18"
     },
-    "lastUpdate": "2026-06-14T07:56:18",
-    "lastProcessing": "align"
+    "sourceURI": "https://www.landtag.nrw.de/home/mediathek/video.html?kid=16904f0f-9e3d-4b7c-a9a2-ad09bd26ac69"
   },
   "data": [
     {
@@ -638,7 +634,7 @@
         "proceedingIndex": 1,
         "proceedingTextID": "u18117_1",
         "confidence": 1.0,
-        "align-duration": 1.422677993774414
+        "alignDuration": 1.422677993774414
       }
     },
     {
@@ -1151,7 +1147,7 @@
         "proceedingIndex": 2,
         "proceedingTextID": "u18117_4",
         "confidence": 1.0,
-        "align-duration": 1.0663197040557861
+        "alignDuration": 1.0663197040557861
       }
     },
     {
@@ -1725,7 +1721,7 @@
         "proceedingIndex": 3,
         "proceedingTextID": "u18117_6",
         "confidence": 1.0,
-        "align-duration": 0.9406569004058838
+        "alignDuration": 0.9406569004058838
       }
     },
     {
@@ -2406,7 +2402,7 @@
         "proceedingIndex": 4,
         "proceedingTextID": "u18117_8",
         "confidence": 1.0,
-        "align-duration": 1.31784987449646
+        "alignDuration": 1.31784987449646
       }
     },
     {
@@ -3059,7 +3055,7 @@
         "proceedingIndex": 5,
         "proceedingTextID": "u18117_10",
         "confidence": 1.0,
-        "align-duration": 1.245481014251709
+        "alignDuration": 1.245481014251709
       }
     },
     {
@@ -3750,7 +3746,7 @@
         "proceedingIndex": 6,
         "proceedingTextID": "u18117_12",
         "confidence": 1.0,
-        "align-duration": 1.1833159923553467
+        "alignDuration": 1.1833159923553467
       }
     },
     {
@@ -4221,7 +4217,7 @@
         "proceedingIndex": 7,
         "proceedingTextID": "u18117_14",
         "confidence": 1.0,
-        "align-duration": 1.041957139968872
+        "alignDuration": 1.041957139968872
       }
     },
     {
@@ -4558,7 +4554,7 @@
         "proceedingIndex": 8,
         "proceedingTextID": "u18117_16",
         "confidence": 1.0,
-        "align-duration": 0.8704462051391602
+        "alignDuration": 0.8704462051391602
       }
     },
     {
@@ -5014,7 +5010,7 @@
         "proceedingIndex": 9,
         "proceedingTextID": "u18117_18",
         "confidence": 1.0,
-        "align-duration": 1.00801420211792
+        "alignDuration": 1.00801420211792
       }
     },
     {
@@ -5686,7 +5682,7 @@
         "proceedingIndex": 10,
         "proceedingTextID": "u18117_20",
         "confidence": 1.0,
-        "align-duration": 1.089834213256836
+        "alignDuration": 1.089834213256836
       }
     },
     {
@@ -5994,7 +5990,7 @@
         "proceedingIndex": 11,
         "proceedingTextID": "u18117_22",
         "confidence": 1.0,
-        "align-duration": 0.489177942276001
+        "alignDuration": 0.489177942276001
       }
     },
     {
@@ -6413,7 +6409,7 @@
         "proceedingIndex": 12,
         "proceedingTextID": "u18117_24",
         "confidence": 1.0,
-        "align-duration": 0.7841899394989014
+        "alignDuration": 0.7841899394989014
       }
     },
     {
@@ -6560,7 +6556,7 @@
         "proceedingIndex": 14,
         "proceedingTextID": "u18117_28",
         "confidence": 1.0,
-        "align-duration": 0.711251974105835
+        "alignDuration": 0.711251974105835
       }
     },
     {
@@ -7434,7 +7430,7 @@
         "proceedingIndex": 15,
         "proceedingTextID": "u18117_30",
         "confidence": 1.0,
-        "align-duration": 1.2189068794250488
+        "alignDuration": 1.2189068794250488
       }
     },
     {
@@ -7921,7 +7917,7 @@
         "proceedingIndex": 16,
         "proceedingTextID": "u18117_32",
         "confidence": 1.0,
-        "align-duration": 1.1029996871948242
+        "alignDuration": 1.1029996871948242
       }
     },
     {
@@ -8502,7 +8498,7 @@
         "proceedingIndex": 17,
         "proceedingTextID": "u18117_34",
         "confidence": 1.0,
-        "align-duration": 0.9590141773223877
+        "alignDuration": 0.9590141773223877
       }
     },
     {
@@ -8665,7 +8661,7 @@
         "proceedingIndex": 22,
         "proceedingTextID": "u18117_44",
         "confidence": 1.0,
-        "align-duration": 0.751410961151123
+        "alignDuration": 0.751410961151123
       }
     },
     {
@@ -9175,7 +9171,7 @@
         "proceedingIndex": 23,
         "proceedingTextID": "u18117_46",
         "confidence": 1.0,
-        "align-duration": 1.0720160007476807
+        "alignDuration": 1.0720160007476807
       }
     },
     {
@@ -9625,7 +9621,7 @@
         "proceedingIndex": 24,
         "proceedingTextID": "u18117_48",
         "confidence": 1.0,
-        "align-duration": 1.065507173538208
+        "alignDuration": 1.065507173538208
       }
     },
     {
@@ -10098,7 +10094,7 @@
         "proceedingIndex": 25,
         "proceedingTextID": "u18117_50",
         "confidence": 1.0,
-        "align-duration": 1.0756301879882812
+        "alignDuration": 1.0756301879882812
       }
     },
     {
@@ -10278,7 +10274,7 @@
         "proceedingIndex": 26,
         "proceedingTextID": "u18117_52",
         "confidence": 1.0,
-        "align-duration": 0.4354128837585449
+        "alignDuration": 0.4354128837585449
       }
     },
     {
@@ -10503,7 +10499,7 @@
         "proceedingIndex": 27,
         "proceedingTextID": "u18117_54",
         "confidence": 1.0,
-        "align-duration": 0.5548582077026367
+        "alignDuration": 0.5548582077026367
       }
     },
     {
@@ -10910,7 +10906,7 @@
         "proceedingIndex": 28,
         "proceedingTextID": "u18117_56",
         "confidence": 1.0,
-        "align-duration": 1.031675100326538
+        "alignDuration": 1.031675100326538
       }
     },
     {
@@ -11292,7 +11288,7 @@
         "proceedingIndex": 29,
         "proceedingTextID": "u18117_58",
         "confidence": 1.0,
-        "align-duration": 0.929908037185669
+        "alignDuration": 0.929908037185669
       }
     },
     {
@@ -11894,7 +11890,7 @@
         "proceedingIndex": 30,
         "proceedingTextID": "u18117_60",
         "confidence": 1.0,
-        "align-duration": 1.0453507900238037
+        "alignDuration": 1.0453507900238037
       }
     },
     {
@@ -12244,7 +12240,7 @@
         "proceedingIndex": 31,
         "proceedingTextID": "u18117_62",
         "confidence": 1.0,
-        "align-duration": 0.8438417911529541
+        "alignDuration": 0.8438417911529541
       }
     },
     {
@@ -12602,7 +12598,7 @@
         "proceedingIndex": 32,
         "proceedingTextID": "u18117_64",
         "confidence": 1.0,
-        "align-duration": 0.9075160026550293
+        "alignDuration": 0.9075160026550293
       }
     },
     {
@@ -12968,7 +12964,7 @@
         "proceedingIndex": 33,
         "proceedingTextID": "u18117_66",
         "confidence": 1.0,
-        "align-duration": 1.0598781108856201
+        "alignDuration": 1.0598781108856201
       }
     },
     {
@@ -13288,7 +13284,7 @@
         "proceedingIndex": 34,
         "proceedingTextID": "u18117_68",
         "confidence": 1.0,
-        "align-duration": 0.9000089168548584
+        "alignDuration": 0.9000089168548584
       }
     },
     {
@@ -13687,7 +13683,7 @@
         "proceedingIndex": 35,
         "proceedingTextID": "u18117_70",
         "confidence": 1.0,
-        "align-duration": 0.8843941688537598
+        "alignDuration": 0.8843941688537598
       }
     },
     {
@@ -14042,7 +14038,7 @@
         "proceedingIndex": 36,
         "proceedingTextID": "u18117_72",
         "confidence": 1.0,
-        "align-duration": 0.8164451122283936
+        "alignDuration": 0.8164451122283936
       }
     },
     {
@@ -14499,7 +14495,7 @@
         "proceedingIndex": 37,
         "proceedingTextID": "u18117_74",
         "confidence": 1.0,
-        "align-duration": 0.9389729499816895
+        "alignDuration": 0.9389729499816895
       }
     },
     {
@@ -14824,7 +14820,7 @@
         "proceedingIndex": 38,
         "proceedingTextID": "u18117_76",
         "confidence": 1.0,
-        "align-duration": 0.784447431564331
+        "alignDuration": 0.784447431564331
       }
     },
     {
@@ -15503,7 +15499,7 @@
         "proceedingIndex": 39,
         "proceedingTextID": "u18117_78",
         "confidence": 1.0,
-        "align-duration": 1.2033779621124268
+        "alignDuration": 1.2033779621124268
       }
     },
     {
@@ -15865,7 +15861,7 @@
         "proceedingIndex": 40,
         "proceedingTextID": "u18117_80",
         "confidence": 1.0,
-        "align-duration": 0.7174229621887207
+        "alignDuration": 0.7174229621887207
       }
     },
     {
@@ -16280,7 +16276,7 @@
         "proceedingIndex": 41,
         "proceedingTextID": "u18117_82",
         "confidence": 1.0,
-        "align-duration": 0.9429090023040771
+        "alignDuration": 0.9429090023040771
       }
     },
     {
@@ -16697,7 +16693,7 @@
         "proceedingIndex": 42,
         "proceedingTextID": "u18117_84",
         "confidence": 1.0,
-        "align-duration": 0.9406859874725342
+        "alignDuration": 0.9406859874725342
       }
     },
     {
@@ -17110,7 +17106,7 @@
         "proceedingIndex": 43,
         "proceedingTextID": "u18117_86",
         "confidence": 1.0,
-        "align-duration": 0.9005639553070068
+        "alignDuration": 0.9005639553070068
       }
     },
     {
@@ -17592,7 +17588,7 @@
         "proceedingIndex": 44,
         "proceedingTextID": "u18117_88",
         "confidence": 1.0,
-        "align-duration": 0.9691779613494873
+        "alignDuration": 0.9691779613494873
       }
     },
     {
@@ -17898,7 +17894,7 @@
         "proceedingIndex": 45,
         "proceedingTextID": "u18117_90",
         "confidence": 1.0,
-        "align-duration": 0.9671123027801514
+        "alignDuration": 0.9671123027801514
       }
     },
     {
@@ -18120,7 +18116,7 @@
         "proceedingIndex": 46,
         "proceedingTextID": "u18117_92",
         "confidence": 1.0,
-        "align-duration": 0.6514072418212891
+        "alignDuration": 0.6514072418212891
       }
     },
     {
@@ -18453,7 +18449,7 @@
         "proceedingIndex": 48,
         "proceedingTextID": "u18117_96",
         "confidence": 1.0,
-        "align-duration": 0.8920547962188721
+        "alignDuration": 0.8920547962188721
       }
     },
     {
@@ -18748,7 +18744,7 @@
         "proceedingIndex": 49,
         "proceedingTextID": "u18117_98",
         "confidence": 1.0,
-        "align-duration": 0.7783718109130859
+        "alignDuration": 0.7783718109130859
       }
     },
     {
@@ -18981,7 +18977,7 @@
         "proceedingIndex": 50,
         "proceedingTextID": "u18117_100",
         "confidence": 1.0,
-        "align-duration": 0.7610039710998535
+        "alignDuration": 0.7610039710998535
       }
     },
     {
@@ -19201,7 +19197,7 @@
         "proceedingIndex": 51,
         "proceedingTextID": "u18117_102",
         "confidence": 1.0,
-        "align-duration": 0.5170025825500488
+        "alignDuration": 0.5170025825500488
       }
     },
     {
@@ -19469,7 +19465,7 @@
         "proceedingIndex": 52,
         "proceedingTextID": "u18117_104",
         "confidence": 1.0,
-        "align-duration": 0.6800777912139893
+        "alignDuration": 0.6800777912139893
       }
     },
     {
@@ -19897,7 +19893,7 @@
         "proceedingIndex": 53,
         "proceedingTextID": "u18117_106",
         "confidence": 1.0,
-        "align-duration": 1.0235462188720703
+        "alignDuration": 1.0235462188720703
       }
     }
   ]
